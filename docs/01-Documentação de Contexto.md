@@ -52,9 +52,8 @@ Como objetivos específicos, podemos ressaltar:
 ## Justificativa
 
 A criação desta plataforma digital pode contribuir para os seguintes aspectos:
-
-•	Promoção e centralização de micro e pequenas empresas em apenas uma plataforma digital voltada ao Slow Fashion, facilitando a conexão entre consumidores e fornecedores, consequentemente, aumentando sua visualização no mercado;
-•	Fortalecimento da economia local, à medida que a Slow Fashion tem como uma de suas premissas consumir localmente;
+<li><a "Promoção e centralização de micro e pequenas empresas em apenas uma plataforma digital voltada ao Slow Fashion, facilitando a conexão entre consumidores e fornecedores, consequentemente, aumentando sua visualização no mercado;"</a></li>
+<li><a "Fortalecimento da economia local, à medida que a Slow Fashion tem como uma de suas premissas consumir localmente;"</a></li>
 •	Diminuição do impacto ambiental negativo causado pela indústria têxtil/ vestuário, com o aumento pela procura de produtos mais sustentáveis; 
 •	Aumento na divulgação e introdução do termo Slow Fashion no mercado brasileiro, atraindo cada vez mais consumidores conscientes.
 
