@@ -39,10 +39,15 @@ Nesse sentido, seria dado a esse consumidor opções de marcas que atendessem a 
 O objetivo geral é a criação de uma plataforma digital destinada a pequenos e microempreendedores para comercialização e divulgação de produtos da indústria de vestuário e acessórios, que se encontrem no contexto da Slow Fashion.
 
 Como objetivos específicos, podemos ressaltar:
+
 •	Fornecer ferramentas que permitam ao cliente ter a melhor experiência de compra de forma atualizada com as tendências do momento.
+
 •	Permitir que o gestor do empreendimento tenha diversas maneiras de analisar dados para tomada de decisões.
+
 •	Inserir as mais eficientes ferramentas de marketing que permitam mostrar aos clientes as ações desenvolvidas pela empresa.
+
 •	Facilitar o contato entre a empresa e os clientes com disparo automatizado de SMS, WhatsApp, e-mail ou até mesmo cartas nativamente no sistema.
+
 •	Disponibilizar diversas formas nativas de pagamento tais como boletos, parcelamento em cartão de crédito e pix além de uma ferramenta de conciliação financeira.
 
  
@@ -54,7 +59,9 @@ Como objetivos específicos, podemos ressaltar:
 A criação desta plataforma digital pode contribuir para os seguintes aspectos:
 <li><a "Promoção e centralização de micro e pequenas empresas em apenas uma plataforma digital voltada ao Slow Fashion, facilitando a conexão entre consumidores e fornecedores, consequentemente, aumentando sua visualização no mercado;"</a></li>
 <li><a "Fortalecimento da economia local, à medida que a Slow Fashion tem como uma de suas premissas consumir localmente;"</a></li>
+
 •	Diminuição do impacto ambiental negativo causado pela indústria têxtil/ vestuário, com o aumento pela procura de produtos mais sustentáveis; 
+
 •	Aumento na divulgação e introdução do termo Slow Fashion no mercado brasileiro, atraindo cada vez mais consumidores conscientes.
 
 
