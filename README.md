@@ -11,7 +11,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 * Lucas Andrade de Azevedo
-* Nome completo do aluno 2
+* Maria Luiza Silva Lacerda
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
