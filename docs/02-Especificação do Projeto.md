@@ -27,12 +27,13 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`          |PARA ... `MOTIVO/VALOR`                                                                |
-|--------------------|---------------------------------------------|---------------------------------------------------------------------------------------|
-|Carla Dantas        | realizar vendas online dos meus artesanatos | aumentar minhas vendas                                                                |
-|Carla Dantas        | expor meus produtos                         | conheçam meu trabalho e alcance o maior número de pessoas interessadas em comprá-los  |
-|Carla Dantas        | instigar o uso de roupas Slow fashion       | redução de danos no ecossistema                                                       |
-|Marina Prado        | poder realizar uma pesquisa sobre produtos específicos em um único lugar|  localizar com mais facilidade itens que sejam do meu interesse |                                                                                      |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                      |PARA ... `MOTIVO/VALOR`                                                                |
+|--------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+|Carla Dantas        | realizar vendas online dos meus artesanatos                             | aumentar minhas vendas                                                                |
+|Carla Dantas        | expor meus produtos                                                     | conheçam meu trabalho e alcance o maior número de pessoas interessadas em comprá-los  |
+|Carla Dantas        | instigar o uso de roupas Slow fashion                                   | redução de danos no ecossistema                                                       |
+|Marina Prado        | poder realizar uma pesquisa sobre produtos específicos em um único lugar|  localizar com mais facilidade itens que sejam do meu interesse                       |  
+                                                                                    |
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 > **Links Úteis**:
