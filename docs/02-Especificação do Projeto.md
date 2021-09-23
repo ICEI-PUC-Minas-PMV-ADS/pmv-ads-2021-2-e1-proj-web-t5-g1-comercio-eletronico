@@ -7,7 +7,8 @@ As personas levantadas durante o processo de entendimento do problema são apres
 ## Personas
 
 Carla Dantas tem 44 anos, é artesã, tem um pequeno ateliê onde fabrica roupas, bolsas, bonecas, dentre outros produtos artesanais. Utiliza aplicativos como Instagram, Facebook e Blog. O que mais a motiva em sua profissão  é ver as pessoas usando as peças feitas com amor, o artesanato sustentável e a sua renda mensal.
-Seu maior desafio é ter onde expor os produtos para promover suas vendas. “Desde pequena, ficava observando minha avó quando costurava fazer lindas peças. Tempos depois descobri meu talento pela costura e artesanato. Comecei a sentir prazer e necessidade pela costura. E hoje faço com amor como se cada peça fosse para mim.”
+Seu maior desafio é ter onde expor os produtos para promover suas vendas. 
+“Desde pequena, ficava observando minha avó quando costurava fazer lindas peças. Tempos depois descobri meu talento pela costura e artesanato. Comecei a sentir prazer e necessidade pela costura. E hoje faço com amor como se cada peça fosse para mim.”
 
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
