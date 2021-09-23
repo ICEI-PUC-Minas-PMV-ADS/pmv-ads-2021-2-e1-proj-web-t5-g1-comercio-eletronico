@@ -86,14 +86,6 @@ hierárquicas, etc.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
-# Especificação do Projeto
-
-## Personas
-
-As personas levantadas durante o processo de entendimento do problema são apresentadas
-na Figuras que se seguem. 
-
-
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
 > - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
