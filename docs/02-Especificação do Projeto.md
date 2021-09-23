@@ -27,13 +27,24 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                      |PARA ... `MOTIVO/VALOR`                                                                |
-|--------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|Carla Dantas        | realizar vendas online dos meus artesanatos                             | aumentar minhas vendas                                                                |
-|Carla Dantas        | expor meus produtos                                                     | conheçam meu trabalho e alcance o maior número de pessoas interessadas em comprá-los  |
-|Carla Dantas        | instigar o uso de roupas Slow fashion                                   | redução de danos no ecossistema                                                       |
-|Marina Prado        | poder realizar uma pesquisa sobre produtos específicos em um único lugar|  localizar com mais facilidade itens que sejam do meu interesse                       |  
-                                                                                    |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                                                       |PARA ... `MOTIVO/VALOR`                                                                        |
+|--------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|Carla Dantas        | realizar vendas online dos meus artesanatos                                                              | aumentar minhas vendas                                                                        |
+|Carla Dantas        | expor meus produtos                                                                                      | conheçam meu trabalho e alcance o maior número de pessoas interessadas em comprá-los          |
+|Carla Dantas        | instigar o uso de roupas Slow fashion                                                                    | redução de danos no ecossistema                                                               |
+|Marina Prado        | poder realizar uma pesquisa sobre produtos específicos em um único lugar                                 | localizar com mais facilidade itens que sejam do meu interesse                                |  
+|Marina Prado        | poder incluir os produtos do meu interesse em uma lista de favoritos                                     | que seja possível visualizá-los com mais facilidade quando eu quiser                          |
+|Marina Prado        | ter acesso às características principais do produto, como: cor, tamanho, especificações técnicas         | que eu tenha as informações necessárias no momento da compra                                  |
+|Marina Prado	     | ter acesso às informações da loja e do seu processo produtivo	                                        | que eu tenha as informações necessárias no momento da compra                                  |
+|Marina Prado	     | visualizar os selos disponíveis para cada loja	                                                        | que eu consiga selecionar as lojas cujos valores estejam compatíveis com aquilo que eu procuro|
+|Marina Prado        | visualizar as avaliações de outros clientes acerca dos produtos    	                                | avaliar com mais assertividade as qualidades e/ou defeitos dos produtos                       |
+|Marina Prado	     | conseguir acompanhar o andamento do meu pedido 	                                                        | que eu tenha informações relevantes sobre os passos posteriores à compra                      |
+|Luciana Martins     | vender os produtos produzidos por ela mesma em um local que destaque o conceito Hand-made e Slow Fashion | para ganhar dinheiro produzindo algo que ela acredita                                         |
+|Luciana Martins     | ter acesso a um local que privilegia os tópicos conceituais de sua marca                                 | para poder vender seus produtos em um local que reforça seus próprios conceitos               |
+|Luciana Martins     | que o termo Slow fashion seja mais conhecido                                                             | para agregar valor ao seu produto e atrair seu público-alvo específico                        |
+|Luciana Martins     | encontrar uma rede de apoio de empreendedores de Slow fashion	                                        | fortalecer a entrada no mercado de produtos sustentáveis                                      |
+
+                                   
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 > **Links Úteis**:
