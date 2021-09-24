@@ -42,15 +42,15 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 
 A equipe está organizada da seguinte maneira:
--●    Scrum Master: 
--●    Product Owner: 
--●    Equipe de Desenvolvimento
--●    Equipe de Design
+- Scrum Master: 
+- Product Owner: 
+- Equipe de Desenvolvimento
+- Equipe de Design
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas: 
--● 
--● 
--● ...
+-
+-
+- ...
 
 O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/L5GwhGmV/projeto-desenvolvimento-web-e-commerce.
 
