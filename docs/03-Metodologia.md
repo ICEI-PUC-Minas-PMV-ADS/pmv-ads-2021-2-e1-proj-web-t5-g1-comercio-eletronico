@@ -46,7 +46,6 @@ A equipe está organizada da seguinte maneira:
 - Product Owner: 
 - Equipe de Desenvolvimento
 - Equipe de Design
-
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas: 
 -
 -
