@@ -65,7 +65,7 @@ O quadro kanban do grupo no Trello está disponível através da URL https://tre
 ![](trello.png)
 Figura 1 - Tela do kanban (Trello) utilizada pelo grupo
 
-A tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
+As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
 * Documentação                                            
 * Desenvolvimento                                                          
 * Infraestrutura
