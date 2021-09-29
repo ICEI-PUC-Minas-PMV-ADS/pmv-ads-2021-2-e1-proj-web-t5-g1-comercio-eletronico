@@ -70,7 +70,8 @@ A tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem
 * Desenvolvimento                                                          
 * Infraestrutura
 * Testes
-* Gerência de Projetos
+* Gerência de Projeto
+
 ![] (etiquetas.png)
 
 > **Links Úteis**:
