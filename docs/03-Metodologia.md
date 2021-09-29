@@ -52,20 +52,13 @@ A equipe está organizada da seguinte maneira:
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o quadro Kanban (Trello) estruturado com as seguintes listas:
 
--Recursos: Lista de tarefas recorrentes com as configurações padrões que todos devem seguir.
-
--Backlog: Essa lista é onde as tarefas de projetos são alocadas em cartões individuais. A lista também reúne tarefas que o time pode querer trabalhar ou nas quais precisará trabalhar no futuro, mas que ainda estão sendo avaliadas.
-
--To Do: Uma vez que a tarefa foi entendida, ela é movida a essa lista para mostrar à equipe que a tarefa já está pronta para ser executada. A essa altura, um membro da equipe é designado para ser o dono da tarefa e as datas de entrega são estabelecidas.
-
--Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
-
--Test: Checagem de Qualidade. Quando a tarefa está quase concluída, é o momento de movê-la para esta lista para que seja revisada ou que alguém dê uma segunda olhada.
-
--Done: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Pois já foram revisadas e aprovadas, não há mais edições ou revisões necessárias.
-
--Locked: Caso venha existir tarefas que foram impedidas de serem concluídas por algum motivo, deverão ser registradas nessa lista.
-
+- ###Recursos:### Lista de tarefas recorrentes com as configurações padrões que todos devem seguir.
+- Backlog: Essa lista é onde as tarefas de projetos são alocadas em cartões individuais. A lista também reúne tarefas que o time pode querer trabalhar ou nas quais precisará trabalhar no futuro, mas que ainda estão sendo avaliadas.
+- To Do: Uma vez que a tarefa foi entendida, ela é movida a essa lista para mostrar à equipe que a tarefa já está pronta para ser executada. A essa altura, um membro da equipe é designado para ser o dono da tarefa e as datas de entrega são estabelecidas.
+- Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+- Test: Checagem de Qualidade. Quando a tarefa está quase concluída, é o momento de movê-la para esta lista para que seja revisada ou que alguém dê uma segunda olhada.
+- Done: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Pois já foram revisadas e aprovadas, não há mais edições ou revisões necessárias.
+- Locked: Caso venha existir tarefas que foram impedidas de serem concluídas por algum motivo, deverão ser registradas nessa lista.
 
 O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/L5GwhGmV/projeto-desenvolvimento-web-e-commerce.
 
