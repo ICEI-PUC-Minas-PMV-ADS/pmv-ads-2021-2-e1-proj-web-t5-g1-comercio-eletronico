@@ -60,7 +60,9 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 - **Done:** Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Pois já foram revisadas e aprovadas, não há mais edições ou revisões necessárias.
 - **Locked:** Caso venha existir tarefas que foram impedidas de serem concluídas por algum motivo, deverão ser registradas nessa lista.
 
-O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/L5GwhGmV/projeto-desenvolvimento-web-e-commerce.
+O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/L5GwhGmV/projeto-desenvolvimento-web-e-commerce e é apresentado, no estado atual, na Figura 1.
+
+![](trello.png)
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
