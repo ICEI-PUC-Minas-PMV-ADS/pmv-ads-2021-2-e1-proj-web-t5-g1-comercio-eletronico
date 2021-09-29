@@ -1,7 +1,7 @@
 
 # Metodologia
 
-###Relação de Ambientes de Trabalho
+### Relação de Ambientes de Trabalho
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada a seguir. 
 * Repositório de código fonte
