@@ -72,7 +72,7 @@ A tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem
 * Testes
 * Gerência de Projeto
 
-![] (\Documents\GitHub\pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico\docsetiquetas.png)
+![] (\Documents\GitHub\pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico\docs\etiquetas.png)
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
