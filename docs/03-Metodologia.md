@@ -1,9 +1,17 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+###Relação de Ambientes de Trabalho
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada a seguir. 
+* Repositório de código fonte
+   - GitHub: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico
+* Documentos do projeto
+   - Google Docs: https://docs.google.com/document/d/1265JHL8JBO0dWtKnldzmhRNSvhvy2-joxFgG73JVvDw/edit
+* Projeto de Interface 
+   - MarvelApp: https://marvelapp.com/prototype/a6bc5j5/screen/82266300
+* Gerenciamento do Projeto
+   - Trello: https://trello.com/b/L5GwhGmV/projeto-desenvolvimento-web-e-commerce
 
 ## Controle de Versão
 
