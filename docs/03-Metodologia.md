@@ -62,7 +62,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/L5GwhGmV/projeto-desenvolvimento-web-e-commerce e é apresentado, no estado atual, na Figura 1.
 
-![](trello.png)
+![](/docs/trello.png)
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
