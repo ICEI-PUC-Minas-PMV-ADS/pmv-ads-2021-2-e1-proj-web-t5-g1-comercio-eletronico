@@ -45,9 +45,9 @@ A equipe está organizada da seguinte maneira:
 - Scrum Master: Lucas 
 - Product Owner: Cristiane
 - Equipe de Desenvolvimento:
-- Rafaela
-- Ezequiel 
-- Maria Luiza
+     - Rafaela
+     - Ezequiel 
+     - Maria Luiza
 - Equipe de Design : Aline
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o quadro Kanban (Trello) estruturado com as seguintes listas:
@@ -72,7 +72,7 @@ A tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem
 * Testes
 * Gerência de Projeto
 
-![] (etiquetas.png)
+![] (\Documents\GitHub\pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico\docsetiquetas.png)
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
