@@ -50,13 +50,13 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 
 A equipe está organizada da seguinte maneira:
-- Scrum Master: Lucas 
+- Scrum Master:  Cristiane
 - Product Owner: Cristiane
 - Equipe de Desenvolvimento:
      - Rafaela
      - Ezequiel 
      - Maria Luiza
-- Equipe de Design : Aline
+- Equipe de Design : Rafaela
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o quadro Kanban (Trello) estruturado com as seguintes listas:
 
