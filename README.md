@@ -12,7 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Lucas Andrade de Azevedo
 * Maria Luiza Silva Lacerda
-* Nome completo do aluno 3
+* Rafaela C. Souza de Oliveira
 * Nome completo do aluno 4
 
 ## Orientador
