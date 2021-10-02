@@ -31,31 +31,9 @@ A solução implementada conta com os seguintes módulos:
 
 Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
 
-A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
-que o usuário entra na plataforma, ele é apresentado à tela inicial
-(Tela 1) onde ele é confrontado com as opões de editar seu perfil ou
-então visualizar sua galeria.
+A imagem a seguir ilustra a o fluxo do usuário em nossa solução. A imagem a seguir ilustra o fluxo de usuário “consumidor” em nosso site. Assim que o usuário entra no site, ele é apresentado à homepage onde ele tem a opção de fazer login sendo direcionado para outra tela na qual realizará o cadastro de usuário do perfil consumidor. Após fazer o cadastro ele é redirecionado à homepage para visualizar todos os produtos, existem dois modos para apresentação dos produtos, podem ser visualizados por categoria em uma tela ou por loja em outra tela. Ao clicar no produto específico é exibido o detalhamento do item em uma nova tela. O produto pode ser adicionado na lista de favoritos ou no carrinho de compras. Ao clicar no carrinho de compras abrirá uma nova tela onde realizará a conferência do pedido com a lista de produtos, para finalizar a compra abrirá por último a tela de pagamento. Toda vez que clicar na logo em qualquer tela que estiver, será redirecionado para a homepage.
 
-Caso ele opte por seguir pelo primeiro caminho (Editar Perfil), ele é
-redirecionado para a tela de edição de perfil (Tela 2), onde pode
-atualizar seus dados cadastrais. Nessa tela, o usuário também pode
-escolher para editar sua foto de perfil. Ao selecionar essa opção, ele é
-redirecionado para a Tela 3, onde ele a imagem expandida do perfil do
-usuário é mostrado. Ao selecionar a opção para atualizar a imagem, uma
-nova janela abre pedindo para o usuário fazer o upload da nova foto.
-Assim que o processo termina um pop-up exibe o status para o usuário
-(Tela 4) e o usuário é redirecionado para a Tela 2.
-
-Caso o usuário opte seguir pelo segundo caminho (Visualizar Galeria) ele
-é redirecionado para a Tela 5 com todas as fotos que o usuário possui. O
-usuário pode clicar em um post qualquer para visualizar os detalhes do
-post (Tela 6). Nessa tela, ele pode então escolher editar o post, sendo
-redirecionado para a Tela 7. Ao editar as informações, o usuário pode
-escolher salvar ou deletar o post. Em ambos os casos o status é
-notificado para o usuário (Tela 8) e em seguida ele é redirecionado
-para a Tela 2.
-
-![Exemplo de UserFlow](img/userflow.jpg)
+![UserFlow](/docs/user flow_consumidor.jpg)
 
 
 ## Tecnologias Utilizadas
