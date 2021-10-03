@@ -28,6 +28,7 @@ A tela de homepage apresenta como conteúdo ao usuário algumas ofertas em desta
 > - **Canto superior esquerdo:** elemento de identidade visual da Moda Green.
 > - **Posição central:** componente de pesquisa que permite ao usuário inserir palavras chaves para buscar produtos ou lojas específicas.
 > - **Canto superior direito:** são apresentados os componentes de lista de favoritos, login e carrinho de compra. Ao clicar em cada uma das opções elencadas, o usuário é redirecionado para a página respectiva da opção selecionada.
+
 O bloco disponibilizado à esquerda apresenta as categorias disponíveis para consulta. Cada elemento deste componente direciona o usuário para a seção correspondente.
 
 <center>
