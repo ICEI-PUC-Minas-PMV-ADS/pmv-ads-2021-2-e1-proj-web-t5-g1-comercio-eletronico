@@ -6,7 +6,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Diagrama de componentes
 
-Os componentes que fazem parte da solução são apresentados na Figura XX.
+Os componentes que fazem parte da solução são apresentados na Figura 1.
 
 ![Diagrama de Componentes](/docs/diagramadecomponentes.png)
 <center>Figura 1- Arquitetura da Solução</center>
