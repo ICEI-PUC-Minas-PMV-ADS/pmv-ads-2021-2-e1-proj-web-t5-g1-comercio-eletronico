@@ -1,10 +1,10 @@
-# TÍTULO DO PROJETO
+# MODA GREEN
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Desenvolvimento de aplicação Web Front-End`
 
-`SEMESTRE`
+`2/2021`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
@@ -12,7 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Lucas Andrade de Azevedo
 * Maria Luiza Silva Lacerda
-* Nome completo do aluno 3
+* Rafaela C. Souza de Oliveira
 * Nome completo do aluno 4
 
 ## Orientador
