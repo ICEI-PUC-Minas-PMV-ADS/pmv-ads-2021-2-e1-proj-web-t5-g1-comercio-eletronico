@@ -31,15 +31,14 @@ Resumidamente, o fluxo de telas do empreendedor segue os seguintes passos:
 Caso já estiver cadastrado:
 Acesso à tela “homepage”: clicar em [entrar]
 Acesso à tela “login”: clicar em [já sou cliente/sou vendedor]
-Acesso à tela “Loja do empreendedor”. Nesta tela o usuário é capaz de gerir seus produtos: remover ou editar produtos ou clicar em [adicionar produto] indo para a seguinte tela:
-“Tela de Cadastro de produto”
+Acesso à tela “Loja do empreendedor”. Nesta tela o usuário é capaz de gerir seus produtos: remover ou editar produtos ou clicar em [adicionar produto] indo para a seguinte tela: “Tela de Cadastro de produto”
 
 Caso o empreendedor não estiver cadastrado:
 Acesso à tela “homepage”: clicar em [entrar]
 Acesso à tela “login”: clicar em [criar conta/sou vendedor]
-Acesso à tela “Cadastro-Empreendedor”. Ao final do cadastro o empreendedor ao clicar em [enviar meus dados] será redirecionado para a área de sua loja.
+Acesso à tela “Cadastro-Empreendedor”. Ao final do cadastro o empreendedor ao clicar em [enviar meus dados] será redirecionado para a área de sua loja.</p>
 
-Abaixo segue a imagem de fluxo do usuário - empreendedor:</p>
+Abaixo segue a imagem de fluxo do usuário - empreendedor:
 
 <p align="center">
   <img src="/docs/img/user flow empreendedor_imagem.jpg" alt="Fluxo de telas do usuário - Empreendedor">
