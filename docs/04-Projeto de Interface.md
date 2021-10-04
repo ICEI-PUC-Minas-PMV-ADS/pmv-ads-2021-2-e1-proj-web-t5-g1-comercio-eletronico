@@ -13,7 +13,7 @@ O wireframe interativo deste projeto pode ser acessado pelo <a href="https://mar
 
 
 
-![Exemplo de UserFlow](img/userflow.jpg)
+![](img/userflow.jpg)
 
 
 
