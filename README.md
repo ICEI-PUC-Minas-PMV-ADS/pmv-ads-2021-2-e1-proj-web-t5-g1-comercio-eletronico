@@ -1,19 +1,19 @@
-# TÍTULO DO PROJETO
+# MODA GREEN
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Desenvolvimento de aplicação Web Front-End`
 
-`SEMESTRE`
+`2/2021`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Projeto de criação de site para comercialização de roupas de variadas marcas que contemplam o conceito de Slow Fashion
 
 ## Integrantes
 
-* Lucas Andrade de Azevedo
 * Maria Luiza Silva Lacerda
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Rafaela C. Souza de Oliveira
+* Ezequiel Silva de Souza Almeida
+* Cristiane de Morais Ramos
 
 ## Orientador
 
