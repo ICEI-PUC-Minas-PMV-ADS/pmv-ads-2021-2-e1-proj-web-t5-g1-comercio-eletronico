@@ -11,10 +11,31 @@ O wireframe interativo deste projeto pode ser acessado pelo <a href="https://mar
 
 ## 4.1 Fluxo do Usuário
 
-![Fluxo Empreendedor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/user%20flow_consumidor_imagem.jpg "FLuxo Consumidor")
+## 4.1.1 Fluxo do Usuário - Consumidor
+
+
+![Fluxo Consumidor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/user%20flow_consumidor_imagem.jpg "FLuxo Consumidor")
 Figura 2 - Fluxo de telas do usuário - Consumidor
 
-## 4.2 Fluxo do Empreendedor
+## 4.1.2 Fluxo do Usuário - Empreendedor
+
+O fluxo de telas do Empreendedor, distingue-se das telas do usuário-consumidor pois contém telas específicas para esse usuário que não são acessadas pelos consumidores. Há, no entanto, duas telas que são comuns para ambos perfis de usuários (empreendedor e consumidor): as telas homepage e tela de login.
+Dito isso, o fluxo dessas telas se torna um pouco mais simples, pois contém menor quantidade de telas.
+
+Resumidamente, o fluxo de telas do empreendedor segue os seguintes passos:
+
+Caso já estiver cadastrado:
+Acesso à tela “homepage”: clicar em [entrar]
+Acesso à tela “login”: clicar em [já sou cliente/sou vendedor]
+Acesso à tela “Loja do empreendedor”. Nesta tela o usuário é capaz de gerir seus produtos: remover ou editar produtos ou clicar em [adicionar produto] indo para a seguinte tela:
+“Tela de Cadastro de produto”
+
+Caso o empreendedor não estiver cadastrado:
+Acesso à tela “homepage”: clicar em [entrar]
+Acesso à tela “login”: clicar em [criar conta/sou vendedor]
+Acesso à tela “Cadastro-Empreendedor”. Ao final do cadastro o empreendedor ao clicar em [enviar meus dados] será redirecionado para a área de sua loja.
+
+Abaixo segue a imagem de fluxo do usuário - empreendedor:
 
 ![Fluxo Empreendedor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/user%20flow%20empreendedor_imagem.jpg "FLuxo Empreendedor")
 
