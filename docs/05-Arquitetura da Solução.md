@@ -13,7 +13,7 @@ Os componentes que fazem parte da solução são apresentados na Figura 1.
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
-  - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+  - **Páginas Web** - Conjunto de arquivos HTML, CSS e JavaScript e imagens que implementam as funcionalidades do sistema.
    - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
      - **Canais** - seções de produtos apresentados  
      - **Preferidas** - lista de produtos favoritos mantidos para comprar posteriormente 
