@@ -165,7 +165,7 @@ Para o cadastro existem campos obrigatórios: nome do produto, categoria do prod
 Também existem campos não obrigatórios: desconto e número de protocolo do produto (caso o produto tenha cadastrado seu processo de produção). </p>
 
 <p align="center">
-  <img src="docs\img\cadastro de produto.imagem.jpg" alt="Tela cadastro de produto - Empreendedor">
+  <img src="/docs/img/cadastro de produto.imagem.jpg" alt="Tela cadastro de produto - Empreendedor">
 </p>
 <p align="center"> Figura 15 – Tela cadastro de produto - Empreendedor</p>
 
