@@ -13,7 +13,7 @@ O wireframe interativo deste projeto pode ser acessado pelo <a href="https://mar
 
 
 
-![user flow_consumidor_imagem](C:\Users\chryk\Documents\GitHub\pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico\docs\img\user flow_consumidor_imagem.jpg)
+![user flow_consumidor_imagem](C:\Users\chryk\Documents\GitHub\pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico\docs\img\user flow_consumidor_imagem.jpg "User Flow Consumidor")
 
 
 
