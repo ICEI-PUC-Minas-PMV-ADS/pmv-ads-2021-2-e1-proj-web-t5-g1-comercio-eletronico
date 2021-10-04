@@ -14,8 +14,9 @@ O wireframe interativo deste projeto pode ser acessado pelo <a href="https://mar
 ## 4.1.1 Fluxo do Usuário - Consumidor
 
 
-![Fluxo Consumidor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/user%20flow_consumidor_imagem.jpg "FLuxo Consumidor")
-
+<p align="center">
+  <img src="/docs/img/user flow_consumidor_imagem.jpg" alt="Fluxo de telas do usuário - Consumidor">
+</p>
 <p align="center">Figura 2 - Fluxo de telas do usuário - Consumidor</p>
 
 
@@ -39,8 +40,9 @@ Acesso à tela “Cadastro-Empreendedor”. Ao final do cadastro o empreendedor 
 
 Abaixo segue a imagem de fluxo do usuário - empreendedor:</p>
 
-![Fluxo Empreendedor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/user%20flow%20empreendedor_imagem.jpg "Fluxo Empreendedor")
-
+<p align="center">
+  <img src="/docs/img/user flow empreendedor_imagem.jpg" alt="Fluxo de telas do usuário - Empreendedor">
+</p>
 <p align="center">Figura 3 - Fluxo de telas do usuário - Empreendedor</p>
 
 
