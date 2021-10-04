@@ -161,15 +161,10 @@ Na tela de cadastro de produto, o empreendedor poderá cadastrar os produtos que
 Para o cadastro existem campos obrigatórios: nome do produto, categoria do produto, tamanhos disponíveis, gênero, preço, descrição do produto e área para inserir a foto do produto.
 Também existem campos não obrigatórios: desconto e número de protocolo do produto (caso o produto tenha cadastrado seu processo de produção).
 
-![Cadastro de Produto – Empreendedor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/cadastro%20de%20produto.imagem.jpg "Cadastro de Produto – Empreendedor")
-
+<p align="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/cadastro%20de%20produto.imagem.jpg" />
+</p>
 Figura 15 – Tela cadastro de produto - Empreendedor
-
-
-
-
-
-
 
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
