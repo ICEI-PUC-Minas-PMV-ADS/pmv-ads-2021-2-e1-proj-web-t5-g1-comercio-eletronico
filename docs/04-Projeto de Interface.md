@@ -13,8 +13,7 @@ O wireframe interativo deste projeto pode ser acessado pelo <a href="https://mar
 
 
 
-![user flow consumidor_imagem](img/user flow consumidor_imagem.jpg)
-
+![user flow_consumidor_imagem](docs/img/user flow_consumidor_imagem.jpg)
 
 
 
