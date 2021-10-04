@@ -9,7 +9,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 * Documentos do projeto
    - Google Docs: https://docs.google.com/document/d/1265JHL8JBO0dWtKnldzmhRNSvhvy2-joxFgG73JVvDw/edit
 * Projeto de Interface 
-   - MarvelApp: https://marvelapp.com/prototype/a6bc5j5/screen/82266300
+   - MarvelApp: https://marvelapp.com/prototype/a6bc5j5
 * Gerenciamento do Projeto
    - Trello: https://trello.com/b/L5GwhGmV/projeto-desenvolvimento-web-e-commerce
 
