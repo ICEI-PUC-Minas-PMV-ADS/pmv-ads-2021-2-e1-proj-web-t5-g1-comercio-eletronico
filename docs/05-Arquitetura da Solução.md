@@ -24,14 +24,13 @@ A solução implementada conta com os seguintes módulos:
 >
 > - [Whimsical](https://whimsical.com/)
 
-=======
->>>>>>> 862cfc69e8a69ab3d7f12f93ebbc083b50243835
 ## Tecnologias Utilizadas
 
 As linguagens utilizadas para solução do problema são: HTML, CSS, JavaScript. Durante o desenvolvimento serão priorizadas alternativas gratuitas de tecnologia, dentre elas: Trello, Marvel APP e WorkSpace. A hospedagem do site será feita através da plataforma heroku.
 A seguinte imagem mostra a interação do usuário com o sistema, por onde ela passa até retornar uma resposta ao usuário: 
 
 ![](/docs/interaçãodousiario.png)
+
 Figura 2 - Interação do usuário com o sistema
 
 ## Hospedagem
