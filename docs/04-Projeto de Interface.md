@@ -14,7 +14,7 @@ O wireframe interativo deste projeto pode ser acessado pelo <a href="https://mar
 ## 4.1.1 Fluxo do Usuário - Consumidor
 
 
-![Fluxo Consumidor](pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/docs/img/user flow_consumidor_imagem.jpg)
+![](pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/docs/img/user flow_consumidor_imagem.jpg)
 Figura 2 - Fluxo de telas do usuário - Consumidor
 
 ## 4.1.2 Fluxo do Usuário - Empreendedor
