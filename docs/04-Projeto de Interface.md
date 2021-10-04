@@ -164,7 +164,7 @@ Também existem campos não obrigatórios: desconto e número de protocolo do pr
 <p align="center">
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/cadastro%20de%20produto.imagem.jpg" />
 </p>
-<p text-align="center"> Figura 15 – Tela cadastro de produto - Empreendedor </p>
+<p style="text-align: center;"> Figura 15 – Tela cadastro de produto - Empreendedor </p>
 
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
