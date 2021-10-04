@@ -6,14 +6,13 @@
 
 `2/2021`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Projeto de criação de site para comercialização de roupas de variadas marcas que contemplam o conceito de Slow Fashion
 
 ## Integrantes
 
-* Lucas Andrade de Azevedo
 * Maria Luiza Silva Lacerda
 * Rafaela C. Souza de Oliveira
-* Nome completo do aluno 4
+* Ezequiel Silva de Souza Almeida
 
 ## Orientador
 
