@@ -6,10 +6,10 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Diagrama de componentes
 
-Os componentes que fazem parte da solução são apresentados na Figura 1.
+Os componentes que fazem parte da solução são apresentados na Figura 16.
 
 ![Diagrama de Componentes](/docs/diagramadecomponentes.png)
-<center>Figura 1- Arquitetura da Solução</center>
+<center>Figura 16- Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
@@ -29,7 +29,7 @@ A seguinte imagem mostra a interação do usuário com o sistema, por onde ela p
 
 ![](/docs/interaçãodousiario.png)
 
-Figura 2 - Interação do usuário com o sistema
+Figura 17 - Interação do usuário com o sistema
 
 ## Hospedagem
 
