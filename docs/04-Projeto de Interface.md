@@ -21,7 +21,7 @@ O wireframe interativo deste projeto pode ser acessado pelo <a href="https://mar
 
 ## 4.1.2 Fluxo do Usuário - Empreendedor
 
-O fluxo de telas do Empreendedor, distingue-se das telas do usuário-consumidor pois contém telas específicas para esse usuário que não são acessadas pelos consumidores. Há, no entanto, duas telas que são comuns para ambos perfis de usuários (empreendedor e consumidor): as telas homepage e tela de login.
+<p align="justify"> O fluxo de telas do Empreendedor, distingue-se das telas do usuário-consumidor pois contém telas específicas para esse usuário que não são acessadas pelos consumidores. Há, no entanto, duas telas que são comuns para ambos perfis de usuários (empreendedor e consumidor): as telas homepage e tela de login.
 Dito isso, o fluxo dessas telas se torna um pouco mais simples, pois contém menor quantidade de telas.
 
 Resumidamente, o fluxo de telas do empreendedor segue os seguintes passos:
@@ -35,7 +35,7 @@ Acesso à tela “Loja do empreendedor”. Nesta tela o usuário é capaz de ger
 Caso o empreendedor não estiver cadastrado:
 Acesso à tela “homepage”: clicar em [entrar]
 Acesso à tela “login”: clicar em [criar conta/sou vendedor]
-Acesso à tela “Cadastro-Empreendedor”. Ao final do cadastro o empreendedor ao clicar em [enviar meus dados] será redirecionado para a área de sua loja.
+Acesso à tela “Cadastro-Empreendedor”. Ao final do cadastro o empreendedor ao clicar em [enviar meus dados] será redirecionado para a área de sua loja. </p>
 
 Abaixo segue a imagem de fluxo do usuário - empreendedor:
 
