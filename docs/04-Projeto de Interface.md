@@ -5,7 +5,7 @@
 Com o intuito de possuirmos uma boa usabilidade, optamos por um site simples e intuitivo. Para isso, foi criado um padrão de cabeçalho para todas as telas, onde o usuário pode facilmente encontrar e navegar entre as funcionalidades básicas do site como: encontrar produtos, finalizar a compra e efetuar o pagamento. Com exceção dada apenas a pequenas diferenças em relação a tela padrão do empreendedor e a tela padrão do consumidor, que serão explicadas no decorrer deste projeto.
 Para uma melhor visualização da apresentação do fluxo de interação de usuários pelas telas, foi necessário separá-los em dois fluxos diferentes: Fluxo do Usuário – Empreendedor e Fluxo do Usuário – Consumidor, visto que estes dois usuários possuem algumas das telas específicas para cada um.
 O fluxo de usuários e o detalhamento de suas telas serão apresentados nos próximos tópicos: Fluxo do Usuário e Wireframe.
-O wireframe interativo deste projeto pode ser acessado pelo <a href="https://marvelapp.com/prototype/a6bc5j5/screen/82266300"> ambiente MarvelApp do projeto </a>
+O wireframe interativo deste projeto pode ser acessado pelo <a href="https://marvelapp.com/prototype/a6bc5j5/screen/82266300"> ambiente MarvelApp do projeto. </a>
 
  As principais interfaces da plataforma, serão apresentadas a seguir e foram elaboradas de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados na <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>. </p>
 
@@ -13,7 +13,7 @@ O wireframe interativo deste projeto pode ser acessado pelo <a href="https://mar
 
 ### 4.1.1 Fluxo do Usuário - Consumidor
 
-A imagem a seguir ilustra o fluxo de usuário “consumidor” em nosso site. Assim que o usuário entra no site, ele é apresentado à homepage onde ele tem a opção de fazer login sendo direcionado para outra tela na qual realizará o cadastro de usuário do perfil consumidor. Após fazer o cadastro ele é redirecionado à homepage para visualizar todos os produtos, existem dois modos para apresentação dos produtos, podem ser visualizados por categoria em uma tela ou por loja em outra tela. Ao clicar no produto específico é exibido o detalhamento do item em uma nova tela. O produto pode ser adicionado na lista de favoritos ou no carrinho de compras. Ao clicar no carrinho de compras abrirá uma nova tela onde realizará a conferência do pedido com a lista de produtos, para finalizar a compra abrirá por último a tela de pagamento. Toda vez que clicar na logo em qualquer tela que estiver, será redirecionado para a homepage.
+<p align="justify"> A imagem a seguir ilustra o fluxo de usuário “consumidor” em nosso site. Assim que o usuário entra no site, ele é apresentado à homepage onde ele tem a opção de fazer login sendo direcionado para outra tela na qual realizará o cadastro de usuário do perfil consumidor. Após fazer o cadastro ele é redirecionado à homepage para visualizar todos os produtos, existem dois modos para apresentação dos produtos, podem ser visualizados por categoria em uma tela ou por loja em outra tela. Ao clicar no produto específico é exibido o detalhamento do item em uma nova tela. O produto pode ser adicionado na lista de favoritos ou no carrinho de compras. Ao clicar no carrinho de compras abrirá uma nova tela onde realizará a conferência do pedido com a lista de produtos, para finalizar a compra abrirá por último a tela de pagamento. Toda vez que clicar na logo em qualquer tela que estiver, será redirecionado para a homepage. </p>
 
 <p align="center">
   <img src="/docs/img/user flow_consumidor_imagem.jpg" alt="Fluxo de telas do usuário - Consumidor">
@@ -61,9 +61,9 @@ Abaixo segue a imagem de fluxo do usuário - empreendedor:</p>
 O bloco disponibilizado à esquerda apresenta as categorias disponíveis para consulta. Cada elemento deste componente direciona o usuário para a seção correspondente. </p>
 
 <p align="center">
- 
+
 ![Tela Homepage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/Homepage.png "Tela Homepage")
- 
+
 </p>
 
 <p align="center">Figura 4 - Tela Homepage</p>
@@ -107,9 +107,9 @@ Nesta tela o empreendedor poderá fazer o seu cadastro. Para isso, será necess�
 No bloco à esquerda, o usuário possui algumas opções de filtro de pesquisa, como: tamanho, gênero, preço, tipo de material e certificações.</p>
 
 <p align="center">
- 
+
 ![Tela de apresentação dos produtos por loja](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/Apresenta%C3%A7%C3%A3o%20de%20produtos%20por%20loja.png?raw=true "Tela de apresentação dos produtos por loja")
- 
+
 </p>
 
 <p align="center">Figura 7 - Tela de apresentação de produtos por loja</p>
@@ -138,7 +138,7 @@ No bloco à esquerda, o usuário possui algumas opções de filtro de pesquisa, 
 <p align="center">
 
 ![Tela de detalhamento do produto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/Detalhamento%20do%20produto.png?raw=true "Tela de detalhamento do produto")
- 
+
  </p>
 
 <p align="center">Figura 9 - Tela  de detalhamento do produto</p>
@@ -150,9 +150,9 @@ No bloco à esquerda, o usuário possui algumas opções de filtro de pesquisa, 
 <p align="justify"> A tela de favoritos apresenta a relação dos produtos incluídos na lista de favoritos pelo usuário. Ao clicar em visualizar, o usuário é direcionado novamente para a tela de detalhamento do produto escolhido.</p>
 
 <p align="center">
- 
+
 ![Tela lista de favoritos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/Lista%20de%20favoritos.png?raw=true "Tela lista de favoritos")
- 
+
 </p>
 
 <p align="center">Figura 10 - Tela lista de favoritos</p>
