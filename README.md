@@ -13,6 +13,7 @@ Projeto de criação de site para comercialização de roupas de variadas marcas
 * Maria Luiza Silva Lacerda
 * Rafaela C. Souza de Oliveira
 * Ezequiel Silva de Souza Almeida
+* Cristiane de Morais Ramos
 
 ## Orientador
 
