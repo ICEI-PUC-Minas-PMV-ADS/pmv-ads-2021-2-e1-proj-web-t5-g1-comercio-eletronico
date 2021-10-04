@@ -38,10 +38,11 @@ Acesso à tela “Cadastro-Empreendedor”. Ao final do cadastro o empreendedor 
 Abaixo segue a imagem de fluxo do usuário - empreendedor:
 
 ![Fluxo Empreendedor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/user%20flow%20empreendedor_imagem.jpg "FLuxo Empreendedor")
+Figura 3 - Fluxo de telas do usuário - Empreendedor
 
 
 
-## Wireframes
+##4.2 Wireframes
 
 ### Tela: Homepage
 
@@ -71,6 +72,17 @@ Na tela de login, além dos elementos padrões do cabeçalho, temos dois blocos 
 ![Tela de login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/Tela%20de%20login.png?raw=true "Tela de login")
 
 Figura 2 - Tela de Login
+
+### Tela: Cadastro de Usuário - Perfil do Consumidor
+
+Nesta tela, o usuário (consumidor) poderá adicionar e alterar o seu perfil no site, com isso será possível salvar sua lista de favoritos e efetuar a compra no site de forma segura.
+Para o cadastro, além do nome, e-mail e senha, já adicionados na página de login, o usuário poderá cadastrar seu endereço de entrega, data de aniversário (para receber promoções e descontos no dia de seu aniversário) e uma breve descrição sobre si mesmo. O consumidor também poderá adicionar uma foto de perfil que será vista no cabeçalho em um ícone ao lado do carrinho de compras.
+
+
+![Tela Cadastro Usuário Consumidor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/tela%20cadastro%20usuario%20imagem.jpg "Tela Cadastro Usuário Consumidor")
+ Figura 6 – Tela cadastro do usuário - Consumidor
+
+
 
 ### Tela: Apresentação dos produtos por loja
 
@@ -109,8 +121,32 @@ A tela de favoritos apresenta a relação dos produtos incluídos na lista de fa
 Figura 6 - Tela lista de favoritos
 
 
+### Tela: Cadastro de Usuário – Loja do Empreendedor
+
+Nesta tela o empreendedor poderá fazer o seu cadastro. Para isso, será necessário o preenchimento dos campos: nome, nome da loja/empresa, telefone, CNPJ, endereço da empresa e e-mail. Após o cadastro, o empreendedor será direcionado para área de sua loja em uma nova tela: Loja do empreendedor.
+
+![Cadastro de Usuário – Loja do Empreendedor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/cadastro%20da%20loja.imagem.jpg "Cadastro de Usuário – Loja do Empreendedor")
+Figura 13- Tela de cadastro de usuário -Loja do Empreendedor
 
 
+### Tela: Loja do Empreendedor
+
+Nesta tela o empreendedor poderá visualizar e gerenciar todos os produtos que são vendidos em sua loja. As ações possíveis nessa tela são: visualização dos produtos, remoção dos produtos, botão para [adicionar novo produto] e [alterar] produtos. Ambos os botões direcionam o empreendedor a próxima tela: Cadastro de Produto - Empreendedor.
+Outras funcionalidades dessa página são: encontrar um produto específico em sua própria loja na barra de pesquisa; acessar seu perfil de empreendedor pelo: ”olá, empreendedor”, ambos pelo cabeçalho da página.  Outra possibilidade é o empreendedor sair da área de empreendedor pelo [logo da marca], também no cabeçalho, que o irá redirecionar para a Tela Homepage
+
+
+![Loja do Empreendedor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/loja%20do%20empreendedor.imagem.jpg "Loja do Empreendedor")
+Figura 14 – Tela loja do empreendedor
+
+
+### Tela: Cadastro de Produto – Empreendedor
+
+Na tela de cadastro de produto, o empreendedor poderá cadastrar os produtos que deseja vender em sua loja, pelo site da Green Modas.
+Para o cadastro existem campos obrigatórios: nome do produto, categoria do produto, tamanhos disponíveis, gênero, preço, descrição do produto e área para inserir a foto do produto.
+Também existem campos não obrigatórios: desconto e número de protocolo do produto (caso o produto tenha cadastrado seu processo de produção).
+
+![Cadastro de Produto – Empreendedor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/cadastro%20de%20produto.imagem.jpg "Cadastro de Produto – Empreendedor")
+Figura 15 – Tela cadastro de produto - Empreendedor
 
 
 
