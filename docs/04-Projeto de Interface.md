@@ -153,7 +153,7 @@ Figura 6 - Tela lista de favoritos
 Outras funcionalidades dessa página são: encontrar um produto específico em sua própria loja na barra de pesquisa; acessar seu perfil de empreendedor pelo: ”olá, empreendedor”, ambos pelo cabeçalho da página.  Outra possibilidade é o empreendedor sair da área de empreendedor pelo [logo da marca], também no cabeçalho, que o irá redirecionar para a Tela Homepage. </p>
 
 <p align="center">
-![Tela loja do empreendedor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/loja%20do%20empreendedor.imagem.jpg)
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/loja%20do%20empreendedor.imagem.jpg" />
 </p>
 <p align="center"> Figura 14 – Tela loja do empreendedor </p>
 
@@ -165,7 +165,7 @@ Para o cadastro existem campos obrigatórios: nome do produto, categoria do prod
 Também existem campos não obrigatórios: desconto e número de protocolo do produto (caso o produto tenha cadastrado seu processo de produção). </p>
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/cadastro%20de%20produto.imagem.jpg" />
+  <img src="docs\img\cadastro de produto.imagem.jpg" alt="Tela cadastro de produto - Empreendedor">
 </p>
 <p align="center"> Figura 15 – Tela cadastro de produto - Empreendedor</p>
 
