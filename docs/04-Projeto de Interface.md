@@ -15,7 +15,9 @@ O wireframe interativo deste projeto pode ser acessado pelo <a href="https://mar
 
 
 ![Fluxo Consumidor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/user%20flow_consumidor_imagem.jpg "FLuxo Consumidor")
-Figura 2 - Fluxo de telas do usuário - Consumidor
+
+<p align="center">Figura 2 - Fluxo de telas do usuário - Consumidor</p>
+
 
 ## 4.1.2 Fluxo do Usuário - Empreendedor
 
@@ -39,7 +41,9 @@ Abaixo segue a imagem de fluxo do usuário - empreendedor:
 
 ![Fluxo Empreendedor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/user%20flow%20empreendedor_imagem.jpg "FLuxo Empreendedor")
 
-Figura 3 - Fluxo de telas do usuário - Empreendedor
+<p align="center">Figura 3 - Fluxo de telas do usuário - Empreendedor</p>
+
+
 
 
 
