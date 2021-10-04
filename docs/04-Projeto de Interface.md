@@ -1,13 +1,13 @@
 
 # 4. Projeto de Interface
 
-O projeto de interface do website Moda Green tem como prioridade oferecer soluções amigáveis e intuitivas aos seus usuários, com foco na agilidade, acessibilidade e usabilidade desta interface. Todas as telas estão projetadas para funcionamento em desktops e dispositivos móveis.
+<p align="justify"> O projeto de interface do website Moda Green tem como prioridade oferecer soluções amigáveis e intuitivas aos seus usuários, com foco na agilidade, acessibilidade e usabilidade desta interface. Todas as telas estão projetadas para funcionamento em desktops e dispositivos móveis.
 Com o intuito de possuirmos uma boa usabilidade, optamos por um site simples e intuitivo. Para isso, foi criado um padrão de cabeçalho para todas as telas, onde o usuário pode facilmente encontrar e navegar entre as funcionalidades básicas do site como: encontrar produtos, finalizar a compra e efetuar o pagamento. Com exceção dada apenas a pequenas diferenças em relação a tela padrão do empreendedor e a tela padrão do consumidor, que serão explicadas no decorrer deste projeto.
 Para uma melhor visualização da apresentação do fluxo de interação de usuários pelas telas, foi necessário separá-los em dois fluxos diferentes: Fluxo do Usuário – Empreendedor e Fluxo do Usuário – Consumidor, visto que estes dois usuários possuem algumas das telas específicas para cada um.
 O fluxo de usuários e o detalhamento de suas telas serão apresentados nos próximos tópicos: Fluxo do Usuário e Wireframe.
 O wireframe interativo deste projeto pode ser acessado pelo <a href="https://marvelapp.com/prototype/a6bc5j5/screen/82266300"> ambiente MarvelApp do projeto </a>
 
- As principais interfaces da plataforma, serão apresentadas a seguir e foram elaboradas de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados na <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+ As principais interfaces da plataforma, serão apresentadas a seguir e foram elaboradas de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados na <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>. </p>
 
 ## 4.1 Fluxo do Usuário
 
