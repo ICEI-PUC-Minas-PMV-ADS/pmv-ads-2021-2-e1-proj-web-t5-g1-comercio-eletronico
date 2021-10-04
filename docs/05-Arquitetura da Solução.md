@@ -32,9 +32,10 @@ A imagem a seguir ilustra o fluxo de usuário “consumidor” em nosso site. As
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+As linguagens utilizadas para solução do problema são: HTML, CSS, JavaScript. Durante o desenvolvimento serão priorizadas alternativas gratuitas de tecnologia, dentre elas: Trello, Marvel APP e WorkSpace. A hospedagem do site será feita através da plataforma heroku.
+A seguinte imagem mostra a interação do usuário com o sistema, por onde ela passa até retornar uma resposta ao usuário: 
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+![](/docs/interaçãodousiario.png)
 
 
 ## Hospedagem
