@@ -35,15 +35,13 @@ Acesso à tela “Loja do empreendedor”. Nesta tela o usuário é capaz de ger
 Caso o empreendedor não estiver cadastrado:
 Acesso à tela “homepage”: clicar em [entrar]
 Acesso à tela “login”: clicar em [criar conta/sou vendedor]
-Acesso à tela “Cadastro-Empreendedor”. Ao final do cadastro o empreendedor ao clicar em [enviar meus dados] será redirecionado para a área de sua loja. </p>
+Acesso à tela “Cadastro-Empreendedor”. Ao final do cadastro o empreendedor ao clicar em [enviar meus dados] será redirecionado para a área de sua loja.
 
-Abaixo segue a imagem de fluxo do usuário - empreendedor:
+Abaixo segue a imagem de fluxo do usuário - empreendedor:</p>
 
 ![Fluxo Empreendedor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/user%20flow%20empreendedor_imagem.jpg "FLuxo Empreendedor")
 
 <p align="center">Figura 3 - Fluxo de telas do usuário - Empreendedor</p>
-
-
 
 
 
@@ -83,10 +81,10 @@ Figura 2 - Tela de Login
 
 ### Tela: Cadastro de Usuário - Perfil do Consumidor
 
-Nesta tela, o usuário (consumidor) poderá adicionar e alterar o seu perfil no site, com isso será possível salvar sua lista de favoritos e efetuar a compra no site de forma segura.
+<p align="justify"> Nesta tela, o usuário (consumidor) poderá adicionar e alterar o seu perfil no site, com isso será possível salvar sua lista de favoritos e efetuar a compra no site de forma segura.
 Para o cadastro, além do nome, e-mail e senha, já adicionados na página de login, o usuário poderá cadastrar seu endereço de entrega, data de aniversário (para receber promoções e descontos no dia de seu aniversário) e uma breve descrição sobre si mesmo. O consumidor também poderá adicionar uma foto de perfil que será vista no cabeçalho em um ícone ao lado do carrinho de compras.
 
-Nesta tela o empreendedor poderá fazer o seu cadastro. Para isso, será necessário o preenchimento dos campos: nome, nome da loja/empresa, telefone, CNPJ, endereço da empresa e e-mail. Após o cadastro, o empreendedor será direcionado para área de sua loja em uma nova tela: Loja do empreendedor.
+Nesta tela o empreendedor poderá fazer o seu cadastro. Para isso, será necessário o preenchimento dos campos: nome, nome da loja/empresa, telefone, CNPJ, endereço da empresa e e-mail. Após o cadastro, o empreendedor será direcionado para área de sua loja em uma nova tela: Loja do empreendedor. </p>
 
 <p align="center">
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/tela%20cadastro%20usuario%20imagem.jpg" />
@@ -141,7 +139,7 @@ Figura 6 - Tela lista de favoritos
 
 ### Tela: Cadastro de Usuário – Loja do Empreendedor
 
-Nesta tela o empreendedor poderá fazer o seu cadastro. Para isso, será necessário o preenchimento dos campos: nome, nome da loja/empresa, telefone, CNPJ, endereço da empresa e e-mail. Após o cadastro, o empreendedor será direcionado para área de sua loja em uma nova tela: Loja do empreendedor.
+<p align="justify"> Nesta tela o empreendedor poderá fazer o seu cadastro. Para isso, será necessário o preenchimento dos campos: nome, nome da loja/empresa, telefone, CNPJ, endereço da empresa e e-mail. Após o cadastro, o empreendedor será direcionado para área de sua loja em uma nova tela: Loja do empreendedor.</p>
 
 <p align="center">
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/cadastro%20da%20loja.imagem.jpg" />
@@ -151,8 +149,8 @@ Nesta tela o empreendedor poderá fazer o seu cadastro. Para isso, será necess�
 
 ### Tela: Loja do Empreendedor
 
-Nesta tela o empreendedor poderá visualizar e gerenciar todos os produtos que são vendidos em sua loja. As ações possíveis nessa tela são: visualização dos produtos, remoção dos produtos, botão para [adicionar novo produto] e [alterar] produtos. Ambos os botões direcionam o empreendedor a próxima tela: Cadastro de Produto - Empreendedor.
-Outras funcionalidades dessa página são: encontrar um produto específico em sua própria loja na barra de pesquisa; acessar seu perfil de empreendedor pelo: ”olá, empreendedor”, ambos pelo cabeçalho da página.  Outra possibilidade é o empreendedor sair da área de empreendedor pelo [logo da marca], também no cabeçalho, que o irá redirecionar para a Tela Homepage
+<p align="justify"> Nesta tela o empreendedor poderá visualizar e gerenciar todos os produtos que são vendidos em sua loja. As ações possíveis nessa tela são: visualização dos produtos, remoção dos produtos, botão para [adicionar novo produto] e [alterar] produtos. Ambos os botões direcionam o empreendedor a próxima tela: Cadastro de Produto - Empreendedor.
+Outras funcionalidades dessa página são: encontrar um produto específico em sua própria loja na barra de pesquisa; acessar seu perfil de empreendedor pelo: ”olá, empreendedor”, ambos pelo cabeçalho da página.  Outra possibilidade é o empreendedor sair da área de empreendedor pelo [logo da marca], também no cabeçalho, que o irá redirecionar para a Tela Homepage. </p>
 
 <p align="center">
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/loja%20do%20empreendedor.imagem.jpg" />
@@ -162,9 +160,9 @@ Outras funcionalidades dessa página são: encontrar um produto específico em s
 
 ### Tela: Cadastro de Produto – Empreendedor
 
-Na tela de cadastro de produto, o empreendedor poderá cadastrar os produtos que deseja vender em sua loja, pelo site da Green Modas.
+<p align="justify"> Na tela de cadastro de produto, o empreendedor poderá cadastrar os produtos que deseja vender em sua loja, pelo site da Green Modas.
 Para o cadastro existem campos obrigatórios: nome do produto, categoria do produto, tamanhos disponíveis, gênero, preço, descrição do produto e área para inserir a foto do produto.
-Também existem campos não obrigatórios: desconto e número de protocolo do produto (caso o produto tenha cadastrado seu processo de produção).
+Também existem campos não obrigatórios: desconto e número de protocolo do produto (caso o produto tenha cadastrado seu processo de produção). </p>
 
 <p align="center">
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/cadastro%20de%20produto.imagem.jpg" />
