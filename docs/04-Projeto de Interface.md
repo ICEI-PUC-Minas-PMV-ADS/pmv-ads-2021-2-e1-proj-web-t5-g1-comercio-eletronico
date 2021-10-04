@@ -13,7 +13,7 @@ O wireframe interativo deste projeto pode ser acessado pelo <a href="https://mar
 
 
 
-![user flow_consumidor_imagem](docs\img\user flow_consumidor_imagem.png "User Flow Consumidor")
+![Fluxo Empreendedor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/user%20flow%20empreendedor_imagem.jpg "FLuxo Empreendedor")
 
 
 
