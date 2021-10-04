@@ -11,7 +11,7 @@ O wireframe interativo deste projeto pode ser acessado pelo <a href="https://mar
 
 ## 4.1 Fluxo do Usuário
 
-## 4.1.1 Fluxo do Usuário - Consumidor
+### 4.1.1 Fluxo do Usuário - Consumidor
 
 
 <p align="center">
@@ -20,7 +20,7 @@ O wireframe interativo deste projeto pode ser acessado pelo <a href="https://mar
 <p align="center">Figura 2 - Fluxo de telas do usuário - Consumidor</p>
 
 
-## 4.1.2 Fluxo do Usuário - Empreendedor
+### 4.1.2 Fluxo do Usuário - Empreendedor
 
 <p align="justify"> O fluxo de telas do Empreendedor, distingue-se das telas do usuário-consumidor pois contém telas específicas para esse usuário que não são acessadas pelos consumidores. Há, no entanto, duas telas que são comuns para ambos perfis de usuários (empreendedor e consumidor): as telas homepage e tela de login.
 Dito isso, o fluxo dessas telas se torna um pouco mais simples, pois contém menor quantidade de telas.
@@ -151,6 +151,7 @@ No bloco à esquerda, o usuário possui algumas opções de filtro de pesquisa, 
 <p align="center">
  
 ![Tela lista de favoritos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/Lista%20de%20favoritos.png?raw=true "Tela lista de favoritos")
+ 
 </p>
 
 <p align="center">Figura 10 - Tela lista de favoritos</p>
