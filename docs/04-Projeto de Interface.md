@@ -16,7 +16,7 @@ O wireframe interativo deste projeto pode ser acessado pelo <a href="https://mar
 <p align="justify"> A imagem a seguir ilustra o fluxo de usuário “consumidor” em nosso site. Assim que o usuário entra no site, ele é apresentado à homepage onde ele tem a opção de fazer login sendo direcionado para outra tela na qual realizará o cadastro de usuário do perfil consumidor. Após fazer o cadastro ele é redirecionado à homepage para visualizar todos os produtos, existem dois modos para apresentação dos produtos, podem ser visualizados por categoria em uma tela ou por loja em outra tela. Ao clicar no produto específico é exibido o detalhamento do item em uma nova tela. O produto pode ser adicionado na lista de favoritos ou no carrinho de compras. Ao clicar no carrinho de compras abrirá uma nova tela onde realizará a conferência do pedido com a lista de produtos, para finalizar a compra abrirá por último a tela de pagamento. Toda vez que clicar na logo em qualquer tela que estiver, será redirecionado para a homepage. </p>
 
 <p align="center">
-  <img src="/docs/img/user flow_consumidor_imagem.jpg" alt="Fluxo de telas do usuário - Consumidor">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/user%20flow_consumidor_imagem.jpg" alt="Fluxo de telas do usuário - Consumidor">
 </p>
 <p align="center">Figura 2 - Fluxo de telas do usuário - Consumidor</p>
 
