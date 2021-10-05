@@ -70,7 +70,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/L5GwhGmV/projeto-desenvolvimento-web-e-commerce e é apresentado, no estado atual, na Figura 1.
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/trello.png" alt="quadro kanban">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/trello.png?raw=true" alt="quadro kanban">
 Figura 1 - Tela do kanban (Trello) utilizada pelo grupo
 
 As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
@@ -80,7 +80,7 @@ As tarefas são, ainda, etiquetadas em função da natureza da atividade e segue
 * Testes
 * Gerência de Projeto
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/etiquetas.PNG" alt="Etiquetas">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/etiquetas.PNG?raw=true" alt="Etiquetas">
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 

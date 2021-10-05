@@ -8,7 +8,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 Os componentes que fazem parte da solução são apresentados na Figura 16.
 
-![Diagrama de Componentes](/docs/img/diagramadecomponentes.png)
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/diagramadecomponentes.png?raw=true" alt="Diagrama de Componentes">
 <center>Figura 16- Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
@@ -27,7 +27,7 @@ A solução implementada conta com os seguintes módulos:
 As linguagens utilizadas para solução do problema são: HTML, CSS, JavaScript. Durante o desenvolvimento serão priorizadas o uso de ferramentas alternativas gratuitas de tecnologia, dentre elas: Trello, Marvel APP e WorkSpace. A hospedagem do site será feita através da plataforma heroku.
 A seguinte imagem mostra a interação do usuário com o sistema, por onde ela passa até retornar uma resposta ao usuário.
 
-![](/docs/img/interaçãodousiario.png)
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/intera%C3%A7%C3%A3odousiario.png?raw=true" alt="Intereção do Usuario">
 
 Figura 17 - Interação do usuário com o sistema
 
