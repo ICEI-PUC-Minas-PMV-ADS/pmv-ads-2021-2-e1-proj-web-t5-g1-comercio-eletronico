@@ -3,15 +3,29 @@
 
 ### Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada a seguir. 
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada a seguir.
 * Repositório de código fonte
    - GitHub: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico
 * Documentos do projeto
    - Google Docs: https://docs.google.com/document/d/1265JHL8JBO0dWtKnldzmhRNSvhvy2-joxFgG73JVvDw/edit
-* Projeto de Interface 
+* Projeto de Interface
    - MarvelApp: https://marvelapp.com/prototype/a6bc5j5
 * Gerenciamento do Projeto
    - Trello: https://trello.com/b/L5GwhGmV/projeto-desenvolvimento-web-e-commerce
+
+### Gestão de código fonte
+Com o intuito de manter a rastreabilidade das atualizações e revisões no software, será utilizado um método simples e eficiente de gestão do código fonte. Desta maneira será possível identificar o tempo e a pessoa responsável.
+Será utilizado um histórico de atualizações onde ficará registrada qualquer alteração que seja feita no código fonte. Sendo assim, poderá ser realizada uma consulta a qualquer momento.
+Será realizado backups incrementais e full permitindo o retorno simples e rápido a versões anteriores.
+Teremos como parâmetro a ideia de que será sempre uma prioridade manter a ordem para que seja fácil identificar falhas e, da mesma forma, seja simples e rápido de corrigir.
+Manteremos um controle de acesso autorizado para as revisões no intuito de solucionar conflitos de mudanças de forma ágil e eficaz.
+Os códigos devem ser escritos de forma limpa o suficiente para permitir a leitura e interpretação pelo próprio autor ou qualquer outro programador. Sendo sugerido, a princípio, a utilização do software Code Climate para auxiliar na análise das vulnerabilidades do código.
+Para reduzir a chance de erro na escrita de código será utilizada uma biblioteca de desenvolvimento como fonte de códigos previamente escritos, scripts, dados de configuração ou outras bases de código pronto para evitar o esforço desnecessário em recriar soluções. Esta biblioteca deverá ser atualizada sempre que um integrante desenvolver algo, por mais simples que seja.
+Será utilizada uma árvore de versões de código em forma de branches que permita a inteligibilidade das versões e correções implementadas.
+Poderá ser utilizado um software de gerenciamento com a finalidade de automatizar e tornar efetiva a gestão, evitando imperfeições indesejáveis, falhas e permitindo a construção eficiente do código.
+O GitHub é uma plataforma adquirida em 2018  pela Microsoft que auxilia o controle de versões do código fonte. Permite a colaboração de seus usuários em projetos open ou privados. Ele é amplamente utilizado para a divulgação de trabalhos ou somente como ferramenta colaborativa. Ele promove facilidade de comunicação além de possuir recursos que relatam problemas e mesclam repositórios remotos.
+Utilizaremos o GitHub em nossos trabalhos.
+
 
 ## Controle de Versão
 
@@ -54,7 +68,7 @@ A equipe está organizada da seguinte maneira:
 - Product Owner: Cristiane
 - Equipe de Desenvolvimento:
      - Rafaela
-     - Ezequiel 
+     - Ezequiel
      - Maria Luiza
 - Equipe de Design : Rafaela
 
@@ -83,14 +97,14 @@ As tarefas são, ainda, etiquetadas em função da natureza da atividade e segue
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/etiquetas.PNG?raw=true" alt="Etiquetas">
 
 > **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
+> - [11 Passos Essenciais para Implantar Scrum no seu
 > Projeto](https://mindmaster.com.br/scrum-11-passos/)
 > - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ### Processo
 
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
+
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
 > - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
@@ -112,7 +126,7 @@ diagramas utilizamos essa ferramenta por melhor captar as
 necessidades da nossa solução.
 
 Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
+
+> **Possíveis Ferramentas que auxiliarão no gerenciamento**:
 > - [Slack](https://slack.com/)
 > - [Github](https://github.com/)
