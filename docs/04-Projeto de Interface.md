@@ -60,7 +60,7 @@ Abaixo segue a imagem de fluxo do usuário - empreendedor:
 O bloco disponibilizado à esquerda apresenta as categorias disponíveis para consulta. Cada elemento deste componente direciona o usuário para a seção correspondente. </p>
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/Homepage.png" alt="Tela Homepage">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/Homepage.png?raw=true" alt="Tela Homepage">
 </p>
 <p align="center">Figura 4 - Tela Homepage</p>
 
