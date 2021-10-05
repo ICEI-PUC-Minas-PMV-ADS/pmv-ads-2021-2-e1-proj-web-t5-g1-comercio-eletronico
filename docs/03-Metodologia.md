@@ -14,6 +14,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
    - Trello: https://trello.com/b/L5GwhGmV/projeto-desenvolvimento-web-e-commerce
 
 ### Gestão de código fonte
+
 Com o intuito de manter a rastreabilidade das atualizações e revisões no software, será utilizado um método simples e eficiente de gestão do código fonte. Desta maneira será possível identificar o tempo e a pessoa responsável.
 Será utilizado um histórico de atualizações onde ficará registrada qualquer alteração que seja feita no código fonte. Sendo assim, poderá ser realizada uma consulta a qualquer momento.
 Será realizado backups incrementais e full permitindo o retorno simples e rápido a versões anteriores.
