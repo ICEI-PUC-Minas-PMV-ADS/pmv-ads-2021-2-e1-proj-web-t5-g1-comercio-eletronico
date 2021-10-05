@@ -136,11 +136,21 @@ No bloco à esquerda, o usuário possui algumas opções de filtro de pesquisa, 
 
 ### Tela: Finalização do Pedido e Lista de Produtos (carrinho)
 
-Na tela de finalização do pedido o site apresenta os itens adicionados ao carrinho e exibe 3 abas para que o comprador possa preencher o endereço de entrega, escolher a forma de pagamento e entrega. Também é nesta tela que se tem o botão de finalizar a compra que direciona para a tela de efetuar o pagamento.
+<p align="justify"> Na tela de finalização do pedido o site apresenta os itens adicionados ao carrinho e exibe 3 abas para que o comprador possa preencher o endereço de entrega, escolher a forma de pagamento e entrega. Também é nesta tela que se tem o botão de finalizar a compra que direciona para a tela de efetuar o pagamento.</p>
+
+<p align="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/Tela%20de%20finaliza%C3%A7%C3%A3o%20da%20compra.jpg?raw=true" alt="Tela: Finalização do Pedido e Lista de Produtos e carrinho">
+</p>
+<p align="center">Figura 11 - Tela Finalização do Pedido e Lista de Produtos e carrinho</p>
 
 ### Tela: Efetuar Pagamento
 
-Nesta tela o consumidor irá ser impactado com a possibilidade de realizar uma doação para um projeto e de optar ou não por uma entrega com emissões zero de carbono. Clicando no valor desejado, o valor será acrescentado ao campo de doação no resumo do pedido. Após realizar as opções desejadas basta clicar em confirmar o pedido e a compra estará finalizada.
+<p align="justify"> Nesta tela o consumidor irá ser impactado com a possibilidade de realizar uma doação para um projeto e de optar ou não por uma entrega com emissões zero de carbono. Clicando no valor desejado, o valor será acrescentado ao campo de doação no resumo do pedido. Após realizar as opções desejadas basta clicar em confirmar o pedido e a compra estará finalizada.</p>
+
+<p align="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/Efetuar%20pagamento.jpg?raw=true" alt="Tela: Efetuar Pagamento">
+</p>
+<p align="center">Figura 12 - Tela  Efetuar Pagamento</p>
 
 ### Tela: Cadastro de Usuário – Loja do Empreendedor
 
