@@ -134,11 +134,11 @@ No bloco à esquerda, o usuário possui algumas opções de filtro de pesquisa, 
 </p>
 <p align="center">Figura 10 - Tela lista de favoritos</p>
 
-### TELA: Finalização do Pedido e Lista de Produtos (carrinho)
+### Tela: Finalização do Pedido e Lista de Produtos (carrinho)
 
 Na tela de finalização do pedido o site apresenta os itens adicionados ao carrinho e exibe 3 abas para que o comprador possa preencher o endereço de entrega, escolher a forma de pagamento e entrega. Também é nesta tela que se tem o botão de finalizar a compra que direciona para a tela de efetuar o pagamento.
 
-### TELA: Efetuar Pagamento
+### Tela: Efetuar Pagamento
 
 Nesta tela o consumidor irá ser impactado com a possibilidade de realizar uma doação para um projeto e de optar ou não por uma entrega com emissões zero de carbono. Clicando no valor desejado, o valor será acrescentado ao campo de doação no resumo do pedido. Após realizar as opções desejadas basta clicar em confirmar o pedido e a compra estará finalizada.
 
