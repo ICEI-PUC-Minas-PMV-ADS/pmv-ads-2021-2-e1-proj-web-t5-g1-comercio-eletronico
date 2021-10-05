@@ -8,7 +8,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 Os componentes que fazem parte da solução são apresentados na Figura 16.
 
-![Diagrama de Componentes](/docs/diagramadecomponentes.png)
+![Diagrama de Componentes](/docs/img/diagramadecomponentes.png)
 <center>Figura 16- Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
@@ -27,7 +27,7 @@ A solução implementada conta com os seguintes módulos:
 As linguagens utilizadas para solução do problema são: HTML, CSS, JavaScript. Durante o desenvolvimento serão priorizadas o uso de ferramentas alternativas gratuitas de tecnologia, dentre elas: Trello, Marvel APP e WorkSpace. A hospedagem do site será feita através da plataforma heroku.
 A seguinte imagem mostra a interação do usuário com o sistema, por onde ela passa até retornar uma resposta ao usuário.
 
-![](/docs/interaçãodousiario.png)
+![](/docs/img/interaçãodousiario.png)
 
 Figura 17 - Interação do usuário com o sistema
 
