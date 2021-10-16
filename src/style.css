@@ -1,0 +1,39 @@
+.cabecalho{
+    border: 1px solid #000;
+    display: flex;
+    align-content: center;
+    margin: 0px;
+    background-color: whitesmoke
+    }
+
+.cab1{
+   border-radius: 5px;
+   margin:0px 
+  
+}    
+
+#logo {
+    padding: 0px;
+    border:0px
+    
+}
+
+#formulario {
+    padding: 18px 260px 15px 220px;
+}
+
+#favoritos  {
+    padding: 40px 30px;
+    text-decoration: lightcoral;
+}
+
+#entrar  {
+    padding: 40px 30px;
+    text-decoration: lightcoral;
+    }
+
+    
+#carrinho  {
+padding: 40px 30px;
+text-decoration: lightcoral;
+}
