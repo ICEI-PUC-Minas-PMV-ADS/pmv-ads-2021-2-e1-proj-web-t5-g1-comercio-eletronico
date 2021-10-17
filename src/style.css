@@ -16,7 +16,41 @@ aside ul {
     font-size: large;
 }
 
+.cabecalho{
+    display: flex;
+    margin: 0px;
+    background-color: whitesmoke
+}
 
+
+
+.logo {
+    padding: 0px;
+    border:0px
+}
+
+.formulario {
+    padding: 50px 200px 10px 180px;
+    border: 0 auto;
+}
+
+.favoritos  {
+    padding: 50px 20px;
+    margin: 0 auto;
+    text-decoration-line:none;
+}
+
+.entrar  {
+    padding: 50px 20px;
+    margin: 0 auto;
+}
+
+    
+.carrinho  {
+    padding: 50px 20px;
+    margin: 0 auto;
+    
+}
 
 .ofertas h1 {
     padding: 10px;
