@@ -4,7 +4,6 @@
     text-decoration: none;
     margin: 0 auto;
     color: black;
-    
 }
 
 aside ul {
@@ -21,8 +20,6 @@ aside ul {
     margin: 0px;
     background-color: whitesmoke
 }
-
-
 
 .logo {
     padding: 0px;
@@ -49,7 +46,7 @@ aside ul {
 .carrinho  {
     padding: 50px 20px;
     margin: 0 auto;
-    
+
 }
 
 .ofertas h1 {
@@ -63,6 +60,7 @@ main .ofertas ul {
     display: flexbox;
     justify-content: center;
 }
+
 .ofertas ul li {
     float: right;
     text-align:justify;
@@ -73,6 +71,4 @@ main .ofertas ul {
     align-items: center;
     text-align: center;
     background-color: darkred;
-
-
 }
