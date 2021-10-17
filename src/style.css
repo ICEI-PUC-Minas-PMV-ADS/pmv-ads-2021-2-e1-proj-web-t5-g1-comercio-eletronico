@@ -1,52 +1,66 @@
+
+* {
+   font-family: Arial, Helvetica, sans-serif;
+   text-decoration: none;
+}
+
 .cabecalho{
     border: 1px solid #000;
     display: flex;
     align-content: center;
     margin: 0px;
     background-color: whitesmoke
-    
-    }
+}
 
 .cab1{
    border-radius: 5px;
    margin:0px 
-   
-  
 }    
+
+.cab1 {
+    color: black;
+}
 
 #logo {
     padding: 0px;
     border:0px
-    
 }
 
 #formulario {
-    padding: 50px 150px 10px 180px;
+    padding: 50px 200px 10px 180px;
 }
 
 #favoritos  {
     padding: 50px 20px;
-    text-decoration:none;
-    
+    text-decoration-line:none;
 }
 
 #entrar  {
     padding: 50px 20px;
-    text-decoration: lightcoral;
-    }
+}
 
     
 #carrinho  {
     padding: 50px 20px;
-    text-decoration: lightcoral;
+    
 }
 
+main {
+   
+}
 aside ul {
+    margin-top: 50px;
     font-size: large ;
-    line-height: 32px;
+    line-height: 50px;
 
 }
 
-main ul {
-    line-height: 20px;
+main ul li {
+    padding: 0 50px;
+    line-height: 25px;
+    float: right;
+    display: inline-flexbox;
+    list-style-type:none
+      
 }
+
