@@ -5,6 +5,7 @@
     margin: 0 auto;
     color: black;
     
+<<<<<<< Updated upstream
  }
  
  .cabecalho{
@@ -70,3 +71,42 @@
  
  
  }
+=======
+}
+
+aside ul {
+    line-height: 50px;
+    list-style-type:none;
+    float: left;
+    padding: 10px 40px 15px 40px;
+    background-color: cyan;
+    font-size: large;
+}
+
+
+
+.ofertas h1 {
+    padding: 10px;
+    background-color: chocolate;
+    text-align: center;
+}
+
+main .ofertas ul {
+    padding: 40px 60px;
+    display: flexbox;
+    justify-content: center;
+}
+.ofertas ul li {
+    float: right;
+    text-align:justify;
+    list-style-type:none;
+    display: inline-flexbox; 
+    justify-content: space-around ;  
+    padding: 40px 60px 20px;
+    align-items: center;
+    text-align: center;
+    background-color: darkred;
+
+
+}
+>>>>>>> Stashed changes
