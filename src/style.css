@@ -19,9 +19,13 @@ aside ul {
     background-color: cyan;
 }
 
-
+body {
+    display: flexbox;
+    flex-wrap: wrap;
+}
 .cabecalho{
     display: flex;
+    flex-wrap: wrap;
     background-color: whitesmoke
 }
 
@@ -30,7 +34,8 @@ aside ul {
 }
 
 .formulario {
-    padding: 50px 200px 10px 180px;
+    display: flexbox;
+    flex-wrap: wrap;
 }
 
 .favoritos  {
@@ -48,7 +53,6 @@ aside ul {
 .carrinho  {
     padding: 4% 1% 2%;
     margin: 0 auto;
-
 }
 
 .ofertas h1 {
@@ -59,7 +63,7 @@ aside ul {
 
 .ofertas ul{
     margin: 0 10% 0 0;
-    background-color: blue;
+    background-color: blue; 
 }
 
 
