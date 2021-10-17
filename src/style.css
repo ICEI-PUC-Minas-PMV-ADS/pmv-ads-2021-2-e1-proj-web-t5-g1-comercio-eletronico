@@ -22,7 +22,7 @@ aside ul {
 body {
     display: flexbox;
     flex-flow: row wrap;
-    /*flex-wrap: wrap;*/
+    flex-wrap: wrap;
 }
 .cabecalho{
     display: flex;
@@ -64,7 +64,6 @@ body {
 
 .ofertas ul{
     margin: 0 10% 0 0;
-    
     display: flex;
     flex-wrap: wrap;
     align-content: flex-start;
@@ -77,7 +76,6 @@ body {
     padding: 2.5% 5% 1% 5% ;
     text-align: center;
     background-color: peachpuff;
-
-    
+ 
 }
 
