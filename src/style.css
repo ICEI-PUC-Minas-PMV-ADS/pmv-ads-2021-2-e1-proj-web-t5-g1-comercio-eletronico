@@ -4,19 +4,14 @@
    text-decoration: none;
 }
 
-.cabecalho {
+.cabecalho{
     border: 1px solid #000;
     display: flex;
-    align-content: center;
     margin: 0px;
     background-color: whitesmoke
 }
 
-.cab1 {
-   border-radius: 5px;
-   margin:0px 
-   color: black;
-}    
+
 
 #logo {
     padding: 0px;
@@ -50,14 +45,14 @@ aside ul {
 
 }
 
+main {
+    margin-top: 0;
+}
 main ul li {
-    margin: 0px 25px;
     padding: 0 50px;
     line-height: 25px;
     float: right;
-    
     display: inline-flexbox;
-    position: relative;
     list-style-type:none;
       
 }
