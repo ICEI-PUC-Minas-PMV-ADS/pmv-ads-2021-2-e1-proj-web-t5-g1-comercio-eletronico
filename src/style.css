@@ -4,11 +4,13 @@
     align-content: center;
     margin: 0px;
     background-color: whitesmoke
+    
     }
 
 .cab1{
    border-radius: 5px;
    margin:0px 
+   
   
 }    
 
@@ -19,21 +21,32 @@
 }
 
 #formulario {
-    padding: 18px 260px 15px 220px;
+    padding: 50px 150px 10px 180px;
 }
 
 #favoritos  {
-    padding: 40px 30px;
-    text-decoration: lightcoral;
+    padding: 50px 20px;
+    text-decoration:none;
+    
 }
 
 #entrar  {
-    padding: 40px 30px;
+    padding: 50px 20px;
     text-decoration: lightcoral;
     }
 
     
 #carrinho  {
-padding: 40px 30px;
-text-decoration: lightcoral;
+    padding: 50px 20px;
+    text-decoration: lightcoral;
+}
+
+aside ul {
+    font-size: large ;
+    line-height: 32px;
+
+}
+
+main ul {
+    line-height: 20px;
 }
