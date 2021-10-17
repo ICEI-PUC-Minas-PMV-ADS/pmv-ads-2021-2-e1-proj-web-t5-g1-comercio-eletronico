@@ -5,73 +5,6 @@
     margin: 0 auto;
     color: black;
     
-<<<<<<< Updated upstream
- }
- 
- .cabecalho{
-     display: flex;
-     margin: 0px;
-     background-color: whitesmoke
- }
- 
- 
- 
- .logo {
-     padding: 0px;
-     border:0px
- }
- 
- .formulario {
-     padding: 50px 200px 10px 180px;
-     border: 0 auto;
- }
- 
- .favoritos  {
-     padding: 50px 20px;
-     margin: 0 auto;
-     text-decoration-line:none;
- }
- 
- .entrar  {
-     padding: 50px 20px;
-     margin: 0 auto;
- }
- 
-     
- .carrinho  {
-     padding: 50px 20px;
-     margin: 0 auto;
-     
- }
- 
- aside ul {
-     line-height: 50px;
-     list-style-type:none;
-     float: left;
-     padding: 10px 40px 15px 40px;
-     background-color: cyan;
-     font-size: large;
- }
- 
- 
- 
- .ofertas h1 {
-     border: 20px 15px;
-     padding: 10px;
-     background-color: chocolate;
-     text-align: center;
- }
- 
- .ofertas ul li {
-     float: right;
-     list-style-type:none;
-     display: inline-flexbox;   
-     padding: 5px;
-     align-items: center;
- 
- 
- }
-=======
 }
 
 aside ul {
@@ -109,4 +42,3 @@ main .ofertas ul {
 
 
 }
->>>>>>> Stashed changes
