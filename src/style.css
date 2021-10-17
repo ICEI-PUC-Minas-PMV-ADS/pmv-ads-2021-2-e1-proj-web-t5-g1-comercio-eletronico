@@ -15,7 +15,7 @@ aside ul {
     line-height: 50px;
     list-style-type:none;
     float: left;
-    padding: 10px 40px 15px 40px;
+    padding: 0 4% 1% 4%;
     background-color: cyan;
 }
 
@@ -27,35 +27,33 @@ aside ul {
 }
 
 .logo {
-    padding: 0px;
-    border:0px
+    padding: 0;
 }
 
 .formulario {
     padding: 50px 200px 10px 180px;
-    border: 0 auto;
 }
 
 .favoritos  {
-    padding: 50px 20px;
+    padding: 4% 0 2%;
     margin: 0 auto;
     text-decoration-line:none;
 }
 
 .entrar  {
-    padding: 50px 20px;
+    padding: 4% 0 2%;
     margin: 0 auto;
 }
 
     
 .carrinho  {
-    padding: 50px 20px;
+    padding: 4% 1% 2%;
     margin: 0 auto;
 
 }
 
 .ofertas h1 {
-    padding: 10px;
+    padding: 1%;
     background-color: chocolate;
     text-align: center;
 }
@@ -66,13 +64,12 @@ aside ul {
 }
 
 
-.ofertas ul li {
+.ofertas li {
     float: right;
     list-style-type:none;
     display: inline-flexbox; 
     padding: 2.5% 5% 1% 5% ;
-    flex-direction: row;
     text-align: center;
-    background-color: darkred;
+    background-color: peachpuff;
 }
 
