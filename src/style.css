@@ -3,6 +3,7 @@
    font-family: Arial, Helvetica, sans-serif;
    text-decoration: none;
    margin: 0 auto;
+   color: black;
    
 }
 
@@ -58,6 +59,14 @@ aside ul {
     padding: 10px;
     background-color: chocolate;
     text-align: center;
-    }
+}
 
-    
+.ofertas ul li {
+    float: right;
+    list-style-type:none;
+    display: inline-flexbox;   
+    padding: 5px;
+    align-items: center;
+
+
+}
