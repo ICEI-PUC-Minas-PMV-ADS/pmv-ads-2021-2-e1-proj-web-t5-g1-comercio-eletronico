@@ -6,6 +6,9 @@
     color: black;
 }
 
+aside h1 {
+    
+}
 aside ul {
     line-height: 50px;
     list-style-type:none;
@@ -55,20 +58,31 @@ aside ul {
     text-align: center;
 }
 
-main .ofertas ul {
-    padding: 40px 60px;
-    display: flexbox;
-    justify-content: center;
+.ofertas ul{
+    margin: 0 10% 0 0;
+    background-color: blue;
 }
+
 
 .ofertas ul li {
     float: right;
-    text-align:justify;
     list-style-type:none;
     display: inline-flexbox; 
-    justify-content: space-around ;  
-    padding: 40px 60px 20px;
-    align-items: center;
+    padding: 2.5% 5% 1% 5% ;
+    
+    flex-direction: row;
     text-align: center;
     background-color: darkred;
+}
+
+
+/* justify-content: flex-end ; 
+    align-items: center;
+
+
+    {
+    padding: 40px 60px;
+    display: flexbox;
+    
+   
 }
