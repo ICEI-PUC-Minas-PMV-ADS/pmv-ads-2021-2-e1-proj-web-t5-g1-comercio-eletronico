@@ -14,29 +14,29 @@
 
 
 
-#logo {
+.logo {
     padding: 0px;
     border:0px
 }
 
-#formulario {
+.formulario {
     padding: 50px 200px 10px 180px;
     border: 0 auto;
 }
 
-#favoritos  {
+.favoritos  {
     padding: 50px 20px;
     margin: 0 auto;
     text-decoration-line:none;
 }
 
-#entrar  {
+.entrar  {
     padding: 50px 20px;
     margin: 0 auto;
 }
 
     
-#carrinho  {
+.carrinho  {
     padding: 50px 20px;
     margin: 0 auto;
     
@@ -49,28 +49,15 @@ aside ul {
     padding: 10px 40px 15px 40px;
     background-color: cyan;
     font-size: large;
-
-
 }
 
-main {
+
+
+.ofertas h1 {
     border: 20px 15px;
     padding: 10px;
     background-color: chocolate;
-}
-
-main ul li {
-    padding: 100px 150px;
-    line-height: 25px;
-    float: right;
-    display: inline-flexbox;
-    list-style-type:none;
     text-align: center;
-    background-color: chartreuse;
-  
-      
-}
+    }
 
-h1 {
-    text-align: center;
-}
+    
