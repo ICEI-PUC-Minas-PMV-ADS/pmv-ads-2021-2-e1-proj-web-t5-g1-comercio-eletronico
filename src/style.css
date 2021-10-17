@@ -21,7 +21,8 @@ aside ul {
 
 body {
     display: flexbox;
-    flex-wrap: wrap;
+    flex-flow: row wrap;
+    /*flex-wrap: wrap;*/
 }
 .cabecalho{
     display: flex;
@@ -63,16 +64,20 @@ body {
 
 .ofertas ul{
     margin: 0 10% 0 0;
-    background-color: blue; 
+    
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
 }
 
 
 .ofertas li {
     float: right;
     list-style-type:none;
-    display: inline-flexbox; 
     padding: 2.5% 5% 1% 5% ;
     text-align: center;
     background-color: peachpuff;
+
+    
 }
 
