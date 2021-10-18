@@ -21,8 +21,7 @@ aside ul {
 
 body {
     display: flexbox;
-    flex-flow: row wrap;
-    flex-wrap: wrap;
+    flex-flow: column wrap;
 }
 .cabecalho{
     display: flex;
@@ -35,8 +34,9 @@ body {
 }
 
 .formulario {
-    display: flexbox;
+    padding: 5% 2% 1% 5%;
     flex-wrap: wrap;
+    
 }
 
 .favoritos  {
