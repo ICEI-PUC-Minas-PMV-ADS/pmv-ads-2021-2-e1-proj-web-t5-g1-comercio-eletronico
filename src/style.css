@@ -6,6 +6,76 @@
     color: black;
 }
 
+body {
+    display: flexbox;
+    flex-flow: column wrap;
+}
+
+.cabecalho{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightcyan;    
+    
+}
+
+#logo {
+    padding: 0 1%  ;
+    margin: 0;
+}
+
+
+#pesquisa form{
+    display: flex;
+    padding: 5% 15% 0% 1%;
+    align-content: flex-start;
+}
+
+#pesquisa input{
+    font-size: 13px;
+    padding: 10px 70px;
+    border: 1px solid #999;
+    border-radius:15px;
+    width: 550px;
+    max-width: 550px; 
+       }
+
+#pesquisa button{
+    border: 0px;
+    background: transparent;
+    margin-left: -45px;
+}
+
+#pesquisa button img{
+    width: 25px;
+    height: 25px;
+    align-items: right;
+}
+
+#favoritos  {
+    margin: 1%;
+    text-decoration-line:none;
+    padding: 3% 0 1% 0;
+}
+
+#entrar  {
+   margin: 1%;
+   padding: 3% 0 1% 0;
+}
+    
+#carrinho  {
+    padding: 3% 0 1% 0;
+    margin: 1%;
+    
+}
+
+#entrar img{
+    width: 30px;
+    height: 30px;
+}
+
+
 aside h1 {
     font-size: large;
 }
@@ -16,75 +86,6 @@ aside ul {
     float: left;
     padding: 0 4% 1% 4%;
     background-color: cyan;
-}
-
-body {
-    display: flexbox;
-    flex-flow: column wrap;
-}
-.cabecalho{
-    display: flex;
-    flex-wrap: wrap;
-    background-color: whitesmoke;
-    justify-content: space-between;
-    height: 153px;
-    align-items: center;
-}
-
-.logo {
-    padding: 0 1%  ;
-    margin: 0;
-}
-
-.pesquisa form{
-    display: flex;
-}
-
-.pesquisa input{
-    font-size: 13px;
-    padding: 10px 70px;
-    border: 1px solid #999;
-    width: 100%;
-    max-width: 250px;
-}
-
-.pesquisa button{
-    border: 0px;
-    background: transparent;
-    margin-left: -45px;
-}
-
-.pesquisa button img{
-    width: 25px;
-    height: 25px;
-    align-items: right;
-}
-
-.favoritos  {
-    padding: 4% 0 2%;
-    margin: 0 auto;
-    text-decoration-line:none;
-}
-
-.entrar  {
-    padding: 4% 0 2%;
-    margin: 0 auto;
-}
-    
-.carrinho  {
-    padding: 4% 1% 2%;
-    margin: 0 auto;
-}
-
-.carrinho img{
-    width: 40px;
-    height: 40px;
-}
-
-
-.entrar img{
-    width: 30px;
-    height: 30px;
 }
 
 
