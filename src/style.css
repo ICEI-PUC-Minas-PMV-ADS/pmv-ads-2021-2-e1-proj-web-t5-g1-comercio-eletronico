@@ -6,7 +6,6 @@
     color: black;
 }
 
-
 aside h1 {
     font-size: large;
 }
@@ -26,17 +25,43 @@ body {
 .cabecalho{
     display: flex;
     flex-wrap: wrap;
-    background-color: whitesmoke
+    background-color: whitesmoke;
+    justify-content: space-between;
+    height: 153px;
+    align-items: center;
 }
 
 .logo {
     padding: 0;
 }
 
-.formulario {
-    padding: 5% 2% 1% 5%;
-    flex-wrap: wrap;
-    
+.logo img{
+    width: 153px;
+    height: 140px;
+    background: transparent;
+}
+
+.pesquisa form{
+    display: flex;
+}
+
+.pesquisa input{
+    font-size: 13px;
+    padding: 10px 70px;
+    border: 1px solid #999;
+    width: 100%;
+    max-width: 250px;
+}
+
+.pesquisa button{
+    border: 0px;
+    background: transparent;
+    margin-left: -45px;
+}
+
+.pesquisa button img{
+    width: 25px;
+    height: 25px;
 }
 
 .favoritos  {
@@ -49,12 +74,23 @@ body {
     padding: 4% 0 2%;
     margin: 0 auto;
 }
-
     
 .carrinho  {
     padding: 4% 1% 2%;
     margin: 0 auto;
 }
+
+.carrinho img{
+    width: 40px;
+    height: 40px;
+}
+
+
+.entrar img{
+    width: 30px;
+    height: 30px;
+}
+
 
 .ofertas h1 {
     padding: 1%;
@@ -69,7 +105,6 @@ body {
     align-content: flex-start;
 }
 
-
 .ofertas li {
     float: right;
     list-style-type:none;
@@ -78,4 +113,5 @@ body {
     background-color: peachpuff;
  
 }
+
 
