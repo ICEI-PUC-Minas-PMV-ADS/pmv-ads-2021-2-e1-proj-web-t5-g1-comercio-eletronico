@@ -25,6 +25,11 @@ body {
     margin: 0;
 }
 
+#pesquisa {
+    display: flexbox;
+    flex-wrap: row wrap;
+    align-content: flex-end;
+}
 
 #pesquisa form{
     display: flex;
@@ -104,3 +109,8 @@ aside ul {
 }
 
 
+@media only screen and (max-width: 600px) {
+    #pesquisa {
+     width: 100%;
+    }
+  }
