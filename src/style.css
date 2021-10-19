@@ -80,13 +80,11 @@ aside ul {
     list-style-type:none;
     float: left;
     padding: 0 4% 1% 4%;
-    background-color: cyan;
 }
 
 
 .ofertas h1 {
     padding: 1%;
-    background-color: chocolate;
     text-align: center;
 }
 
@@ -100,10 +98,9 @@ aside ul {
 .ofertas li {
     float: right;
     list-style-type:none;
-    padding: 2.5% 5% 1% 5% ;
+    padding: 0.5% 5% 1% 5% ;
     text-align: center;
-    background-color: peachpuff;
- 
+     
 }
 
 
