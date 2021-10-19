@@ -16,7 +16,7 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    background-color: lightcyan;    
+    background: linear-gradient(#e9dde9, #9ef0d4);
     
 }
 
