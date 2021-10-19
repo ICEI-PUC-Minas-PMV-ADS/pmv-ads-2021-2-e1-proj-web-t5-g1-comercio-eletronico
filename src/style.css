@@ -36,12 +36,6 @@ body {
     margin: 0;
 }
 
-.logo img{
-    width: 153px;
-    height: 140px;
-    background: transparent;
-}
-
 .pesquisa form{
     display: flex;
 }
