@@ -32,7 +32,8 @@ body {
 }
 
 .logo {
-    padding: 0;
+    padding: 0 1%  ;
+    margin: 0;
 }
 
 .logo img{
@@ -62,6 +63,7 @@ body {
 .pesquisa button img{
     width: 25px;
     height: 25px;
+    align-items: right;
 }
 
 .favoritos  {
