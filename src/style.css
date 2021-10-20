@@ -19,9 +19,17 @@ body {
     background: linear-gradient(lightblue, white);
     
 }
-
+.cabecalho h2 {
+    color: rgb(76, 50, 84);
+    font-size: 25px;
+    text-align: left;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 40;
+    
+}
 #logo {
-    padding: 0 1%  ;
+    padding: 0 0 0 1%;
     margin: 0;
 }
 
