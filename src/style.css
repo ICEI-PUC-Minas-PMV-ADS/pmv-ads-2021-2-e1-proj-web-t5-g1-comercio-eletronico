@@ -56,6 +56,7 @@ body {
     width: 25px;
     height: 25px;
     align-items: right;
+    cursor: pointer;
 }
 
 #favoritos  {
@@ -80,6 +81,12 @@ aside {
     float: left;
     padding: 0 4% 1% 4%;
 }
+
+aside li:hover{
+    background-color:whitesmoke;
+    cursor: pointer;
+}
+
 aside h1 {
     font-size: large;
 }
@@ -104,14 +111,21 @@ aside ul {
     width: fit-content;
 }
 
-.ofertas li {
-    float: right;
-    list-style-type:none;
-    padding: 0.5% 5% 1% 5% ;
-    text-align: center;
-     
+.produtos{
+    display: inline-block;
+    padding: 10px;
+    padding-top:80px;
 }
 
+.produtos span{
+    display: block;
+    text-align: center;
+}
+
+.produtos a{
+    display: block;
+    text-align: center;
+}
 
 @media only screen and (max-width: 600px) {
     #pesquisa {
