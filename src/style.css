@@ -103,18 +103,17 @@ aside ul {
     text-align: center;
 }
 
-.ofertas {
-    margin: 0 10% 0 0;
-    display: flex;
-    flex-wrap: wrap;
-    align-content: flex-start;
-    width: fit-content;
-}
-
 .produtos{
     display: inline-block;
-    padding: 10px;
-    padding-top:80px;
+    padding: 5px;
+    padding-top:5px;
+    border: 2px solid lightgrey ;
+    margin: 25px;
+}
+
+.produtos:hover{
+    background-color: gainsboro;
+    cursor: pointer;
 }
 
 .produtos span{
