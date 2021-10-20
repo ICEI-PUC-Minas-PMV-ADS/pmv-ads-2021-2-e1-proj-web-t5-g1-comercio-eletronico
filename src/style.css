@@ -117,4 +117,7 @@ aside ul {
     #pesquisa {
      width: 100%;
     }
+    #pesquisa input {
+        width: 100%;
+    }
   }
