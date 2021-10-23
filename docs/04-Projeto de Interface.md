@@ -67,8 +67,8 @@ O bloco disponibilizado à esquerda apresenta as categorias disponíveis para co
 
 A elaboração da Tela Homepage buscou atender aos seguintes requisitos funcionais:
 
->- **Requisito Funcional - 10:** O site deve possuir um campo para pesquisa de produtos conforme a palavra-chave inserida e demais filtros de pesquisa definidos pelo consumidor: categoria, preço (máximo e mínimo), gênero, tamanho, tipo de material e certificações.
->- **Requisito Funcional - 24:** O mecanismo de busca do site deve sugerir a loja mais próxima ao consumidor, de acordo com o produto desejado, de forma a valorizar a economia local.
+- **Requisito Funcional-10:** O site deve possuir um campo para pesquisa de produtos conforme a palavra-chave inserida e demais filtros de pesquisa definidos pelo consumidor: categoria, preço (máximo e mínimo), gênero, tamanho, tipo de material e certificações.
+- **Requisito Funcional-24:** O mecanismo de busca do site deve sugerir a loja mais próxima ao consumidor, de acordo com o produto desejado, de forma a valorizar a economia local.
 
 ### Tela: Login
 
@@ -83,7 +83,7 @@ A elaboração da Tela Homepage buscou atender aos seguintes requisitos funciona
 <p align="center">Figura 5 - Tela de Login</p>
 
 A elaboração da Tela Login atende ao seguinte requisito funcional:
-> - **Requisito Funcional-09: ** O site devera permitir o usuário (empreendedor e consumidor) o login com nome de usuário ou e-mail, e senha
+- **Requisito Funcional-9:** O site devera permitir o usuário (empreendedor e consumidor) o login com nome de usuário ou e-mail, e senha
 
 ### Tela: Cadastro de Usuário - Perfil do Consumidor
 
@@ -98,7 +98,7 @@ Nesta tela o empreendedor poderá fazer o seu cadastro. Para isso, será necess�
 <p align="center">Figura 6 – Tela cadastro do usuário - Consumidor</p>
 
 A elaboração da Tela Cadastro de Usuário - Perfil do Consumidor atende aos seguintes requisitos funcionais:
-> - **Requisito Funcional-10: ** O site deve permitir que os empreendedores realizem o seu cadastro de usuário do site com os seguintes campos: nome de usuário, nome da empresa, e-mail, telefone, CNPJ, endereço.
+- **Requisito Funcional-10:** O site deve permitir que os empreendedores realizem o seu cadastro de usuário do site com os seguintes campos: nome de usuário, nome da empresa, e-mail, telefone, CNPJ, endereço.
 
 ### Tela: Apresentação dos produtos por loja
 
@@ -112,9 +112,9 @@ No bloco à esquerda, o usuário possui algumas opções de filtro de pesquisa, 
 <p align="center">Figura 7 - Tela de apresentação de produtos por loja</p>
 
 A elaboração da Tela Apresentação dos produtos por loja atende aos seguintes requisitos funcionais:
-> - **Requisito Funcional-02:** O site teve permitir que cada empreendedor cadastrado possua uma página web com o nome e descrição da sua marca, logo da marca, e produtos disponíveis.
-> - **Requisito Funcional-04:** O site deve permitir ao empreendedor ter uma página web para cada produto cadastrado, com foto e informações detalhadas do produto: nome do produto, categoria, preço (máximo e mínimo), gênero, tamanho, tipo de material e certificações.
-> - **Requisito Funcional-15:** O site deve indicar a localização (cidade) do empreendedor/loja física.
+- **Requisito Funcional-2:** O site teve permitir que cada empreendedor cadastrado possua uma página web com o nome e descrição da sua marca, logo da marca, e produtos disponíveis.
+- **Requisito Funcional-4:** O site deve permitir ao empreendedor ter uma página web para cada produto cadastrado, com foto e informações detalhadas do produto: nome do produto, categoria, preço (máximo e mínimo), gênero, tamanho, tipo de material e certificações.
+- **Requisito Funcional-15:** O site deve indicar a localização (cidade) do empreendedor/loja física.
 
 
 
@@ -130,8 +130,8 @@ No bloco à esquerda, o usuário possui algumas opções de filtro de pesquisa, 
 <p align="center">Figura 8 - Tela de apresentação dos produtos por categoria</p>
 
 A elaboração da Tela Apresentação dos produtos por categoria atende aos seguintes requisitos funcionais:
-> - **Requisito Funcional-10:** O site deve possuir um campo para pesquisa de produtos conforme a palavra-chave inserida e demais filtros de pesquisa definidos pelo consumidor: categoria, preço (máximo e mínimo), gênero, tamanho, tipo de material e certificações
-> - **Requisito Funcional-11:** O site deve permitir que o consumidor ordene os itens pesquisados por: mais vendidos, maior preço, menor preço e mais bem avaliados
+- **Requisito Funcional-10:** O site deve possuir um campo para pesquisa de produtos conforme a palavra-chave inserida e demais filtros de pesquisa definidos pelo consumidor: categoria, preço (máximo e mínimo), gênero, tamanho, tipo de material e certificações
+- **Requisito Funcional-11:** O site deve permitir que o consumidor ordene os itens pesquisados por: mais vendidos, maior preço, menor preço e mais bem avaliados
 
 ### Tela: Detalhamento do produto
 
@@ -143,11 +143,11 @@ A elaboração da Tela Apresentação dos produtos por categoria atende aos segu
 <p align="center">Figura 9 - Tela  de detalhamento do produto</p>
 
 A elaboração da Tela Detalhamento do produto atende aos seguintes requisitos funcionais:
-> - **Requisito Funcional-04:** O site deve permitir ao empreendedor ter uma página web para cada produto cadastrado, com foto e informações detalhadas do produto: nome do produto, categoria, preço (máximo e mínimo), gênero, tamanho, tipo de material e certificações.
-> - **Requisito Funcional-12:** O site deve permitir que o consumidor adicione produtos ao carrinho de compras.
-> - **Requisito Funcional-15:** O site deve indicar a localização (cidade) do empreendedor/loja física.
-> - **Requisito Funcional-20:** O site deve permitir que após a conclusão da compra, o consumidor avalie os produtos adquiridos em forma de texto e nota (1 a 5, sendo 1 a nota mínima e 5 a nota máxima).
-> - **Requisito Funcional-22:** O site deve possuir um campo (caixa de texto) para que o consumidor envie possíveis dúvidas acerca do produto para o empreendedor .
+-**Requisito Funcional-4:** O site deve permitir ao empreendedor ter uma página web para cada produto cadastrado, com foto e informações detalhadas do produto: nome do produto, categoria, preço (máximo e mínimo), gênero, tamanho, tipo de material e certificações.
+- **Requisito Funcional-12:** O site deve permitir que o consumidor adicione produtos ao carrinho de compras.
+- **Requisito Funcional-15:** O site deve indicar a localização (cidade) do empreendedor/loja física.
+- **Requisito Funcional-20:** O site deve permitir que após a conclusão da compra, o consumidor avalie os produtos adquiridos em forma de texto e nota (1 a 5, sendo 1 a nota mínima e 5 a nota máxima).
+- **Requisito Funcional-22:** O site deve possuir um campo (caixa de texto) para que o consumidor envie possíveis dúvidas acerca do produto para o empreendedor .
 
 
 ### Tela: Lista de favoritos
@@ -160,7 +160,7 @@ A elaboração da Tela Detalhamento do produto atende aos seguintes requisitos f
 <p align="center">Figura 10 - Tela lista de favoritos</p>
 
 A elaboração da Tela Lista de favoritos atende aos seguintes requisitos funcionais:
-> - **Requisito Funcional-14:** O site deverá permitir que o consumidor previamente cadastrado salve seus produtos favoritos em uma lista.
+- **Requisito Funcional-14:** O site deverá permitir que o consumidor previamente cadastrado salve seus produtos favoritos em uma lista.
 
 ### Tela: Finalização do Pedido e Lista de Produtos (carrinho)
 
@@ -186,6 +186,15 @@ A elaboração da Tela Finalização do Pedido e Lista de Produtos (carrinho) at
 </p>
 <p align="center">Figura 12 - Tela  Efetuar Pagamento</p>
 
+A elaboração da Tela  Efetuar Pagamento atende aos seguintes requisitos funcionais:
+- **Requisito Funcional-16:** O site, ao final da compra, deve dar a opção de ajudar com doação para projetos de sustentabilidade ambiental e social. Será disponibilizado cadastro para o projeto a ser beneficiado. O nome do projeto cadastrado será exibido na tela de doação. Ao finalizar a compra será exibida uma tela com informações sobre o projeto e uma sugestão de valor pré- cadastrada, podendo ser alterada. O valor será incluído no total a ser pago pelo cliente e será realizado um fluxo de caixa de todas as doações recebidas. Poderá ser gerado um relatório ao final do período de doações com o repasse total a ser efetivado com os nomes dos doadores, valor total, local, data e hora.
+- **Requisito Funcional-17:** O site deve dar a opção de entregas com emissões zero de carbono.
+- **Requisito Funcional-18:** O site deve permitir ao consumidor escolher entre as formas de pagamento: cartão de débito, cartão de crédito e boleto bancário.
+- **Requisito Funcional-19:** O site deve permitir que o consumidor efetive suas compras.
+- **Requisito Funcional-21:** O site deve permitir ao consumidor rastrear suas compras pelo código de rastreio da transportadora que será enviado por e-mail ao consumidor após a compra.
+
+
+
 ### Tela: Cadastro de Usuário – Loja do Empreendedor
 
 <p align="justify"> Nesta tela o empreendedor poderá fazer o seu cadastro. Para isso, será necessário o preenchimento dos campos: nome, nome da loja/empresa, telefone, CNPJ, endereço da empresa e e-mail. Após o cadastro, o empreendedor será direcionado para área de sua loja em uma nova tela: Loja do empreendedor.</p>
@@ -194,6 +203,9 @@ A elaboração da Tela Finalização do Pedido e Lista de Produtos (carrinho) at
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/cadastro%20da%20loja.imagem.jpg?raw=true" alt="Tela de cadastro de usuário-Loja do Empreendedor">
 </p>
 <p align="center">Figura 13- Tela de cadastro de usuário -Loja do Empreendedor</p>
+
+A elaboração da Tela  Cadastro de Usuário – Loja do Empreendedor atende ao seguinte requisito funcional:
+- **Requisito Funcional-1:** O site deve permitir que os empreendedores realizem o seu cadastro de usuário do site com os seguintes campos: nome de usuário, nome da empresa, e-mail, telefone, CNPJ, endereço.
 
 
 ### Tela: Loja do Empreendedor
@@ -205,6 +217,9 @@ Outras funcionalidades dessa página são: encontrar um produto específico em s
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/loja%20do%20empreendedor.imagem.jpg?raw=true" alt="Tela loja do empreendedor">
 </p>
 <p align="center"> Figura 14 – Tela loja do empreendedor </p>
+
+A elaboração da Tela Loja do Empreendedor atende ao seguinte requisito funcional:
+- **Requisito Funcional-7:** O site deverá permitir ao empreendedor o gerenciamento de sua loja online com edição de produtos já publicados
 
 
 ### Tela: Cadastro de Produto – Empreendedor
@@ -218,11 +233,9 @@ Também existem campos não obrigatórios: desconto e número de protocolo do pr
 </p>
 <p align="center"> Figura 15 – Tela cadastro de produto - Empreendedor</p>
 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+A elaboração da Tela Loja do Empreendedor atende ao seguinte requisito funcional:
+- **Requisito Funcional-3:** O site deve permitir que o empreendedor cadastre os seus produtos para venda.
+- **Requisito Funcional-4:**  O site deve permitir ao empreendedor ter uma página web para cada produto cadastrado, com foto e informações detalhadas do produto: nome do produto, categoria, preço (máximo e mínimo), gênero, tamanho, tipo de material e certificações.
+- **Requisito Funcional-5:** O site deve permitir ao empreendedor publicar seus produtos com desconto no boleto, pagamento com PIX e/ou promoções da loja
+- **Requisito Funcional-6:** O empreendedor terá disponível um serviço de cadastramento das fases da produção com número de protocolo individual para identificação de cada item produzido. Após inserir o item ou lote de itens no sistema interno da empresa ele deverá enviar um arquivo XML para alimentar a base de dados do site. O site disponibilizará um botão no item respectivo que ao ser clicado exibirá uma timeline da cadeia produtiva permitindo ao consumidor rastrear a cadeia produtiva dos produtos.
+- **Requisito Funcional-7:**  O site deverá permitir ao empreendedor o gerenciamento de sua loja online com edição de produtos já publicados.
