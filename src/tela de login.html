@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Login</title>
     <link rel="stylesheet" href="stylelogin.css"/>
 </head>
 <body>
@@ -19,6 +19,7 @@
                 height="120"
             /></a>
           </div>
+        </div>
   
           <h2>ModaGreen</h2>
   
@@ -68,44 +69,66 @@
                 height="30"
               />
             </a>
-          </div>
+            </div>
+
         </header>
-
-          <div class="container">
-            <div class="content first-content">
+        <div class="container">
+          <div class="content first-content">
               <div class="first-column">
-                <h2 class="title">Já sou Cliente!</h2>
-                <p class="description">Para se manter conectado conosco</p>
-                <p class="description">acesse sua conta</p>
-                <button class="btn">Acessar</button>
+                  <h2 class="title title-primary">Já sou Cliente Green!</h2>
+                  <p class="description description-primary">Para se manter conectado com a gente</p>
+                  <p class="description description-primary">por favor faça o login com suas informações pessoais</p>
+                  <button id="acessar" class="btn btn-primary">Acessar</button>
+              </div>    
+              <div class="second-column">
+                  <h2 class="title title-second">Criar Conta</h2>
+                  <form class="form">
+                      <label class="label-input" for="">
+                          <input type="text" placeholder="Nome">
+                      </label>
+                      
+                      <label class="label-input" for="">
+                          <input type="email" placeholder="E-mail">
+                      </label>
+                      
+                      <label class="label-input" for="">
+                          <input type="password" placeholder="Senha">
+                      </label>
+                      
+                      
+                      <button class="btn btn-second">Cadastre-se</button>
+                      <button class="btn btn-second">Sou vendedor</button>          
+                  </form>
+              </div><!-- second column -->
+          </div><!-- first content -->
+          <div class="content second-content">
+              <div class="first-column">
+                  <h2 class="title title-primary">Olá!</h2>
+                  <p class="description description-primary">Insira seus dados pessoais</p>
+                  <p class="description description-primary">e conheça nossa loja virtual</p>
+                  <button id="prosseguir" class="btn btn-primary">Prosseguir</button>
               </div>
               <div class="second-column">
-              <h2 class="title">Criar Conta</h2>
-              <form class="form">
-                <input type="text" placeholder="Nome">
-                <input type="email" placeholder="Email">
-                <input type="password" placeholder="Senha">
-                <button class="btn">Prosseguir</button>
-              </form>
-              </div>
-            </div>
-            <div class="content second-content">
-              <div class="first-column">
-                <h2 class="title">Olá!</h2>
-                <p class="description">Insira seus dados pessoais</p>
-                <button class="btn">Acessar</button>
-              </div>
-              <div class="second-column">
-              <h2 class="title">Já sou Cliente Green</h2>
-              <form class="form">
-                <input type="email" placeholder="Email">
-                <input type="password" placeholder="Senha">
-                <a href="#">Esqueceu sua senha?</a>
-                <button class="btn">Acessar</button>
-              </form>
-              </div>
-            </div>
-            </div>
-          </div>
-
-</html>
+                  <h2 class="title title-second">Já sou cliente Green</h2>
+                  <form class="form">
+                  
+                      <label class="label-input" for="">
+                          <i class="far fa-envelope icon-modify"></i>
+                          <input type="email" placeholder="E-mail">
+                      </label>
+                  
+                      <label class="label-input" for="">
+                          <i class="fas fa-lock icon-modify"></i>
+                          <input type="password" placeholder="Senha">
+                      </label>
+                  
+                      <a class="password" href="#">Esqueceu sua senha?</a>
+                      <button class="btn btn-second">entrar</button>
+                      <button class="btn btn-second">Acessar conta de vendedor</button>
+                  </form>
+              </div><!-- second column -->
+          </div><!-- second-content -->
+      </div>
+      <script src="js"></script>
+  </body>
+  </html>

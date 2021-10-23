@@ -4,9 +4,10 @@
     margin: 0 auto;
     padding: 0px;
     color: black;
+    box-sizing: border-box;
 }
-
 body {
+    font-family: Arial, Helvetica, sans-serif;
     display: flexbox;
     flex-flow: column wrap;
 }
@@ -20,7 +21,6 @@ body {
     height: 140px;
     padding: 20px;
 }
-
 .cabecalho h2 {
     padding: 3% 10% 1.7% 0%;
     color: rgb(76, 50, 84);
@@ -30,7 +30,6 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 40;    
 }
-
 #logo {
     padding: 2px;
     margin: -12px;
@@ -40,14 +39,12 @@ body {
     flex-wrap: row wrap;
     align-content: flex-end;
 }
-
 #pesquisa form{
     display: flex;
     padding: 2% 25% 0% 0%;
     align-content: flex-start;
     margin-left: -60px;
 }
-
 #pesquisa input{
     font-size: 13px;
     padding: 10px 25px 10px 20px;
@@ -56,72 +53,355 @@ body {
     width: 550px;
     max-width: 550px; 
 }
-
 #pesquisa button{
     border: 0px;
     background: transparent;
     margin-left: -45px;
 }
-
 #pesquisa button img{
     width: 25px;
     height: 25px;
     align-items: right;
     cursor: pointer;
 }
-
 #favoritos  {
     margin: 1%;
     text-decoration: none;
     padding: 10% -30% 10% 10%;
 }
-
 #favoritos a  {
     text-decoration: none;
     color: black;   
 }
-
 #entrar  {
    margin: 1%;
    padding: 3% -30% 10% 10%;
 }
-
 #entrar a  {
     text-decoration: none;
     color: black;   
-}
-    
+}  
 #carrinho  {
     padding: 3% -30% 10% 10%;
     margin: 1%;
 }
-.container{
+.container {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     background-color: #ecf0f1;
 }
-
 .content {
     background-color: #fff;
     border-radius: 15px;
-    width: 80%;
+    width: 960px;
     height: 50%;
-    display: flex;
     justify-content: space-between;
     align-items: center;
+    position: relative;
+}
+.content::before {
+    content: "";
+    position: absolute;
+    background-color: #20B2AA;
+    width: 40%;
+    height: 100%;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+
+    left: 0;
+}
+.title {
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.title-primary {
+    color: #fff;
+}
+.title-second {
+    color: #20B2AA;
+}
+.description {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 30px;
+}
+.description-primary {
+    color: #fff;
+}
+.description-second {
+    color: #7f8c8d;
+}
+.btn {
+    border-radius: 15px;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 10px;
+    padding: 10px 50px;
+    cursor: pointer;
+    font-weight: bold;
+    width: 150px;
+    align-self: center;
+    border: none;
+    margin-top: 1rem;
+}
+.btn-primary {
+    background-color: transparent;
+    border: 1px solid #fff;
+    transition: background-color .5s;
+}
+.btn-primary:hover {
+    background-color: #fff;
+    color: #58af9b;
+}
+.btn-second {
+    background-color: #20B2AA;
+    border: 1px solid #20B2AA;
+    transition: background-color .5s;
+}
+.btn-second:hover {
+    background-color: #fff;
+    border: 1px solid #20B2AA;
+    color: #20B2AA;
 }
 .first-content {
     display: flex;
 }
-
+.first-content .second-column {
+    z-index: 11;
+}
+.first-column {
+    text-align: center;
+    width: 40%;
+    z-index: 10;
+}
+.second-column {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.social-media {
+    margin: 1rem 0;
+}
 .form {
     display: flex;
     flex-direction: column;
+    width: 55%;
 }
+.form input {
+    height: 45px;
+    width: 100%;
+    border: none;
+    background-color: #ecf0f1;
+}
+input:-webkit-autofill 
+{    
+    -webkit-box-shadow: 0 0 0px 1000px #ecf0f1 inset !important;
+    -webkit-text-fill-color: #000 !important;
+}
+.label-input {
+    background-color: #ecf0f1;
+    display: flex;
+    align-items: center;
+    margin: 8px;
+}
+
+/* second content*/
 
 .second-content {
     position: absolute;
-    display: none;
+    display: flex;
 }
+.second-content .first-column {
+    order: 2;
+    z-index: -1;
+}
+.second-content .second-column {
+    order: 1;
+    z-index: -1;
+}
+.password {
+    color: #34495e;
+    font-size: 14px;
+    margin: 15px 0;
+    text-align: center;
+}
+.password::first-letter {
+    text-transform: capitalize;
+}
+
+
+
+.acessar-js .first-content .first-column {
+    z-index: -1;
+}
+
+.acessar-js .second-content .second-column {
+    z-index: 11;
+}
+.acessar-js .second-content .first-column {
+    z-index: 13;
+}
+
+.acessar-js .content::before {
+    left: 60%;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    animation: slidein 1.3s; /*MODIFIQUEI DE 3s PARA 1.3s*/
+
+    z-index: 12;
+}
+
+.prosseguir-js .content::before {
+    animation: slideout 1.3s; /*MODIFIQUEI DE 3s PARA 1.3s*/
+
+    z-index: 12;
+}
+
+.prosseguir-js .second-content .first-column,
+.prosseguir-js .second-content .second-column {
+    z-index: -1;
+}
+
+.prosseguir-js .first-content .second-column {
+    z-index: 11;
+}
+
+.prosseguir-js .first-content .first-column {
+    z-index: 13;    
+}
+
+
+/* DESLOCAMENTO CONTEÚDO ATRÁS DO CONTENT:BEFORE*/
+.acessar-js .first-content .second-column {
+
+    z-index: -1;
+    position: relative;
+    animation: deslocamentoEsq 1.3s; /*MODIFIQUEI DE 3s PARA 1.3s*/
+}
+
+.prosseguir-js .second-content .second-column {
+    position: relative;
+    z-index: -1;
+    animation: deslocamentoDir 1.3s; /*MODIFIQUEI DE 3s PARA 1.3s*/
+}
+/*ANIMAÇÃOO CSS PARA O CONTEÚDO*/
+
+@keyframes deslocamentoEsq {
+
+    from {
+        left: 0;
+        opacity: 1;
+        z-index: 12;
+    }
+
+    25% {
+        left: -80px;
+        opacity: .5;
+        /* z-index: 12; NÃO HÁ NECESSIDADE */
+    }
+
+    50% {
+        left: -100px;
+        opacity: .2;
+        /* z-index: 12; NÃO HÁ NECESSIDADE */
+    }
+
+    to {
+        left: -110px;
+        opacity: 0;
+        z-index: -1;
+    }
+}
+
+
+@keyframes deslocamentoDir {
+
+    from {
+        left: 0;
+        z-index: 12;
+    }
+
+    25% {
+        left: 80px;
+        /* z-index: 12;  NÃO HÁ NECESSIDADE*/
+    }
+
+    50% {
+        left: 100px;
+        /* z-index: 12; NÃO HÁ NECESSIDADE*/
+        /* background-color: yellow;  Exemplo que dei no vídeo*/
+    }
+
+    to {
+        left: 110px;
+        z-index: -1;
+    }
+}
+
+
+/*ANIMAÇÃO CSS*/
+
+@keyframes slidein {
+
+    from {
+        left: 0;
+        width: 40%;
+    }
+
+    25% {
+        left: 5%;
+        width: 50%;
+    }
+
+    50% {
+        left: 25%;
+        width: 60%;
+    }
+
+    75% {
+        left: 45%;
+        width: 50%;
+    }
+
+    to {
+        left: 60%;
+        width: 40%;
+    }
+}
+
+@keyframes slideout {
+
+    from {
+        left: 60%;
+        width: 40%;
+    }
+
+    25% {
+        left: 45%;
+        width: 50%;
+    }
+
+    50% {
+        left: 25%;
+        width: 60%;
+    }
+
+    75% {
+        left: 5%;
+        width: 50%;
+    }
+
+    to {
+        left: 0;
+        width: 40%;
+    }
+}
+
+
