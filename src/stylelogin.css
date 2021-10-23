@@ -200,8 +200,8 @@ body {
 }
 input:-webkit-autofill 
 {    
-    -webkit-box-shadow: 0 0 0px 1000px #ecf0f1 inset !important;
-    -webkit-text-fill-color: #000 !important;
+    -webkit-box-shadow: 0 0 0px 1000px #ecf0f1 inset;
+    -webkit-text-fill-color: #000;
 }
 .label-input {
     background-color: #ecf0f1;
@@ -234,8 +234,6 @@ input:-webkit-autofill
     text-transform: capitalize;
 }
 
-
-
 .acessar-js .first-content .first-column {
     z-index: -1;
 }
@@ -253,13 +251,13 @@ input:-webkit-autofill
     border-bottom-left-radius: 0;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    animation: slidein 1.3s; /*MODIFIQUEI DE 3s PARA 1.3s*/
+    animation: slidein 1.3s; 
 
     z-index: 12;
 }
 
 .prosseguir-js .content::before {
-    animation: slideout 1.3s; /*MODIFIQUEI DE 3s PARA 1.3s*/
+    animation: slideout 1.3s; 
 
     z-index: 12;
 }
@@ -283,13 +281,13 @@ input:-webkit-autofill
 
     z-index: -1;
     position: relative;
-    animation: deslocamentoEsq 1.3s; /*MODIFIQUEI DE 3s PARA 1.3s*/
+    animation: deslocamentoEsq 1.3s; 
 }
 
 .prosseguir-js .second-content .second-column {
     position: relative;
     z-index: -1;
-    animation: deslocamentoDir 1.3s; /*MODIFIQUEI DE 3s PARA 1.3s*/
+    animation: deslocamentoDir 1.3s; 
 }
 /*ANIMAÇÃOO CSS PARA O CONTEÚDO*/
 
@@ -304,13 +302,13 @@ input:-webkit-autofill
     25% {
         left: -80px;
         opacity: .5;
-        /* z-index: 12; NÃO HÁ NECESSIDADE */
+        
     }
 
     50% {
         left: -100px;
         opacity: .2;
-        /* z-index: 12; NÃO HÁ NECESSIDADE */
+        
     }
 
     to {
@@ -320,7 +318,6 @@ input:-webkit-autofill
     }
 }
 
-
 @keyframes deslocamentoDir {
 
     from {
@@ -329,14 +326,11 @@ input:-webkit-autofill
     }
 
     25% {
-        left: 80px;
-        /* z-index: 12;  NÃO HÁ NECESSIDADE*/
+        left: 80px;   
     }
 
     50% {
         left: 100px;
-        /* z-index: 12; NÃO HÁ NECESSIDADE*/
-        /* background-color: yellow;  Exemplo que dei no vídeo*/
     }
 
     to {
