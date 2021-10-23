@@ -17,7 +17,7 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    background: linear-gradient(whitesmoke,#F0F8FF);
+    background: linear-gradient(#F0F8FF,white);
     width: 100%;
     height: 140px;
     padding: 20px;
