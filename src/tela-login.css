@@ -86,6 +86,34 @@ body {
     padding: 3% -30% 10% 10%;
     margin: 1%;
 }
+
+footer div{
+    margin: 0px;
+    border: 2px none rgb(143, 206, 143);
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background: #20B2AA
+  }
+
+footer h5{
+    margin-left: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    font-weight: bold;
+  }
+
+footer p{
+    margin-right: 10px;
+    margin-bottom: 0px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
 .container {
     display: flex;
     justify-content: center;
@@ -290,6 +318,9 @@ input:-webkit-autofill
     z-index: -1;
     animation: deslocamentoDir 1.3s; 
 }
+
+
+
 /*ANIMAÇÃOO CSS PARA O CONTEÚDO*/
 
 @keyframes deslocamentoEsq {
