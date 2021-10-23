@@ -18,7 +18,7 @@ A solução implementada conta com os seguintes módulos:
    - **Cadastros** - criar as bases do relacionamento com o cliente e a fidelização.
    - **Produtos** - armazenar os itens vendidos no site.
    - **Favoritos** - lista de produtos favoritos mantidos para comprar posteriormente
-   - 
+   
  - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
 > **Links Úteis**:
