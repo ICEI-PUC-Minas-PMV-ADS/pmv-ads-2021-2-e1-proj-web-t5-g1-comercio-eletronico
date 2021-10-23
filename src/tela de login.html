@@ -1,55 +1,111 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="style.css"/>
+    <link rel="stylesheet" href="stylelogin.css"/>
 </head>
 <body>
-    <div class="cabecalho">
-
-        <div id = "logo">
-            <a href="home.html" target="_self"><img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Logo3.png" alt="Moda Green"  width="120" height="120"></a>
-        </div>
-
-        <div id="pesquisa">
+  <header
+        <div class="cabecalho">
+          <div id="logo">
+            <a href="home.html" target="_self"
+              ><img
+                src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Logo3.png"
+                alt="Moda Green"
+                width="120"
+                height="120"
+            /></a>
+          </div>
+  
+          <h2>ModaGreen</h2>
+  
+          <div id="pesquisa">
             <form name="pesquisa" action="pesquisa.html" method="post">
-            <input type="text" id="txtBusca" name="pesquisa" placeholder="Pesquise por produtos e lojas">
-            <button>
-                <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/loupe.png" alt="Lupa">
-            </button>
+              <input
+                type="text"
+                id="txtBusca"
+                name="pesquisa"
+                placeholder="Pesquise por produtos e lojas"
+              />
+              <button>
+                <img
+                  src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/loupe.png"
+                  alt="Lupa"
+                />
+              </button>
             </form>
-        </div>
-        
-        <div id = favoritos>
-            <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/love.png" alt="favoritos" width="24" height="24">
+          </div>
+  
+          <div id="favoritos">
+            <img
+              src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/love.png"
+              alt="favoritos"
+              width="24"
+              height="24"
+            />
             <a href="favoritos.html" target="_self"> Lista de favoritos</a>
-        </div>
-
-        <div id = entrar>
-            <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/login.png" alt="entrar" width="24" height="24">
+          </div>
+  
+          <div id="entrar">
+            <img
+              src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/login.png"
+              alt="entrar"
+              width="24"
+              height="24"
+            />
             <a href="login.html" target="_self">Entrar </a>
-        </div>
-    
-        <div id = carrinho>
+          </div>
+  
+          <div id="carrinho">
             <a href="carrinho.html" target="_self">
-            <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Carrinho.png" alt="carrinho de compras"  width="30" height="30">
+              <img
+                src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Carrinho.png"
+                alt="carrinho de compras"
+                width="30"
+                height="30"
+              />
             </a>
-    </div>  
-</body>
-<body>
-</div id="já sou cliente">
-<form name="from_login" action="do_login.html" method="POST">
-<input type="text and number" name="usuario" placeholder="E-mail" value=""><br>
+          </div>
+        </header>
 
-<input type="text and number" name="senha" placeholder="Senha" value=""><br>
+          <div class="container">
+            <div class="content first-content">
+              <div class="first-column">
+                <h2 class="title">Já sou Cliente!</h2>
+                <p class="description">Para se manter conectado conosco</p>
+                <p class="description">acesse sua conta</p>
+                <button class="btn">Acessar</button>
+              </div>
+              <div class="second-column">
+              <h2 class="title">Criar Conta</h2>
+              <form class="form">
+                <input type="text" placeholder="Nome">
+                <input type="email" placeholder="Email">
+                <input type="password" placeholder="Senha">
+                <button class="btn">Prosseguir</button>
+              </form>
+              </div>
+            </div>
+            <div class="content second-content">
+              <div class="first-column">
+                <h2 class="title">Olá!</h2>
+                <p class="description">Insira seus dados pessoais</p>
+                <button class="btn">Acessar</button>
+              </div>
+              <div class="second-column">
+              <h2 class="title">Já sou Cliente Green</h2>
+              <form class="form">
+                <input type="email" placeholder="Email">
+                <input type="password" placeholder="Senha">
+                <a href="#">Esqueceu sua senha?</a>
+                <button class="btn">Acessar</button>
+              </form>
+              </div>
+            </div>
+            </div>
+          </div>
 
-    <input type="submit" value="ACESSAR CONTA"
-</form>
-</body>
-        </div>
-    </div>  
-</body>
 </html>
