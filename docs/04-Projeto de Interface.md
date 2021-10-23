@@ -65,6 +65,11 @@ O bloco disponibilizado à esquerda apresenta as categorias disponíveis para co
 <p align="center">Figura 4 - Tela Homepage</p>
 
 
+A elaboração da Tela Homepage buscou atender aos seguintes requisitos funcionais:
+
+>- **Requisito Funcional - 10:** O site deve possuir um campo para pesquisa de produtos conforme a palavra-chave inserida e demais filtros de pesquisa definidos pelo consumidor: categoria, preço (máximo e mínimo), gênero, tamanho, tipo de material e certificações.
+>- **Requisito Funcional - 24:** O mecanismo de busca do site deve sugerir a loja mais próxima ao consumidor, de acordo com o produto desejado, de forma a valorizar a economia local.
+
 ### Tela: Login
 
 <p align="justify"> Na tela de login, além dos elementos padrões do cabeçalho, temos dois blocos principais:
@@ -77,6 +82,8 @@ O bloco disponibilizado à esquerda apresenta as categorias disponíveis para co
 </p>
 <p align="center">Figura 5 - Tela de Login</p>
 
+A elaboração da Tela Login atende ao seguinte requisito funcional:
+> - **Requisito Funcional-09: ** O site devera permitir o usuário (empreendedor e consumidor) o login com nome de usuário ou e-mail, e senha
 
 ### Tela: Cadastro de Usuário - Perfil do Consumidor
 
@@ -90,6 +97,8 @@ Nesta tela o empreendedor poderá fazer o seu cadastro. Para isso, será necess�
 </p>
 <p align="center">Figura 6 – Tela cadastro do usuário - Consumidor</p>
 
+A elaboração da Tela Cadastro de Usuário - Perfil do Consumidor atende aos seguintes requisitos funcionais:
+> - **Requisito Funcional-10: ** O site deve permitir que os empreendedores realizem o seu cadastro de usuário do site com os seguintes campos: nome de usuário, nome da empresa, e-mail, telefone, CNPJ, endereço.
 
 ### Tela: Apresentação dos produtos por loja
 
@@ -101,6 +110,12 @@ No bloco à esquerda, o usuário possui algumas opções de filtro de pesquisa, 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/Apresenta%C3%A7%C3%A3o%20de%20produtos%20por%20loja.png?raw=true" alt="Tela de apresentação dos produtos por loja">
 </p>
 <p align="center">Figura 7 - Tela de apresentação de produtos por loja</p>
+
+A elaboração da Tela Apresentação dos produtos por loja atende aos seguintes requisitos funcionais:
+> - **Requisito Funcional-02:** O site teve permitir que cada empreendedor cadastrado possua uma página web com o nome e descrição da sua marca, logo da marca, e produtos disponíveis.
+> - **Requisito Funcional-04:** O site deve permitir ao empreendedor ter uma página web para cada produto cadastrado, com foto e informações detalhadas do produto: nome do produto, categoria, preço (máximo e mínimo), gênero, tamanho, tipo de material e certificações.
+> - **Requisito Funcional-15:** O site deve indicar a localização (cidade) do empreendedor/loja física.
+
 
 
 ### Tela: Apresentação dos produtos por categoria
@@ -114,6 +129,9 @@ No bloco à esquerda, o usuário possui algumas opções de filtro de pesquisa, 
 </p>
 <p align="center">Figura 8 - Tela de apresentação dos produtos por categoria</p>
 
+A elaboração da Tela Apresentação dos produtos por categoria atende aos seguintes requisitos funcionais:
+> - **Requisito Funcional-10:** O site deve possuir um campo para pesquisa de produtos conforme a palavra-chave inserida e demais filtros de pesquisa definidos pelo consumidor: categoria, preço (máximo e mínimo), gênero, tamanho, tipo de material e certificações
+> - **Requisito Funcional-11:** O site deve permitir que o consumidor ordene os itens pesquisados por: mais vendidos, maior preço, menor preço e mais bem avaliados
 
 ### Tela: Detalhamento do produto
 
@@ -123,6 +141,13 @@ No bloco à esquerda, o usuário possui algumas opções de filtro de pesquisa, 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/Detalhamento%20do%20produto.png?raw=true" alt="Tela de detalhamento do produto">
 </p>
 <p align="center">Figura 9 - Tela  de detalhamento do produto</p>
+
+A elaboração da Tela Detalhamento do produto atende aos seguintes requisitos funcionais:
+> - **Requisito Funcional-04:** O site deve permitir ao empreendedor ter uma página web para cada produto cadastrado, com foto e informações detalhadas do produto: nome do produto, categoria, preço (máximo e mínimo), gênero, tamanho, tipo de material e certificações.
+> - **Requisito Funcional-12:** O site deve permitir que o consumidor adicione produtos ao carrinho de compras.
+> - **Requisito Funcional-15:** O site deve indicar a localização (cidade) do empreendedor/loja física.
+> - **Requisito Funcional-20:** O site deve permitir que após a conclusão da compra, o consumidor avalie os produtos adquiridos em forma de texto e nota (1 a 5, sendo 1 a nota mínima e 5 a nota máxima).
+> - **Requisito Funcional-22:** O site deve possuir um campo (caixa de texto) para que o consumidor envie possíveis dúvidas acerca do produto para o empreendedor .
 
 
 ### Tela: Lista de favoritos
@@ -134,6 +159,9 @@ No bloco à esquerda, o usuário possui algumas opções de filtro de pesquisa, 
 </p>
 <p align="center">Figura 10 - Tela lista de favoritos</p>
 
+A elaboração da Tela Lista de favoritos atende aos seguintes requisitos funcionais:
+> - **Requisito Funcional-14:** O site deverá permitir que o consumidor previamente cadastrado salve seus produtos favoritos em uma lista.
+
 ### Tela: Finalização do Pedido e Lista de Produtos (carrinho)
 
 <p align="justify"> Na tela de finalização do pedido o site apresenta os itens adicionados ao carrinho e exibe 3 abas para que o comprador possa preencher o endereço de entrega, escolher a forma de pagamento e entrega. Também é nesta tela que se tem o botão de finalizar a compra que direciona para a tela de efetuar o pagamento.</p>
@@ -142,6 +170,12 @@ No bloco à esquerda, o usuário possui algumas opções de filtro de pesquisa, 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/Tela%20Finalizacao%20da%20Compra.jpg?raw=true" alt="Tela: Finalização do Pedido e Lista de Produtos e carrinho">
 </p>
 <p align="center">Figura 11 - Tela Finalização do Pedido e Lista de Produtos e carrinho</p>
+
+A elaboração da Tela Finalização do Pedido e Lista de Produtos (carrinho) atende aos seguintes requisitos funcionais:
+- **Requisito Funcional-13:**  O site deve registrar a lista de produtos adicionados ao carrinho de compras pelos consumidores cadastrados.
+- **Requisito Funcional-17:** O site deve dar a opção de entregas com emissões zero de carbono.
+- **Requisito Funcional-19:** O site deve permitir que o consumidor efetive suas compras.
+
 
 ### Tela: Efetuar Pagamento
 
