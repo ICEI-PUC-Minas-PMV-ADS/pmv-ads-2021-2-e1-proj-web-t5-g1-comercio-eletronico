@@ -10,6 +10,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     display: flexbox;
     flex-flow: column wrap;
+    
 }
 .cabecalho{
     display: flex;
@@ -399,3 +400,14 @@ input:-webkit-autofill
 }
 
 
+@media only screen and (max-width:485px) {
+    #pesquisa {
+     width: 100%;
+    }
+    #pesquisa input {
+        width: 100%;
+    }
+    aside a { 
+        display: none; 
+    }
+}
