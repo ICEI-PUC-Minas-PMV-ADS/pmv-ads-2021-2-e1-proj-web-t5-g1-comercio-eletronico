@@ -15,7 +15,10 @@ A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
   - **Páginas do site** - Conjunto de arquivos HTML, CSS e JavaScript e imagens que implementam as funcionalidades do sistema.
    - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON.  
-     - **Preferidas** - lista de produtos favoritos mantidos para comprar posteriormente 
+   - **Cadastros** - criar as bases do relacionamento com o cliente e a fidelização.
+   - **Produtos** - armazenar os itens vendidos no site.
+   - **Favoritos** - lista de produtos favoritos mantidos para comprar posteriormente
+   - 
  - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
 > **Links Úteis**:
