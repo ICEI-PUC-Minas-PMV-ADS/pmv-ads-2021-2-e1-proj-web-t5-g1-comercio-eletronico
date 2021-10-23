@@ -97,7 +97,7 @@ Nesta tela o empreendedor poderá fazer o seu cadastro. Para isso, será necess�
 </p>
 <p align="center">Figura 6 – Tela cadastro do usuário - Consumidor</p>
 
-A elaboração da Tela Cadastro de Usuário - Perfil do Consumidor atende aos seguintes requisitos funcionais:
+A elaboração da Tela Cadastro de Usuário - Perfil do Consumidor atende ao seguinte requisito funcional:
 - **Requisito Funcional-10:** O site deve permitir que os empreendedores realizem o seu cadastro de usuário do site com os seguintes campos: nome de usuário, nome da empresa, e-mail, telefone, CNPJ, endereço.
 
 ### Tela: Apresentação dos produtos por loja
@@ -143,7 +143,7 @@ A elaboração da Tela Apresentação dos produtos por categoria atende aos segu
 <p align="center">Figura 9 - Tela  de detalhamento do produto</p>
 
 A elaboração da Tela Detalhamento do produto atende aos seguintes requisitos funcionais:
--**Requisito Funcional-4:** O site deve permitir ao empreendedor ter uma página web para cada produto cadastrado, com foto e informações detalhadas do produto: nome do produto, categoria, preço (máximo e mínimo), gênero, tamanho, tipo de material e certificações.
+- **Requisito Funcional-4:** O site deve permitir ao empreendedor ter uma página web para cada produto cadastrado, com foto e informações detalhadas do produto: nome do produto, categoria, preço (máximo e mínimo), gênero, tamanho, tipo de material e certificações.
 - **Requisito Funcional-12:** O site deve permitir que o consumidor adicione produtos ao carrinho de compras.
 - **Requisito Funcional-15:** O site deve indicar a localização (cidade) do empreendedor/loja física.
 - **Requisito Funcional-20:** O site deve permitir que após a conclusão da compra, o consumidor avalie os produtos adquiridos em forma de texto e nota (1 a 5, sendo 1 a nota mínima e 5 a nota máxima).
@@ -159,7 +159,7 @@ A elaboração da Tela Detalhamento do produto atende aos seguintes requisitos f
 </p>
 <p align="center">Figura 10 - Tela lista de favoritos</p>
 
-A elaboração da Tela Lista de favoritos atende aos seguintes requisitos funcionais:
+A elaboração da Tela Lista de favoritos atende ao seguinte requisito funcional:
 - **Requisito Funcional-14:** O site deverá permitir que o consumidor previamente cadastrado salve seus produtos favoritos em uma lista.
 
 ### Tela: Finalização do Pedido e Lista de Produtos (carrinho)
@@ -233,7 +233,7 @@ Também existem campos não obrigatórios: desconto e número de protocolo do pr
 </p>
 <p align="center"> Figura 15 – Tela cadastro de produto - Empreendedor</p>
 
-A elaboração da Tela Loja do Empreendedor atende ao seguinte requisito funcional:
+A elaboração da Tela  Cadastro de Produto – Empreendedor atende aos seguintes requisitos funcionais:
 - **Requisito Funcional-3:** O site deve permitir que o empreendedor cadastre os seus produtos para venda.
 - **Requisito Funcional-4:**  O site deve permitir ao empreendedor ter uma página web para cada produto cadastrado, com foto e informações detalhadas do produto: nome do produto, categoria, preço (máximo e mínimo), gênero, tamanho, tipo de material e certificações.
 - **Requisito Funcional-5:** O site deve permitir ao empreendedor publicar seus produtos com desconto no boleto, pagamento com PIX e/ou promoções da loja
