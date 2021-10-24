@@ -104,7 +104,7 @@
 | RF-24 | O mecanismo de busca do site deve sugerir a loja mais próxima ao consumidor, de acordo com o produto desejado, de forma a valorizar a economia local | BAIXA |
 | RF-25 | O site deve permitir que o consumidor visualize os detalhes de um produto: descrição, fotos, preço, avaliações dos outros clientes e localização da loja | ALTA |
 
-### 2.4 Requisitos não Funcionais
+### 2.3.2 Requisitos não Funcionais
 
 <p align="justify">A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.</p>
 
@@ -122,9 +122,7 @@
 |RNF-9| Durante o desenvolvimento serão priorizadas alternativas gratuitas de tecnologia. Dentre elas serão utilizadas: Trello, Marvel APP e WorkSpace | ALTA | 
 |RNF-10| Utilização das práticas SEO (do inglês, Otimização para Mecanismos de Busca) | ALTA | 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-## 2.3.3 Restrições
+### 2.3.3 Restrições
 
 Alguns pontos considerados cruciais a serem superados e que atribuirão viabilidade ao projeto são:
 
