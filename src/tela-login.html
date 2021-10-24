@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="tela-login.css"/>
 </head>
 <body>
+  <!-- Cabeçalho -->
   <header>
         <div class="cabecalho">
 
@@ -48,15 +49,27 @@
         </div>
   </header>
   
-
+<!-- Login para clientes cadastrados -->
         <div class="container">
           <div class="content first-content">
               <div class="first-column">
                   <h2 class="title title-primary">Já sou Cliente Green!</h2>
                   <p class="description description-primary">Para se manter conectado com a gente</p>
                   <p class="description description-primary">por favor faça o login com suas informações pessoais</p>
+                  
+                  <form class="form">
+                    <label class ="label-input" for="">
+                      <input type="email" placeholder="E-mail">
+                    </label>
+                    
+                    <label class="label-input" for="">
+                      <input type="password" placeholder="Senha">
+                    </label>
+                  </form>
+
                   <button id="acessar" class="btn btn-primary">Acessar</button>
-              </div>    
+              </div>              
+              <!-- Criação de conta para cliente novo -->    
               <div class="second-column">
                   <h2 class="title title-second">Criar Conta</h2>
                   <form class="form">
