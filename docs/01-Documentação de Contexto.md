@@ -35,15 +35,15 @@
 
 Como objetivos específicos, podemos ressaltar:
 
-> - Fornecer ferramentas que permitam ao consumidor ter a melhor experiência de compra de forma atualizada com as tendências do momento.
-> - Permitir ao empreendedor o cadastramento de sua “loja virtual” em um canal único e compartilhado por outros vendedores.
-> - Permitir que o empreendedor faça a completa gestão do seu portfólio.
-> - Facilitar o contato entre os empreendedores e os consumidores.
-> - Fomentar o conceito de Slow Fashion por meio da centralização das marcas que abarcam esse conceito em apenas um site.
-> - Permitir ao empreendedor a divulgação de projetos ambientais e sociais, de maneira que os consumidores possam colaborar financeiramente com tais projetos, de forma não obrigatória, ao concluir a compra.
-> - Colaborar com a redução da emissão de CO2 ao oferecer no site a opção de compra com frete neutro (com compensação de CO2).
-> - Colaborar com o desenvolvimento local ao oferecer aos consumidores a opção de comprar de empreendedores locais (mais próximos de sua localização).
-> - Fomentar a compra consciente de produtos mais sustentáveis, ambiental e socialmente.
+* Fornecer ferramentas que permitam ao consumidor ter a melhor experiência de compra de forma atualizada com as tendências do momento.
+* Permitir ao empreendedor o cadastramento de sua “loja virtual” em um canal único e compartilhado por outros vendedores.
+* Permitir que o empreendedor faça a completa gestão do seu portfólio.
+* Facilitar o contato entre os empreendedores e os consumidores.
+* Fomentar o conceito de Slow Fashion por meio da centralização das marcas que abarcam esse conceito em apenas um site.
+* Permitir ao empreendedor a divulgação de projetos ambientais e sociais, de maneira que os consumidores possam colaborar financeiramente com tais projetos, de forma não obrigatória, ao concluir a compra.
+* Colaborar com a redução da emissão de CO2 ao oferecer no site a opção de compra com frete neutro (com compensação de CO2).
+* Colaborar com o desenvolvimento local ao oferecer aos consumidores a opção de comprar de empreendedores locais (mais próximos de sua localização).
+* Fomentar a compra consciente de produtos mais sustentáveis, ambiental e socialmente.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
@@ -59,21 +59,21 @@ Como objetivos específicos, podemos ressaltar:
 
 <p align="justify">De uma forma mais ampla, considera-se como o público-alvo deste projeto todo o conjunto de interessados (stakeholders) da indústria Têxtil que tem como base os preceitos da Slow Fashion, a saber:</p>
 
-> - Governo: cumprimento de leis e regulamentações ambientais e sociais
-> - Empresas/Empreendedores de Slow Fashion
-> - Sócios e acionistas dos empreendimentos
-> - Credores e investidores dos empreendimentos
-> - Empregados
-> - Gestores das empresas
-> - Consumidores
-> - Sindicado da indústria têxtil
-> - Fornecedores de insumos
+* Governo: cumprimento de leis e regulamentações ambientais e sociais
+* Empresas/Empreendedores de Slow Fashion
+* Sócios e acionistas dos empreendimentos
+* Credores e investidores dos empreendimentos
+* Empregados
+* Gestores das empresas
+* Consumidores
+* Sindicado da indústria têxtil
+* Fornecedores de insumos
 
 <p align="justify">No entanto, pode-se dizer que, de uma forma mais simplificada, o público-alvo deste projeto inclui os próprios usuários do site, que são:</p>
 
-> - <p align="justify">Empreendedores de marcas que utilizam o conceito de Slow Fashion: micro e pequenos empreendedores, empreendedores individuais e artesãos com sua atividade formalizada.</p>
-> - <p align="justify">Consumidores que conhecem o termo Slow Fashion: homens, mulheres e pessoas não-binarias que têm em comum a preferência em adquirir produtos produzidos de forma sustentável.</p>
-> - <p align="justify">Consumidores que desconhecem o termo Slow Fashion: homens, mulheres e pessoas não-binarias que são receptivas ao conceito de sustentabilidade, mas ainda não o associam ao consumo de roupas.</p>
+* Empreendedores de marcas que utilizam o conceito de Slow Fashion: micro e pequenos empreendedores, empreendedores individuais e artesãos com sua atividade formalizada.
+* Consumidores que conhecem o termo Slow Fashion: homens, mulheres e pessoas não-binarias que têm em comum a preferência em adquirir produtos produzidos de forma sustentável.
+* Consumidores que desconhecem o termo Slow Fashion: homens, mulheres e pessoas não-binarias que são receptivas ao conceito de sustentabilidade, mas ainda não o associam ao consumo de roupas. 
 
 <p align="justify">Ressalta-se que, além de ser efetuada a identificação e cadastramento deste público-alvo, é importante saber como abordá-los e mantê-los como uma base fidelizada e assídua de clientes do site.</p>
 
