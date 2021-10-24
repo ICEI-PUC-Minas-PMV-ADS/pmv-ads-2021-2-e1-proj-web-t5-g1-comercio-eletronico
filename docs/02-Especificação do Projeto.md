@@ -1,4 +1,4 @@
-# 2. ESPECIFICAÇÃO DO PROJETO
+# 2. Especificação do projeto
 
 ## 2.1 Personas
 
