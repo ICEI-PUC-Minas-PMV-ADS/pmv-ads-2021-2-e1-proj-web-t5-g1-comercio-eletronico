@@ -10,8 +10,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     display: flexbox;
     flex-flow: column wrap;
+    margin: 0px;
+    padding: 0px;
     
 }
+
+
 .cabecalho{
     display: flex;
     flex-wrap: wrap;
@@ -120,6 +124,7 @@ footer p{
     align-items: center;
     height: 100vh;
     background-color: withe;
+    border-radius: 10px;
 }
 .content {
     background-color: #fff;
@@ -138,8 +143,7 @@ footer p{
     height: 100%;
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
-
-
+    border-radius: 10px;
     left: 0;
 }
 .title {
@@ -201,11 +205,14 @@ footer p{
 }
 .first-content .second-column {
     z-index: 11;
+
 }
 .first-column {
     text-align: center;
     width: 40%;
     z-index: 10;
+    border-radius: 10px;
+
 }
 .second-column {
     width: 60%;
@@ -237,6 +244,8 @@ input:-webkit-autofill
     display: flex;
     align-items: center;
     margin: 8px;
+
+
 }
 
 /* second content*/
