@@ -142,7 +142,8 @@ A elaboração da Tela Detalhamento do produto atende aos seguintes requisitos f
 - **Requisito Funcional-12:** O site deve permitir que o consumidor adicione produtos ao carrinho de compras.
 - **Requisito Funcional-15:** O site deve indicar a localização (cidade) do empreendedor/loja física.
 - **Requisito Funcional-20:** O site deve permitir que após a conclusão da compra, o consumidor avalie os produtos adquiridos em forma de texto e nota (1 a 5, sendo 1 a nota mínima e 5 a nota máxima).
-- **Requisito Funcional-22:** O site deve possuir um campo (caixa de texto) para que o consumidor envie possíveis dúvidas acerca do produto para o empreendedor .
+- **Requisito Funcional-22:** O site deve possuir um campo (caixa de texto) para que o consumidor envie possíveis dúvidas acerca do produto para o empreendedor.
+- **Requisito Funcional-25:** O site deve permitir que o consumidor visualize os detalhes de um produto: descrição, fotos, preço, avaliações dos outros clientes e localização da loja.
 
 ### Tela: Lista de favoritos
 
