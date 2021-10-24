@@ -1,17 +1,32 @@
-# Especificações do Projeto
+# 2. ESPECIFICAÇÃO DO PROJETO
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+## 2.1 Personas
 
-As personas levantadas durante o processo de entendimento do problema são apresentadas a seguir. 
+<p align="justify">As personas levantadas durante o processo de entendimento do problema são apresentadas nas figuras que se seguem.</p>
 
-## Personas
+|<img src=https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/Marina%20Prado.png alt="Marina Prado" width=170 heigth=170>| Marina Prado <br><br> Idade: 27 anos<br><br>Ocupação: Jornalista | Aplicativos:<br><br> <ul><li>Instagram</li><li>Twitter</li><li>Youtube</li></ul>
+|:----------------|:--------------------|:----------------|
+|**Motivações:**<br><br><ul><li>Causas sociais</li> <li>Meio ambiente</li> <li>Jornalismo</li> <li>Upcycling (reutilização)</li></ul>|**Frustrações:**<br><br><ul><li> Dificuldade em encontrar fornecedores que utilizam os preceitos do Slow Fashion</li></ul>|**Hobbies e História:**<br><br><ul><li>Escrever</li> <li>Participar de movimentos sociais e ambientais</li> <li>Gravar vídeos para o canal do youtube</li></ul>|
 
-Carla Dantas tem 44 anos, é artesã, tem um pequeno ateliê onde fabrica roupas, bolsas, bonecas, dentre outros produtos artesanais. Utiliza aplicativos como Instagram, Facebook e Blog. O que mais a motiva em sua profissão  é ver as pessoas usando as peças feitas com amor, o artesanato sustentável e a sua renda mensal.
-Seu maior desafio é ter onde expor os produtos para promover suas vendas. 
-“Desde pequena, ficava observando minha avó quando costurava fazer lindas peças. Tempos depois descobri meu talento pela costura e artesanato. Comecei a sentir prazer e necessidade pela costura. E hoje faço com amor como se cada peça fosse para mim.”
+|<img src=https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/Carlas%20Dantas.png alt="Carla Dantas" width=140 heigth=30>| Carla Dantas <br><br> Idade: 44 anos<br><br>Ocupação: Artesã e possui um pequeno ateliê onde fabrica roupas, bolsas, bonecas, dentre outros produtos artesanais. | Aplicativos:<br><br> <ul><li>Instagram</li><li>Facebook</li><li>Blog</li></ul>
+|:----------------|:--------------------|:----------------|
+|**Motivações:**<br><br><ul><li>Ver as pessoas usando as peças feitas com amor</li> <li>Artesanato Sustentável</li> <li>Sua renda</li></ul>|**Frustrações:**<br><br><ul><li>O principal desafio é ter um local para expor os produtos para promover suas vendas.</li></ul>|**Hobbies e História:**<br><br>“Desde pequena, ficava observando minha avó quando costurava fazer lindas peças. Tempos depois descobri meu talento pela costura e artesanato. Comecei a sentir prazer e necessidade pela costura. E hoje faço com amor como se cada peça fosse para mim.”|
 
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+|<img src=https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/Luciana%20Martins.png alt="Luciana Martins" width=370 heigth=370>| Luciana Martins <br><br> Idade: 23 anos<br><br>Ocupação: Estudante de Moda e fundadora de uma startup de Moda através de uma incubadora de sua Universidade, Empreendedora Individual (EI) | Aplicativos:<br><br> <ul><li>Instagram</li>
+|:----------------|:--------------------|:----------------|
+|**Motivações:**<br><br><ul><li>Moda Sustentável</li> <li>Meio ambiente</li> <li>Viagens</li></ul>|**Frustrações:**<br><br><ul><li>Conhece e produz seus produtos de acordo com os preceitos da Slow Fashion, mas percebe que o termo é pouco conhecido, o que dificulta a valorização e diferenciação de seus produtos</li><li>Não encontra uma rede de apoio de empreendedores Slow Fashion</li></ul>|**Hobbies e História:**<br><br>Desde criança sua família a levava para fazer trilhas e passeios ecológicos. Adora viajar, principalmente para Europa, de onde conheceu pela primeira vez o termo Slow Fashion.|
+  
+|<img src=https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/Marcelo%20Bianchi.png alt="Marcelo Bianchi" width=170 heigth=170>| Marcelo Bianchi <br><br> Idade: 38 anos<br><br>Ocupação: Professor de Química e Biologia | Aplicativos:<br><br> <ul><li>Facebook</li><li>Instagram</li>
+|:----------------|:--------------------|:----------------|
+|**Motivações:**<br><br><ul><li>Trabalho</li> <li>Sustentabilidade dos oceanos</li> <li>Surfar</li><li>Sociedade socialmente justa e ambientalmente correta</li></ul>|**Frustrações:**<br><br><ul><li>Não concorda com o modo de produção de algumas marcas, mas não conhece o conceito Slow Fashion</li><li>Sempre que pode prefere realizar a compra de roupas de boa qualidade, mas sem a certeza se seu modo de produção foi sustentável ou não</li></ul>|**Hobbies e História:**<br><br>É solteiro, mora em São Paulo, capital, mas gosta de surfar nos finais de semana. Vem acompanhando a degradação das praias e oceanos durante as últimas décadas e depois de uma palestra sobre a poluição dos oceanos decorrente da indústria têxtil está decidido a mudar seu estilo de vida e fazer sua parte para a sustentabilidade do planeta, mas desconhece o termo Slow Fashion e suas opções alternativas.|
+  
+|<img src=https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/Davi%20Campos.jpg alt="Davi Campos" width=260 heigth=260>| Davi Campos <br><br> Idade: 32 anos<br><br>Ocupação: Analista de Sistemas | Aplicativos:<br><br> <ul><li>Facebook</li><li>Instagram</li><li>Linkedin</li></ul>
+|:----------------|:--------------------|:----------------|
+|**Motivações:**<br><br><ul><li>Tecnologia</li> <li>Desenvolvimento</li> <li>Jogos</li><li>Sustentabilidade</li><li>Inclusão social</li></ul>|**Frustrações:**<br><br><ul><li>É adepto do Slow Fashion, mas encontra dificuldades em localizar produtos na internet.</ul>|**Hobbies e História:**<br><br>Considera as compras pela internet uma grande facilitadora do seu dia a dia, já que é portador de uma deficiência física que o impede de se locomover com facilidade às lojas. Adora passar o tempo programando e participando de jogos online.|
+  
+|<img src=https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/Vania%20Weber.png alt="Vania Weber" width=500 heigth=500>| Vania Weber <br><br> Idade: 57 anos<br><br>Ocupação: Proprietária de uma loja de malharia, Microempreendedora Individual (MEI)| Aplicativos:<br><br> <ul><li>Facebook</li><li>Instagram</li><li>Twitter</li></ul>
+|:----------------|:--------------------|:----------------|
+|**Motivações:**<br><br><ul><li>Ativismo animal</li> <li>Veganismo</li> <li>Moda Sustentável – Ecológica e vegana</li></ul>|**Frustrações:**<br><br><ul><li>Usa o mercado livre para vender seus produtos, mas acaba não atraindo seu público-alvo ali</li><li>Não consegue que seus produtos tenham opções de entrega com emissão zero de carbono</li><li>A visualização dos selos da sua marca (vegano, algodão ecológico) não obtém destaque em plataformas como o mercado livre, fazendo com que seus produtos não compitam de forma inadequada com produtos semelhantes, mas que não possuem os selos</li></ul>|**Hobbies e História:**<br><br>É vegana e ativista contra a exploração animal há mais de 20 anos. Mora no interior do Rio Grande do Sul e abriu uma loja de malharia sustentável e vegana com produtos feitos com algodão ecológico.|
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
@@ -20,33 +35,31 @@ Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos 
 > - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
 > - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
 > - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
-## Histórias de Usuários
+## 2.2 Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                                                       |PARA ... `MOTIVO/VALOR`                                                                        |
-|--------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-|Carla Dantas        | realizar vendas online dos meus artesanatos                                                              | aumentar minhas vendas                                                                        |
-|Carla Dantas        | expor meus produtos                                                                                      | conheçam meu trabalho e alcance o maior número de pessoas interessadas em comprá-los          |
-|Carla Dantas        | instigar o uso de roupas Slow fashion                                                                    | redução de danos no ecossistema                                                               |
-|Marina Prado        | poder realizar uma pesquisa sobre produtos específicos em um único lugar                                 | localizar com mais facilidade itens que sejam do meu interesse                                |  
-|Marina Prado        | poder incluir os produtos do meu interesse em uma lista de favoritos                                     | que seja possível visualizá-los com mais facilidade quando eu quiser                          |
-|Marina Prado        | ter acesso às características principais do produto, como: cor, tamanho, especificações técnicas         | que eu tenha as informações necessárias no momento da compra                                  |
-|Marina Prado	     | ter acesso às informações da loja e do seu processo produtivo	                                        | que eu tenha as informações necessárias no momento da compra                                  |
-|Marina Prado	     | visualizar os selos disponíveis para cada loja	                                                        | que eu consiga selecionar as lojas cujos valores estejam compatíveis com aquilo que eu procuro|
-|Marina Prado        | visualizar as avaliações de outros clientes acerca dos produtos    	                                | avaliar com mais assertividade as qualidades e/ou defeitos dos produtos                       |
-|Marina Prado	     | conseguir acompanhar o andamento do meu pedido 	                                                        | que eu tenha informações relevantes sobre os passos posteriores à compra                      |
-|Luciana Martins     | vender os produtos produzidos por ela mesma em um local que destaque o conceito Hand-made e Slow Fashion | para ganhar dinheiro produzindo algo que ela acredita                                         |
-|Luciana Martins     | ter acesso a um local que privilegia os tópicos conceituais de sua marca                                 | para poder vender seus produtos em um local que reforça seus próprios conceitos               |
-|Luciana Martins     | que o termo Slow fashion seja mais conhecido                                                             | para agregar valor ao seu produto e atrair seu público-alvo específico                        |
-|Luciana Martins     | encontrar uma rede de apoio de empreendedores de Slow fashion	                                        | fortalecer a entrada no mercado de produtos sustentáveis                                      |
-
-                                   
-
-
+|--------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+|Davi Campos, Marina Prado e Marcelo Bianchi | Poder realizar uma pesquisa sobre produtos específicos em um único lugar | Para localizar com mais facilidade itens que sejam do meu interesse                                                                       |
+|Davi Campos, Marina Prado e Marcelo Bianchi | Poder incluir os produtos do meu interesse em uma lista de favoritos | Que seja possível visualizá-los com mais facilidade quando eu quiser|
+|Davi Campos, Marina Prado e Marcelo Bianchi | Ter acesso às características principais do produto, como: cor, tamanho e especificações técnicas | Que eu tenha as informações necessárias no momento da compra
+|Davi Campos, Marina Prado e Marcelo Bianchi | Ter acesso às informações da loja e do seu processo produtivo, incluindo seus aspectos ambientais e sociais | Que eu tenha as informações necessárias no momento da compra para poder optar por uma compra consciente ambiental e socialmente|
+|Davi Campos, Marina Prado e Marcelo Bianchi | Visualizar os selos disponíveis para cada loja | Que eu consiga selecionar as lojas cujos valores estejam compatíveis com aquilo que eu procuro |
+|Davi Campos, Marina Prado e Marcelo Bianchi | Visualizar as avaliações de outros clientes acerca dos produtos| Avaliar com mais assertividade as qualidades e/ou defeitos dos produtos |
+|Davi Campos, Marina Prado e Marcelo Bianchi | Conseguir acompanhar o andamento do meu pedido	| Que eu tenha informações relevantes sobre os passos posteriores à compra | 
+|Marcelo Bianchi | Comprar roupas de empreendedores/marcas locais	| Economizar com frete e valorizar a economia local |
+|Carla Dantas e Luciana Martins | Realizar vendas online dos meus artesanatos	| Aumentar minhas vendas |
+|Carla Dantas, Luciana Martins e Vania Weber | Fomentar o uso de roupas Slow Fashion	| Contribuir com a redução de danos no ecossistema |
+|Luciana Martins | Ter acesso a um local que privilegia os tópicos conceituais da minha marca	| Poder vender meus produtos em um local que reforça seus próprios conceitos |
+|Luciana Martins | Encontrar uma rede de apoio de empreendedores de Slow Fashion	| Fortalecer a entrada no mercado de produtos sustentáveis |
+|Vania Weber | Publicar meus produtos com destaque para selos de qualidade de minha marca	| Alcançar maior número de pessoas que possuem a mesma filosofia de carbono zero, ecologia e não maus tratos aos animais |
+|Carla Dantas e Vania Weber | Oferecer entregas com emissão zero de carbono	| Dar opção aos clientes que queiram diminuir a emissão de carbono |
+|Vania Weber | Que seja possível o consumidor visualizar no momento da compra os selos/certificações que os meus produtos possuem	| Atrair meu público-alvo e valorizar meu produto |
+|Davi Campos | Interagir com marcas ambientalmente conscientes em um site com engajamento social 	| Contribuir de forma direta com os aspectos sustentáveis e sociais da comunidade |
+  
+  
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
@@ -54,11 +67,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 > - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
 > - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
-## Requisitos
+## 2.3 Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+Detalhes dos requisitos que cada usuário espera do projeto (estratificar requisitos entre consumidor e empreendedor).
 
-### Requisitos Funcionais
+### 2.3.1 Requisitos Funcionais
+
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 
 |ID    | Descrição do Requisito                                             | Prioridade |
 |------|--------------------------------------------------------------------|------------|
