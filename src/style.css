@@ -99,97 +99,6 @@ body {
     margin: 1%; 
 }
 
-aside {
-    width: fit-content;
-    float: left;
-    padding: 2% 3% 1% 0%;
-}
-
-aside h1 {
-    font-size: 23px;
-    font-weight: bold;
-    margin-bottom: 25px;
-    margin-left: 32px;
-    margin-top: 20px;
-}
-
-aside a {
-    font-size: large;
-    width: auto;
-    height: 60px;
-    padding: 5px;
-    margin: 0px;
-    margin-left: 20px;
-}
-
-.ofertas h1 {
-    padding: 3%;
-    text-align: center;
-    font-size: 23px;
-    font-weight: bold;
-    margin-top: 20px;
-}
-
-.card-body{
-    font-size: 15px;
-}
-
-.card-body p{
-    font-size: 15px;
-    margin-left: 33%;
-    font-weight: bold;
-}
-
-.card-body a{
-    margin-left: 50px;
-    margin-right: 50px;   
-}
-
-.card-body h6{
-    margin-left: 25px;
-    margin-right: 25px;   
-}
-
-footer div{
-    margin: 0px;
-    border: 2px none rgb(143, 206, 143);
-    width: 100%;
-    padding: 20px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-    background: #20B2AA
-  }
-
-footer h5{
-    margin-left: 0px;
-    font-family: Arial, Helvetica, sans-serif;
-    color:white;
-    font-weight: bold;
-  }
-
-footer p{
-    margin-right: 10px;
-    margin-bottom: 0px;
-    font-size: 15px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: white;
-}
-
-@media only screen and (max-width:485px) {
-    #pesquisa {
-     width: 100%;
-    }
-    #pesquisa input {
-        width: 100%;
-    }
-    aside a { 
-        display: none; 
-    }
-}
-
-
 /* Icon 1 */
 
 .animated-icon1 {
@@ -263,6 +172,77 @@ footer p{
     -o-transform: rotate(-135deg);
     transform: rotate(-135deg);
     }
+
+
+.ofertas h1 {
+    padding: 3%;
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.card-body{
+    font-size: 15px;
+}
+
+.card-body p{
+    font-size: 15px;
+    margin-left: 33%;
+    font-weight: bold;
+}
+
+.card-body a{
+    margin-left: 50px;
+    margin-right: 50px;   
+}
+
+.card-body h6{
+    margin-left: 25px;
+    margin-right: 25px;   
+}
+
+footer div{
+    margin: 0px;
+    border: 2px none rgb(143, 206, 143);
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background: #20B2AA
+  }
+
+footer h5{
+    margin-left: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    font-weight: bold;
+  }
+
+footer p{
+    margin-right: 10px;
+    margin-bottom: 0px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+@media only screen and (max-width:485px) {
+    #pesquisa {
+     width: 100%;
+    }
+    #pesquisa input {
+        width: 100%;
+    }
+    aside a { 
+        display: none; 
+    }
+}
+
+
+
     
     
     
