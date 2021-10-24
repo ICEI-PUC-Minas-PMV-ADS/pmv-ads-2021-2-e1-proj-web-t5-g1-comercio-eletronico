@@ -1,7 +1,7 @@
 
 # 3. Metodologia
 
-## 3.1 Relação de Ambientes de Trabalho
+## 3.1 Relação de ambientes de trabalho
 
 <p align="justify">Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada a seguir.</p>
 
