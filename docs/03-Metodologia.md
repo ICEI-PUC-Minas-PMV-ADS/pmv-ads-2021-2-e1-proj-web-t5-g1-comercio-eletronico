@@ -82,9 +82,11 @@ A equipe está organizada da seguinte maneira:
 
 O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/L5GwhGmV/projeto-desenvolvimento-web-e-commerce e é apresentado, no estado atual, na Figura 1.
 
+<p align="center">
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/trello.png?raw=true" alt="quadro kanban">
-Figura 1 - Tela do kanban (Trello) utilizada pelo grupo
-<br>
+</p>
+<p align="center">Figura 1 - Tela do kanban (Trello) utilizada pelo grupo</p>
+
 As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
 
 * Documentação                                            
@@ -93,7 +95,9 @@ As tarefas são, ainda, etiquetadas em função da natureza da atividade e segue
 * Testes
 * Gerência de Projeto
 
+<p align="center">
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/etiquetas.PNG?raw=true" alt="Etiquetas">
+</p>
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu]
