@@ -138,8 +138,7 @@ body {
     .animated-icon1 span {
     background: #20B2AA;
     }
-    
-    
+        
     .animated-icon1 span:nth-child(1) {
     top: 0px;
     }
@@ -229,6 +228,8 @@ footer p{
     color: white;
 }
 
+@import '~mdb-ui-kit/css/mdb.min.css';
+
 @media only screen and (max-width:485px) {
     #pesquisa {
      width: 100%;
@@ -240,10 +241,5 @@ footer p{
         display: none; 
     }
 }
-
-
-
     
-    
-    
-    @import '~mdb-ui-kit/css/mdb.min.css';
+   
