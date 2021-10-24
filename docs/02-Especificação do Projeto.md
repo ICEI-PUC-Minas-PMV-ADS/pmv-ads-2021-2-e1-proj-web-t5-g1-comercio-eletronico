@@ -38,7 +38,7 @@
 
 ## 2.2 Histórias de Usuários
 
-A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
+<p align="justify">A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.</p>
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                                                       |PARA ... `MOTIVO/VALOR`                                                                        |
 |--------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -69,51 +69,71 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 ## 2.3 Requisitos
 
-Detalhes dos requisitos que cada usuário espera do projeto (estratificar requisitos entre consumidor e empreendedor).
+<p align="justify">Detalhes dos requisitos que cada usuário espera do projeto (estratificar requisitos entre consumidor e empreendedor).</p>
 
 ### 2.3.1 Requisitos Funcionais
 
-A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
+<p align="justify">A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.</p>
 
-|ID    | Descrição do Requisito                                             | Prioridade |
-|------|--------------------------------------------------------------------|------------|
-|RF-001| O site deve permitir a exposição dos produtos                      |   ALTA     | 
-|RF-002| O site deve permitir que o usuário final realize suas compras      |   ALTA     |
+|ID               | Descrição do Requisito                                             | Prioridade |
+|-----------------|--------------------------------------------------------------------|------------|
+|<img width=200/>|<img width=500/>|
+| RF-1 | O site deve permitir que os empreendedores realizem o seu cadastro de usuário no site com os seguintes campos: nome de usuário, nome da empresa, e-mail, telefone, CNPJ, endereço. | ALTA | 
+| RF-2 | O site deve permitir que cada empreendedor previamente cadastrado possua uma página web com o nome e descrição da sua marca, logo da marca e produtos disponíveis.| ALTA |
+| RF-3 | O site deve permitir que o empreendedor cadastre os seus produtos para venda. | ALTA |
+| RF-4 | O site deve permitir ao empreendedor ter uma página web para cada produto cadastrado, com foto e informações detalhadas do produto: nome do produto, descrição, categoria, preço, gênero, tamanhos, tipo de material e certificações/selos de qualidade | ALTA |
+| RF-5 | O site deve permitir ao empreendedor publicar seus produtos com desconto no boleto, pagamento com PIX e/ou promoções da loja | BAIXA |
+| RF-6 | O empreendedor terá disponível um serviço de cadastramento das fases da produção com número de protocolo individual para identificação de cada item produzido. Após inserir o item ou lote de itens no sistema interno da empresa ele deverá enviar um arquivo XML para alimentar a base de dados do site. O site disponibilizará um botão no item respectivo que ao ser clicado exibirá uma timeline da cadeia produtiva permitindo ao consumidor rastrear a cadeia produtiva dos produtos | BAIXA |
+| RF-7 | O site deverá permitir ao empreendedor gerenciar de forma autônoma a sua loja online e o seu portfólio. O empreendedor deverá ter as opções de consultar, editar e excluir um produto já cadastrado | ALTA |
+| RF-8 | O site deve permitir que os consumidores realizem o seu cadastro de usuário no site com os seguintes campos: nome, gênero, endereço e data de aniversário. | ALTA |
+| RF-9 | O site deverá permitir ao usuário (empreendedor e consumidor) realizar o login com nome de usuário ou e-mail e senha | ALTA |
+| RF-10 | O site deve possuir um campo para pesquisa de produtos conforme a palavra-chave inserida e demais filtros de pesquisa definidos pelo consumidor: categoria, preço (máximo e mínimo), gênero, tamanho, tipo de material e certificações | ALTA |
+| RF-11 | O site deve permitir que o consumidor ordene os itens pesquisados por: mais vendidos, maior preço, menor preço e mais bem avaliados | ALTA |
+| RF-12 | O site deve permitir que o consumidor adicione produtos ao carrinho de compras | ALTA |
+| RF-13 | O site deve registrar a lista de produtos adicionados ao carrinho de compras pelos consumidores | ALTA |
+| RF-14 | O site deverá permitir que o consumidor previamente cadastrado salve seus produtos favoritos em uma lista | MÉDIA |
+| RF-15 | O site deve indicar a localização (cidade) do empreendedor/loja física | ALTA |
+| RF-16 | O site, ao final da compra, deverá disponibilizar a opção de doação para projetos de sustentabilidade ambiental e social. Será disponibilizado o cadastro para o projeto a ser beneficiado. O nome do projeto cadastrado será exibido na tela de doação. Ao finalizar a compra será exibida uma tela com informações sobre o projeto e uma sugestão de valor pré-cadastrado, que pode ser alterado. O valor será incluído no total a ser pago pelo cliente e será realizado um fluxo de caixa de todas as doações recebidas. Poderá ser gerado um relatório ao final do período de doações com o repasse total a ser efetivado com os nomes dos doadores, valor total, local, data e hora | MÉDIA |
+| RF-17 | O site deve dar a opção de entregas com emissões zero de carbono | MÉDIA |
+| RF-18 | O site deve permitir ao consumidor escolher entre as formas de pagamento: cartão de débito, cartão de crédito, PIX e boleto bancário. | ALTA |
+| RF-19 | O site deve permitir que o consumidor finalize a compra dos produtos adicionados ao carrinho | ALTA |
+| RF-20 | O site deve permitir que após a conclusão da compra, o consumidor avalie os produtos adquiridos em forma de texto e nota (1 a 5, sendo 1 a nota mínima e 5 a nota máxima) | BAIXA |
+| RF-21 | O site deve permitir ao consumidor rastrear suas compras pelo código de rastreio da transportadora que será enviado por e-mail ao consumidor após a compra. | BAIXA |
+| RF-22 | O site deve possuir um campo (caixa de texto) para que o consumidor envie possíveis dúvidas acerca do produto para o empreendedor | BAIXA |
+| RF-23 | O site deve representar visualmente os conceitos da Slow Fashion. Será solicitada uma elaboração de identidade visual para que se insiram objetos como cabeçalho, rodapé, logomarca e demais materiais produzidos no site | ALTA |
+| RF-24 | O mecanismo de busca do site deve sugerir a loja mais próxima ao consumidor, de acordo com o produto desejado, de forma a valorizar a economia local | BAIXA |
+| RF-25 | O site deve permitir que o consumidor visualize os detalhes de um produto: descrição, fotos, preço, avaliações dos outros clientes e localização da loja | ALTA |
 
+### 2.4 Requisitos não Funcionais
 
-### Requisitos não Funcionais
+<p align="justify">A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.</p>
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|<img width=200/>|<img width=500/>|
+|RNF-1| Para os requisitos de desempenho será realizado o dimensionamento da base de dados inicial e de sua provável expansão evitando, assim, a falta de espaço em disco e problemas de desempenho relacionados a isto | ALTA | 
+|RNF-2| Para atender à LGPD o site deverá possuir criptografia de ponta a ponta e anonimização de dados | ALTA |
+|RNF-3| A infraestrutura deverá contar com um datacenter local com alta disponibilidade ou ser hospedado em nuvem | MÉDIA | 
+|RNF-4| O ambiente a ser escolhido para manter a base de dados deverá dispor de requisitos mínimos de segurança tais como um firewall de borda com proteção contra ransomware e proxy |  ALTA | 
+|RNF-5| O acesso dos usuários ao sistema deverá ser realizado via login e senha. É obrigatório que cada indivíduo tenha seu próprio usuário identificado priorizando a segurança e rastreabilidade |  ALTA | 
+|RNF-6| O sistema deve ser construído considerando o atributo de usabilidade, portanto, deve ser um site que apresente um nível aceitável de interatividade e facilidade de uso |  ALTA | 
+|RNF-7| Apenas os usuários máster poderão alterar as permissões de acesso dos demais usuários da loja. Serão considerados usuários máster os proprietários das empresas ou aqueles designados por eles | BAIXA | 
+|RNF-8| Serão utilizadas as linguagens HTML, CSS, JavaScript | ALTA | 
+|RNF-9| Durante o desenvolvimento serão priorizadas alternativas gratuitas de tecnologia. Dentre elas serão utilizadas: Trello, Marvel APP e WorkSpace | ALTA | 
+|RNF-10| Utilização das práticas SEO (do inglês, Otimização para Mecanismos de Busca) | ALTA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+## 2.3.3 Restrições
 
-## Restrições
-
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+Alguns pontos considerados cruciais a serem superados e que atribuirão viabilidade ao projeto são:
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
+|<img width=200/>|<img width=500/>|
+|RE-1| O projeto não poderá extrapolar o prazo final acordado |
+|RE-2| O projeto não poderá extrapolar o valor a ser gasto que foi dimensionado inicialmente |
+|RE-3| Será necessária uma avaliação dos recursos financeiros disponíveis, dos cenários de processamento de dados e as ferramentas de backup disponíveis para definição sobre quais dados e imagens deverão ser armazenados |
 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
