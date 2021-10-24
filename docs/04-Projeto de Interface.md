@@ -20,7 +20,6 @@ O wireframe interativo deste projeto pode ser acessado pelo <a href="https://mar
 </p>
 <p align="center">Figura 2 - Fluxo de telas do usuário - Consumidor</p>
 
-
 ### 4.1.2 Fluxo do Usuário - Empreendedor
 
 <p align="justify"> O fluxo de telas do Empreendedor, distingue-se das telas do usuário-consumidor pois contém telas específicas para esse usuário que não são acessadas pelos consumidores. Há, no entanto, duas telas que são comuns para ambos perfis de usuários (empreendedor e consumidor): as telas homepage e tela de login.
@@ -44,8 +43,6 @@ Abaixo segue a imagem de fluxo do usuário - empreendedor:
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/user%20flow%20empreendedor_imagem.jpg?raw=true" alt="Fluxo de telas do usuário - Empreendedor">
 </p>
 <p align="center">Figura 3 - Fluxo de telas do usuário - Empreendedor</p>
-
-
 
 ## 4.2 Wireframes
 
@@ -116,8 +113,6 @@ A elaboração da Tela Apresentação dos produtos por loja atende aos seguintes
 - **Requisito Funcional-4:** O site deve permitir ao empreendedor ter uma página web para cada produto cadastrado, com foto e informações detalhadas do produto: nome do produto, categoria, preço (máximo e mínimo), gênero, tamanho, tipo de material e certificações.
 - **Requisito Funcional-15:** O site deve indicar a localização (cidade) do empreendedor/loja física.
 
-
-
 ### Tela: Apresentação dos produtos por categoria
 
 <p align="justify"> A tela de apresentação dos produtos por categoria apresenta como conteúdo os produtos correspondentes à categoria escolhida pelo usuário. No canto superior direito, há a opção de ordenação do conteúdo apresentado, com as seguintes opções: mais vendidos, maior preço, menor preço e mais bem avaliados.
@@ -149,7 +144,6 @@ A elaboração da Tela Detalhamento do produto atende aos seguintes requisitos f
 - **Requisito Funcional-20:** O site deve permitir que após a conclusão da compra, o consumidor avalie os produtos adquiridos em forma de texto e nota (1 a 5, sendo 1 a nota mínima e 5 a nota máxima).
 - **Requisito Funcional-22:** O site deve possuir um campo (caixa de texto) para que o consumidor envie possíveis dúvidas acerca do produto para o empreendedor .
 
-
 ### Tela: Lista de favoritos
 
 <p align="justify"> A tela de favoritos apresenta a relação dos produtos incluídos na lista de favoritos pelo usuário. Ao clicar em visualizar, o usuário é direcionado novamente para a tela de detalhamento do produto escolhido.</p>
@@ -176,7 +170,6 @@ A elaboração da Tela Finalização do Pedido e Lista de Produtos (carrinho) at
 - **Requisito Funcional-17:** O site deve dar a opção de entregas com emissões zero de carbono.
 - **Requisito Funcional-19:** O site deve permitir que o consumidor efetive suas compras.
 
-
 ### Tela: Efetuar Pagamento
 
 <p align="justify"> Nesta tela o consumidor irá ser impactado com a possibilidade de realizar uma doação para um projeto e de optar ou não por uma entrega com emissões zero de carbono. Clicando no valor desejado, o valor será acrescentado ao campo de doação no resumo do pedido. Após realizar as opções desejadas basta clicar em confirmar o pedido e a compra estará finalizada.</p>
@@ -193,8 +186,6 @@ A elaboração da Tela  Efetuar Pagamento atende aos seguintes requisitos funcio
 - **Requisito Funcional-19:** O site deve permitir que o consumidor efetive suas compras.
 - **Requisito Funcional-21:** O site deve permitir ao consumidor rastrear suas compras pelo código de rastreio da transportadora que será enviado por e-mail ao consumidor após a compra.
 
-
-
 ### Tela: Cadastro de Usuário – Loja do Empreendedor
 
 <p align="justify"> Nesta tela o empreendedor poderá fazer o seu cadastro. Para isso, será necessário o preenchimento dos campos: nome, nome da loja/empresa, telefone, CNPJ, endereço da empresa e e-mail. Após o cadastro, o empreendedor será direcionado para área de sua loja em uma nova tela: Loja do empreendedor.</p>
@@ -206,7 +197,6 @@ A elaboração da Tela  Efetuar Pagamento atende aos seguintes requisitos funcio
 
 A elaboração da Tela  Cadastro de Usuário – Loja do Empreendedor atende ao seguinte requisito funcional:
 - **Requisito Funcional-1:** O site deve permitir que os empreendedores realizem o seu cadastro de usuário do site com os seguintes campos: nome de usuário, nome da empresa, e-mail, telefone, CNPJ, endereço.
-
 
 ### Tela: Loja do Empreendedor
 
@@ -220,7 +210,6 @@ Outras funcionalidades dessa página são: encontrar um produto específico em s
 
 A elaboração da Tela Loja do Empreendedor atende ao seguinte requisito funcional:
 - **Requisito Funcional-7:** O site deverá permitir ao empreendedor o gerenciamento de sua loja online com edição de produtos já publicados
-
 
 ### Tela: Cadastro de Produto – Empreendedor
 
