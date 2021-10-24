@@ -1,4 +1,4 @@
-# 1. INTRODUÇÃO
+# 1. Introdução
 
 <p align="justify">Ao longo do século XX, as transformações trazidas pela revolução industrial e pelos novos hábitos de produção e consumo transmudam de maneira profunda e irreversível as condições de vida no planeta, sob diferentes aspectos. Um conjunto de novas variáveis continua surgindo e institui um ambiente cada vez mais dinâmico, cuja característica basilar é a celeridade.</p>
 
