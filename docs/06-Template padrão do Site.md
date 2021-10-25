@@ -30,12 +30,12 @@ O nome da marca se encontra ao lado direito da imagem, como mostra a figura abai
 
 
 <p align="justify"> Outros aspectos da identidade visual incluem:
-•	utilização da cor branca e de diferentes tonalidades da cor verde como cores padrão do site, seguindo o padrão verde/branco do logo, sendo:
-o	cor branca: cor de fundo principal das páginas;
-o	cor verde:  rodapé e ícone do menu principal;
-•	exibição de conceitos do site no rodapé da página;
-•	 inclusão de um link, para o cliente que queira saber mais sobre a Slow Fashion, que redireciona para o site do Movimento Slow Fashion;
-•	nome do site “ModaGreen” no rodapé do site.  </p>
+-	utilização da cor branca e de diferentes tonalidades da cor verde como cores padrão do site, seguindo o padrão verde/branco do logo, sendo:
+-	cor branca: cor de fundo principal das páginas;
+-	cor verde:  rodapé e ícone do menu principal;
+-	exibição de conceitos do site no rodapé da página;
+-	 inclusão de um link, para o cliente que queira saber mais sobre a Slow Fashion, que redireciona para o site do Movimento Slow Fashion;
+-	nome do site “ModaGreen” no rodapé do site.  </p>
 
 
 #### Responsividade
@@ -49,25 +49,25 @@ o	cor verde:  rodapé e ícone do menu principal;
 Figura 20 – Carrinho de compras
 - Carrinho de compras: o cliente será direcionado para a sua lista de compras de produtos selecionados.
 
-<br>
+
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/login.png?raw=true" alt="Figura 21 - Entrar">
 Figura 21 - Entrar
 
 - Entrar: o cliente poderá entrar com seu login e senha, caso cadastrado, ou efetuar seu cadastro na página, sendo direcionado para a tela de login.
 
-<br>
+
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/loupe.png?raw=true" alt="Figura 22 - Lupa">
 Figura 22 - Lupa
 
 - Lupa: o cliente poderá utilizar esse ícone após digitar seu texto no campo de pesquisa e será direcionado ao seu produto ou loja.
 
-<br>
+
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/love.png?raw=true" alt="Figura 23 – Lista de Favoritos">
 Figura 23 – Lista de Favoritos
 
 - Lista de favoritos: o usuário, após clicar neste ícone, poderá visualizar sua lista de favoritos. Caso não esteja cadastrado no site, será direcionado para a tela de login para efetuar seu cadastro.
 
-<br>
+
 
 ## Apresentação da Tela Principal: Tela Home
 
@@ -85,7 +85,7 @@ A tela principal, como pode ser observado acima, contempla:
 -	Informações sobre o site (Rodapé);
 </p>
 
- <br>
+
 <p align="justify"> O Menu principal (Menu Sanduiche) com principais categorias de produtos, quando aberto, é visualizado da seguinte forma: </p>
 
 <p align="center">
@@ -94,6 +94,17 @@ A tela principal, como pode ser observado acima, contempla:
 <p align="center">Figura 21 – Menu Sanduiche</p>
 
 
+<p align="justify"> Como pode ser observado, as categorias de produtos comercializados no site são: </p>
+- Bermudas;
+- Blusas;
+- Bolsas;
+- Calçados
+- Calças;
+- Camisetas;
+- Jaquetas e Casacos;
+- Moleton;
+- Moda Praia;
+- Shorts.
 
 
 
