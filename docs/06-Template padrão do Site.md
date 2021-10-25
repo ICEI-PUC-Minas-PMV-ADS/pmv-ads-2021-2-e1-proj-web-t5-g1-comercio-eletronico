@@ -19,7 +19,8 @@ Ele é composto pelos seguintes elementos principais:
 -	Ofertas (Conteúdo);
 -	Informações sobre o site (Rodapé);
 
-## Identidade visual
+### Identidade visual
+
 <p align="justify"> A logomarca do site utiliza uma imagem de duas folhas brancas e verdes, com fundo verde.
 O nome da marca se encontra ao lado direito da imagem, como mostra a figura abaixo: </p>
 
@@ -39,10 +40,10 @@ Outros aspectos da identidade visual incluem:
 -	Nome do site “ModaGreen” no rodapé do site.
 
 
-#### Responsividade
+### Responsividade
 <p align="justify"> A responsividade segue o padrão Bootstrap para o conteúdo principal, menu e rodapé; e mediaqueries para telas com max-width de 485px para o cabeçalho, incluindo a área de pesquisa. </p>
 
-#### Iconografia
+### Iconografia
 
 <p align="justify"> Utilizamos a representação visual de símbolos e imagens no cabeçalho do site, como a seguir:</p>
 
@@ -70,7 +71,7 @@ Figura 23 – Lista de Favoritos
 
 
 
-## Apresentação da Tela Principal: Tela Home
+## Apresentação da Tela Principal: Tela Homepage
 
 <p align="center">
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/tela-home.jpg?raw=true" alt="Figura 24 – Tela Principal">
