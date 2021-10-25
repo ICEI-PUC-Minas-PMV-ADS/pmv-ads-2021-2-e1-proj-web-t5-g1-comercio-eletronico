@@ -29,13 +29,14 @@ O nome da marca se encontra ao lado direito da imagem, como mostra a figura abai
 <p align="center">Figura 19 – Logomarca do site</p>
 
 
-<p align="justify"> Outros aspectos da identidade visual incluem:
--	utilização da cor branca e de diferentes tonalidades da cor verde como cores padrão do site, seguindo o padrão verde/branco do logo, sendo:
--	cor branca: cor de fundo principal das páginas;
--	cor verde:  rodapé e ícone do menu principal;
--	exibição de conceitos do site no rodapé da página;
--	 inclusão de um link, para o cliente que queira saber mais sobre a Slow Fashion, que redireciona para o site do Movimento Slow Fashion;
--	nome do site “ModaGreen” no rodapé do site.  </p>
+Outros aspectos da identidade visual incluem:
+
+-	Utilização da cor branca e de diferentes tonalidades da cor verde como cores padrão do site, seguindo o padrão verde/branco do logo.
+-	Cor branca: cor de fundo principal das páginas.
+-	Cor verde:  rodapé e ícone do menu principal.
+-	Exibição de conceitos do site no rodapé da página.
+-	Inclusão de um link, para o cliente que queira saber mais sobre a Slow Fashion, que redireciona para o site do Movimento Slow Fashion.
+-	Nome do site “ModaGreen” no rodapé do site.
 
 
 #### Responsividade
@@ -76,14 +77,14 @@ Figura 23 – Lista de Favoritos
 </p>
 <p align="center">Figura 24 – Tela Principal</p>
 
-<p align="justify">
 A tela principal, como pode ser observado acima, contempla:
--	Area de pesquisa de produtos (Cabeçalho);
--	Menu principal com principais categorias de produtos (Menu Sanduiche fechado) entre o cabeçalho e o conteúdo principal;
--	Ofertas do dia (Conteúdo);
--	Campo de inscrição no site para receber novidades (Rodapé);
--	Informações sobre o site (Rodapé);
-</p>
+
+-	Area de pesquisa de produtos (Cabeçalho).
+-	Menu principal com principais categorias de produtos (Menu Sanduiche fechado) entre o cabeçalho e o conteúdo principal.
+-	Ofertas do dia (Conteúdo).
+-	Campo de inscrição no site para receber novidades (Rodapé).
+-	Informações sobre o site (Rodapé).
+
 
 
 <p align="justify"> O Menu principal (Menu Sanduiche) com principais categorias de produtos, quando aberto, é visualizado da seguinte forma: </p>
@@ -95,15 +96,16 @@ A tela principal, como pode ser observado acima, contempla:
 
 
 <p align="justify"> Como pode ser observado, as categorias de produtos comercializados no site são: </p>
-- Bermudas;
-- Blusas;
-- Bolsas;
-- Calçados
-- Calças;
-- Camisetas;
-- Jaquetas e Casacos;
-- Moleton;
-- Moda Praia;
+
+- Bermudas.
+- Blusas.
+- Bolsas.
+- Calçados.
+- Calças.
+- Camisetas.
+- Jaquetas e Casacos.
+- Moleton.
+- Moda Praia.
 - Shorts.
 
 
