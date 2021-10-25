@@ -3,8 +3,8 @@
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
 
 
-O Layout Padrão utilizado pelo site segue a proposta descrita pelo Projeto de Interface apresentado anteriormente.
-Este padrão segue a estrutura abaixo:
+<p align="justify"> O Layout Padrão utilizado pelo site segue a proposta descrita pelo Projeto de Interface apresentado anteriormente.
+Este padrão segue a estrutura abaixo:</p>
 
 <p align="center">
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/template.jpg?raw=true" alt="Figura 18 -Estrutura padrão do site">
@@ -12,16 +12,16 @@ Este padrão segue a estrutura abaixo:
 <p align="center">Figura 18 - Estrutura padrão do site</p>
 
 
-O Layout padrão do site foi criado utilizando HTML e CSS está disponível no endereço: <nome do site>.
+<p align="justify"> O Layout padrão do site foi criado utilizando HTML e CSS está disponível no endereço: <a href="">endereço.</a> </p>
 Ele é composto pelos seguintes elementos principais:
-●	Area de pesquisa de produtos (Cabeçalho);
-●	Menu principal com principais categorias de produtos (Menu Sanduiche);
-●	Ofertas (Conteúdo);
-●	Informações sobre o site (Rodapé);
+-	Área de pesquisa de produtos (Cabeçalho);
+-	Menu principal com principais categorias de produtos (Menu Sanduiche);
+-	Ofertas (Conteúdo);
+-	Informações sobre o site (Rodapé);
 
 ## Identidade visual
-A logomarca do site utiliza uma imagem de duas folhas brancas e verdes, com fundo verde.
-O nome da marca se encontra ao lado direito da imagem, como mostra a figura abaixo:
+<p align="justify"> A logomarca do site utiliza uma imagem de duas folhas brancas e verdes, com fundo verde.
+O nome da marca se encontra ao lado direito da imagem, como mostra a figura abaixo: </p>
 
 <p align="center">
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/logomarca.png?raw=true" alt="Figura 19 – Logomarca do site">
@@ -29,25 +29,24 @@ O nome da marca se encontra ao lado direito da imagem, como mostra a figura abai
 <p align="center">Figura 19 – Logomarca do site</p>
 
 
-Outros aspectos da identidade visual incluem:
+<p align="justify"> Outros aspectos da identidade visual incluem:
 •	utilização da cor branca e de diferentes tonalidades da cor verde como cores padrão do site, seguindo o padrão verde/branco do logo, sendo:
 o	cor branca: cor de fundo principal das páginas;
 o	cor verde:  rodapé e ícone do menu principal;
 •	exibição de conceitos do site no rodapé da página;
 •	 inclusão de um link, para o cliente que queira saber mais sobre a Slow Fashion, que redireciona para o site do Movimento Slow Fashion;
-•	nome do site “ModaGreen” no rodapé do site.
+•	nome do site “ModaGreen” no rodapé do site.  </p>
 
 
 #### Responsividade
-A responsividade segue o padrão Bootstrap para o conteúdo principal, menu e rodapé; e mediaqueries para telas com max-width de 485px para o cabeçalho, incluindo a área de pesquisa.
+<p align="justify"> A responsividade segue o padrão Bootstrap para o conteúdo principal, menu e rodapé; e mediaqueries para telas com max-width de 485px para o cabeçalho, incluindo a área de pesquisa. </p>
 
 #### Iconografia
 
-Utilizamos a representação visual de símbolos e imagens no cabeçalho do site, como a seguir:
+<p align="justify"> Utilizamos a representação visual de símbolos e imagens no cabeçalho do site, como a seguir:</p>
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/cart.png?raw=true" alt="Figura 20 – Carrinho de compras">
 Figura 20 – Carrinho de compras
-
 - Carrinho de compras: o cliente será direcionado para a sua lista de compras de produtos selecionados.
 
 <br>
@@ -68,7 +67,7 @@ Figura 23 – Lista de Favoritos
 
 - Lista de favoritos: o usuário, após clicar neste ícone, poderá visualizar sua lista de favoritos. Caso não esteja cadastrado no site, será direcionado para a tela de login para efetuar seu cadastro.
 
-
+<br>
 
 ## Apresentação da Tela Principal: Tela Home
 
@@ -77,16 +76,17 @@ Figura 23 – Lista de Favoritos
 </p>
 <p align="center">Figura 24 – Tela Principal</p>
 
-
+<p align="justify">
 A tela principal, como pode ser observado acima, contempla:
-●	Area de pesquisa de produtos (Cabeçalho);
-●	Menu principal com principais categorias de produtos (Menu Sanduiche fechado) entre o cabeçalho e o conteúdo principal;
-●	Ofertas do dia (Conteúdo);
-●	Campo de inscrição no site para receber novidades (Rodapé);
-●	Informações sobre o site (Rodapé);
+-	Area de pesquisa de produtos (Cabeçalho);
+-	Menu principal com principais categorias de produtos (Menu Sanduiche fechado) entre o cabeçalho e o conteúdo principal;
+-	Ofertas do dia (Conteúdo);
+-	Campo de inscrição no site para receber novidades (Rodapé);
+-	Informações sobre o site (Rodapé);
+</p>
 
-
-O Menu principal (Menu Sanduiche) com principais categorias de produtos, quando aberto, é visualizado da seguinte forma:
+ <br>
+<p align="justify"> O Menu principal (Menu Sanduiche) com principais categorias de produtos, quando aberto, é visualizado da seguinte forma: </p>
 
 <p align="center">
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/tela-home-menu.jpg?raw=true" alt="Figura 21 – Menu Sanduiche ">
