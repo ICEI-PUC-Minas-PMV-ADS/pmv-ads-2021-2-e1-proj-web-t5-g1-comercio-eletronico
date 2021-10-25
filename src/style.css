@@ -201,32 +201,38 @@ body {
     margin-right: 25px;   
 }
 
-footer div{
-    margin: 0px;
-    border: 2px none rgb(143, 206, 143);
-    width: 100%;
-    padding: 20px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-    background: #20B2AA
-  }
-
-footer h5{
-    margin-left: 0px;
-    font-family: Arial, Helvetica, sans-serif;
+.novidades strong {
     color:white;
-    font-weight: bold;
-  }
-
-footer p{
-    margin-right: 10px;
-    margin-bottom: 0px;
-    font-size: 15px;
-    font-family: Arial, Helvetica, sans-serif;
+}
+.conceito {
+    padding: 5%;
+    
+}
+.conceito h3 {
     color: white;
 }
+.conceito p {
+    color: white;
+}
+
+.footer-slow-fashion {
+    color: white;
+}
+
+.footer-home {
+    color: white;
+}
+
+.footer-login {
+    color: white;
+}
+
+.footer-vendedor {
+    color: white;
+}
+
+
+
 
 @import '~mdb-ui-kit/css/mdb.min.css';
 
