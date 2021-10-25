@@ -45,25 +45,25 @@ A responsividade segue o padrão Bootstrap para o conteúdo principal, menu e ro
 
 Utilizamos a representação visual de símbolos e imagens no cabeçalho do site, como a seguir:
 
-<img src="" alt="Figura 20 – Carrinho de compras">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/cart.png?raw=true" alt="Figura 20 – Carrinho de compras">
 Figura 20 – Carrinho de compras
 
 - Carrinho de compras: o cliente será direcionado para a sua lista de compras de produtos selecionados.
 
 <br>
-<img src="" alt="Figura 21 - Entrar">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/login.png?raw=true" alt="Figura 21 - Entrar">
 Figura 21 - Entrar
 
 - Entrar: o cliente poderá entrar com seu login e senha, caso cadastrado, ou efetuar seu cadastro na página, sendo direcionado para a tela de login.
 
 <br>
-<img src="" alt="Figura 22 - Lupa">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/loupe.png?raw=true" alt="Figura 22 - Lupa">
 Figura 22 - Lupa
 
 - Lupa: o cliente poderá utilizar esse ícone após digitar seu texto no campo de pesquisa e será direcionado ao seu produto ou loja.
 
 <br>
-<img src="" alt="Figura 23 – Lista de Favoritos">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/love.png?raw=true" alt="Figura 23 – Lista de Favoritos">
 Figura 23 – Lista de Favoritos
 
 - Lista de favoritos: o usuário, após clicar neste ícone, poderá visualizar sua lista de favoritos. Caso não esteja cadastrado no site, será direcionado para a tela de login para efetuar seu cadastro.
