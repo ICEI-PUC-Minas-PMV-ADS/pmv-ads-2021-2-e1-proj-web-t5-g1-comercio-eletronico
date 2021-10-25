@@ -13,13 +13,13 @@ A tela inicial do site é composta por 4 estruturas:
 
 
 
-p align="justify">O cabeçalho do site apresenta o elemento visual da marca, no canto superior esquerdo. Ao clicar sob a logomarca, o usuário é redirecionado diretamente para a tela inicial. Ao lado do campo para pesquisa são apresentados alguns elementos de iconografia que possuem a função de ancorar suas respectivas páginas. O item "Entrar" direciona o usuário para a tela de login, utilizando a mesma aba do navegador. Ao clicar em "Lista de Favoritos" sem realizar o cadastro ou login prévio, o usuário também é direcionado para a tela de login.</p>
+<p align="justify">O cabeçalho do site apresenta o elemento visual da marca, no canto superior esquerdo. Ao clicar sob a logomarca, o usuário é redirecionado diretamente para a tela inicial. Ao lado do campo para pesquisa são apresentados alguns elementos de iconografia que possuem a função de ancorar suas respectivas páginas. O item "Entrar" direciona o usuário para a tela de login, utilizando a mesma aba do navegador. Ao clicar em "Lista de Favoritos" sem realizar o cadastro ou login prévio, o usuário também é direcionado para a tela de login.</p>
 
-p align="justify">Abaixo do elemento visual é disponibilizado um menu responsivo para apresentação das categorias disponíveis no site. Ao clicar uma vez no ícone do elemento, o menu de categorias é apresentado ao usuário. Ao clicar novamente o menu é compilado.</p>
+<p align="justify">Abaixo do elemento visual é disponibilizado um menu responsivo para apresentação das categorias disponíveis no site. Ao clicar uma vez no ícone do elemento, o menu de categorias é apresentado ao usuário. Ao clicar novamente o menu é compilado.</p>
 
-p align="justify">A apresentação das ofertas é feita de forma centralizada na página. São apresentados cards com as ofertas e cada card possue como elementos de composição os seguintes itens: imagem do produto, descrição do produto e preço.</p>
+<p align="justify">A apresentação das ofertas é feita de forma centralizada na página. São apresentados cards com as ofertas e cada card possue como elementos de composição os seguintes itens: imagem do produto, descrição do produto e preço.</p>
 
-p align="justify">No rodapé são disponibilizados alguns elementos de hipermídia para acionamento. O item "Saiba mais sobre o movimento Slow Fashion no mundo" habilita uma nova página web que direciona o usuário para o endereço <https://slowfashion.global/movement>. O item "Home" direciona para a tela inicial e o item "Login" para a tela de cadastro. Já o item "Moda Green" tem a função de redirecionar para o topo da página. </p>
+<p align="justify">No rodapé são disponibilizados alguns elementos de hipermídia para acionamento. O item "Saiba mais sobre o movimento Slow Fashion no mundo" habilita uma nova página web que direciona o usuário para o endereço <https://slowfashion.global/movement>. O item "Home" direciona para a tela inicial e o item "Login" para a tela de cadastro. Já o item "Moda Green" tem a função de redirecionar para o topo da página. </p>
 
 
 * **Requisitos atendidos**:
