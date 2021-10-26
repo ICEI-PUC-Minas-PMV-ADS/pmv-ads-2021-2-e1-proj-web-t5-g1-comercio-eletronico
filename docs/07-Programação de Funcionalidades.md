@@ -22,7 +22,7 @@ A tela inicial do site é composta por 4 estruturas:
 
 <p align="justify">A apresentação das ofertas é feita de forma centralizada na página. São apresentados cards com as ofertas e cada card possue como elementos de composição os seguintes itens: imagem do produto, descrição do produto e preço.</p>
 
-<p align="justify">No rodapé são disponibilizados alguns elementos de hipermídia para acionamento. O item "Saiba mais sobre o movimento Slow Fashion no mundo" habilita uma nova página web que direciona o usuário para o endereço [Slow Fashion](https://slowfashion.global/movement). O item "Home" direciona para a tela inicial e o item "Login" para a tela de login e cadastro. Já o item "Moda Green" tem a função de redirecionar para o topo da página. </p>
+<p align="justify">No rodapé são disponibilizados alguns elementos de hipermídia para acionamento. O item "Saiba mais sobre o movimento Slow Fashion no mundo" habilita uma nova página web que direciona o usuário para o endereço (https://slowfashion.global/movement). O item "Home" direciona para a tela inicial e o item "Login" para a tela de login e cadastro. Já o item "Moda Green" tem a função de redirecionar para o topo da página. </p>
 
 * **Requisitos atendidos**:
 
