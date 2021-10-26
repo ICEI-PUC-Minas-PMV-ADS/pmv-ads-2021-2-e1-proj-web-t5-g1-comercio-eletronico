@@ -27,9 +27,9 @@ A tela inicial do site é composta por 4 estruturas:
 * **Requisitos atendidos**:
 
   - **Requisito Funcional-10:** - O site deve possuir um campo para pesquisa de produtos conforme a palavra-chave inserida e demais filtros de pesquisa definidos pelo consumidor: categoria, preço (máximo e mínimo), gênero, tamanho, tipo de material e certificações.
-  
+
 * **Artefatos da funcionalidade**:
-  
+
   - index.html
   - style.css
   - logo3.png
@@ -38,9 +38,9 @@ A tela inicial do site é composta por 4 estruturas:
   - login.png
   - carrinho.png
   - ofertas.png
-  
+
 * **Instruções de acesso**:
-  
+
 <p align="justify">Acesse a URL INSERIR URL em um navegador de internet.</p>
 
 ## 7.2 Tela de cadastro e login
@@ -74,7 +74,7 @@ A tela inicial do site é composta por 4 estruturas:
   - **Requisito Funcional-1:** - O site deve permitir que os empreendedores realizem o seu cadastro de usuário no site com os seguintes campos: nome de usuário, nome da empresa, e-mail, telefone, CNPJ, endereço.
   - **Requisito Funcional-8:** - O site deve permitir que os consumidores realizem o seu cadastro de usuário no site com os seguintes campos: nome, gênero, endereço e data de aniversário.
   - **Requisito Funcional-9:** - O site deverá permitir ao usuário (empreendedor e consumidor) realizar o login com nome de usuário ou e-mail e senha.
-  
+
 * **Artefatos da funcionalidade**:
 
   - tela-login.html
@@ -85,11 +85,11 @@ A tela inicial do site é composta por 4 estruturas:
   - love.png
   - login.png
   - carrinho.png
-  
+
  * **Instruções de acesso**:
- 
- <p align="justify">Acesse a URL INSERIR URL em um navegador de internet. Clique no item "Entrar" disponível no cabeçalho da página.
- 
+
+ <p align="justify">Acesse a URL <a href="https://modagreen.herokuapp.com" target="_blank">https://modagreen.herokuapp.com</a></p> em um navegador de internet. Clique no item "Entrar" disponível no cabeçalho da página.
+
 
 > **Links Úteis**:
 >
