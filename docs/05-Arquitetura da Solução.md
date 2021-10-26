@@ -37,7 +37,7 @@ A seguinte imagem mostra a interação do usuário com o sistema, por onde ela p
 
 <p align="justify">O site utiliza a plataforma do Heroku como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL: https://modagreen.herokuapp.com</p>
 
-<p align="justify">A publicação do site no Heroku é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço: https://git.heroku.com/modagreen.git</p>
+<p align="justify">A publicação do site no Heroku é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço: https://github.com/marialuizalacerda/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico</p>
 
 > **Links Úteis**:
 >
