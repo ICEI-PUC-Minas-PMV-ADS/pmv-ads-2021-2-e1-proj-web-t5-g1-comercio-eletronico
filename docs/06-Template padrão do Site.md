@@ -13,7 +13,7 @@ Este padrão segue a estrutura abaixo:</p>
 
 
 <p align="justify"> O Layout padrão do site foi criado utilizando HTML e CSS está disponível no endereço: <a href="https://modagreen.herokuapp.com" target="_blank">modagreen.herokuapp.com</a></p>
-Ele é composto pelos seguintes elementos principais:
+Ele é composto pelos seguintes elementos principais:                                                                                                 
 -	Área de pesquisa de produtos (Cabeçalho);
 -	Menu principal com principais categorias de produtos (Menu Sanduiche);
 -	Ofertas (Conteúdo);
