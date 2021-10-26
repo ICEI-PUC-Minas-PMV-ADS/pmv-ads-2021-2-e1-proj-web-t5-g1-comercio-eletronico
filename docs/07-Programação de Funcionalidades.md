@@ -88,7 +88,7 @@ A tela inicial do site é composta por 4 estruturas:
 
  * **Instruções de acesso**:
 
- <p align="justify">Acesse a URL <a href="https://modagreen.herokuapp.com" target="_blank">https://modagreen.herokuapp.com</a></p> em um navegador de internet. Clique no item "Entrar" disponível no cabeçalho da página.
+ <p align="justify">Acesse a URL <a href="https://modagreen.herokuapp.com" target="_blank">https://modagreen.herokuapp.com</a> em um navegador de internet. Clique no item "Entrar" disponível no cabeçalho da página. </p>
 
 
 > **Links Úteis**:
