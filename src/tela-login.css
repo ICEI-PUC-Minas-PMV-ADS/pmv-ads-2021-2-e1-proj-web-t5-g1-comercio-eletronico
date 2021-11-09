@@ -206,6 +206,7 @@ body {
     flex-direction: column;
     align-items: center;
 }
+
 .social-media {
     margin: 1rem 0;
 }
@@ -230,9 +231,36 @@ input:-webkit-autofill
     display: flex;
     align-items: center;
     margin: 8px;
-
-
 }
+
+#msgError{
+    text-align: center;
+    color: #FF6347;
+    background-color: #FFE4E1;
+    padding: 5px;
+    padding-top: 5px;
+    border-radius: 4px;
+    margin-top: 7px;
+    margin-bottom: -30px;
+    height:18px;
+    display: none;
+    width: fit-content;
+}
+
+#msgSucess{
+    text-align: center;
+    color: #32CD32;
+    background-color: #F0F8FF;
+    padding: 10px;
+    padding-top: 10px;
+    border-radius: 4px;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    height:30px;
+    display: none;
+    width: fit-content;
+}
+
 
 /* second content*/
 
@@ -588,4 +616,3 @@ input:-webkit-autofill
         width: 100%;
     }
 }
-
