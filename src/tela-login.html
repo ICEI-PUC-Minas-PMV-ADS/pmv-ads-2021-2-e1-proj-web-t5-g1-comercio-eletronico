@@ -56,24 +56,27 @@
               <!-- Criação de conta para cliente novo -->    
               <div class="second-column">
                   <h2 class="title title-second">Criar Conta</h2>
+                    <div id="msgError"></div></br>
+                    <div id="msgSucess"></div></br>
+                    
                   <form class="form">
-                      <label class="label-input" for="">
-                          <input type="text" placeholder="Nome">
+                      <label class="label-input" for="" id="labelNome">
+                          <input type="text" id="inputNome" placeholder="Nome" required>
                       </label>
                       
-                      <label class="label-input" for="">
-                          <input type="email" placeholder="E-mail">
+                      <label class="label-input" for="" id="labelEmail">
+                          <input type="email" id="inputEmail" placeholder="E-mail" required>
                       </label>
                       
-                      <label class="label-input" for="">
-                          <input type="password" placeholder="Senha">
+                      <label class="label-input" for="" id="labelSenha">
+                          <input type="password" id="inputSenha" placeholder="Senha" required>
                       </label>
                       
-                      <label class="label-input" for="">
-                        <input type="confirm password" placeholder="Confirmar Senha">
+                      <label class="label-input" for="" id="labelConfirmSenha">
+                        <input type="password" id="inputConfirmSenha" placeholder="Confirmar Senha" required>
                     </label>
                       
-                      <button class="btn btn-second">Cadastre-se</button>
+                      <button class="btn btn-second" onclick='cadastrar()'>Cadastre-se</button>
                      
                   </form>
               </div><!-- second column -->
@@ -98,7 +101,7 @@
                           <i class="fas fa-lock icon-modify"></i>
                           <input type="password" placeholder="Senha">
                       </label>
-                  
+
                       <a class="password" href="#">Esqueceu sua senha?</a>
                       <button class="btn btn-second">entrar</button>
                   </form>
