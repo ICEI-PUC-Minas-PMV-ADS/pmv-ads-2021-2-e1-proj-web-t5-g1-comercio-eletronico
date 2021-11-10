@@ -72,7 +72,11 @@ ConfirmSenha.addEventListener('keyup', ()=>{
 
 // Validação do botão 'Cadastra-se'
 
-function cadastrar(){
+document.querySelector('#botaocad').addEventListener('click',cadastrar)
+
+function cadastrar(e){
+    
+    e.preventDefault()
 
     if(validNome && validEmail && validSenha && validConfirmSenha == true){
         
@@ -89,16 +93,15 @@ function cadastrar(){
         localStorage.setItem('listaUser', JSON.stringify(listaUser))
 
         msgSucess.setAttribute('style','display: block')
-        msgSucess.innerHTML='Cadastrando usuário...'
+        msgSucess.innerHTML='Usuário cadastrado com sucesso!'
         msgError.innerHTML=''
         msgError.setAttribute('style','display: none')
         
-        setTimeout(()=>{
+        /*setTimeout(()=>{
             window.location.href = 'tela-login.html'
-        }, 15000)
-
-        
-
+        }, 40000)*/
+   
+       
     } else{
         msgError.setAttribute('style','display: block')
         msgError.innerHTML='Preencha todos os campos corretamente antes de cadastrar'
@@ -118,3 +121,4 @@ btnAcessar.addEventListener("click", function () {
 btnProsseguir.addEventListener("click", function () {
     body.className = "prosseguir-js";
 })
+
