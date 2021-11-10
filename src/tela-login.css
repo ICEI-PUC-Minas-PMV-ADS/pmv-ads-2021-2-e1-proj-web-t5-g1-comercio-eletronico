@@ -249,18 +249,18 @@ input:-webkit-autofill
 
 #msgSucess{
     text-align: center;
-    color: #32CD32;
+    color: #008000;
     background-color: #F0F8FF;
     padding: 10px;
-    padding-top: 10px;
+    padding-top: 5px;
+    padding-bottom: 15px;
     border-radius: 4px;
     margin-top: -10px;
-    margin-bottom: -10px;
-    height:30px;
+    margin-bottom: -15px;
+    height:10px;
     display: none;
     width: fit-content;
 }
-
 
 /* second content*/
 
