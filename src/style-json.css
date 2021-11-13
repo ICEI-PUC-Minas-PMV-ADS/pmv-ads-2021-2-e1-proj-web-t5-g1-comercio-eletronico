@@ -87,14 +87,13 @@ body {
     transform: rotate(-135deg);
     }
 
-h2 {
-    font-family: Arial, Helvetica, sans-serif;
-}
+
 
 #icones {
     display: flex;
     float: left;
 }
+
 
 #entrar  {
     display: inline-block;
