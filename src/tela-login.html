@@ -90,20 +90,21 @@
               </div>
               <div class="second-column">
                   <h2 class="title title-second">Já sou cliente Green</h2>
+                    <div id="msgErrorLogin"></div></br></br>
                   <form class="form">
                   
-                      <label class="label-input" for="">
+                      <label class="label-input" for="" id= "labelEmailLogin">
                           <i class="far fa-envelope icon-modify"></i>
-                          <input type="email" placeholder="E-mail">
+                          <input type="email" id= "inputEmailLogin" placeholder="E-mail" required>
                       </label>
                   
-                      <label class="label-input" for="">
+                      <label class="label-input" for="" id= "labelSenhaLogin">
                           <i class="fas fa-lock icon-modify"></i>
-                          <input type="password" placeholder="Senha">
+                          <input type="password" id= "inputSenhaLogin" placeholder="Senha" required>
                       </label>
 
                       <a class="password" href="#">Esqueceu sua senha?</a>
-                      <button class="btn btn-second">entrar</button>
+                      <button class="btn btn-second" id="botaoentrar">entrar</button>
                   </form>
               </div><!-- second column -->
           </div><!-- second-content -->
