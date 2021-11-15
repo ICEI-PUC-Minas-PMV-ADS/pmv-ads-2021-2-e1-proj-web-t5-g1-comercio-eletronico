@@ -1,4 +1,3 @@
-
 * {
     font-family: 'Lato', sans-serif;
     text-decoration: none;
@@ -92,23 +91,49 @@ body {
 #icones {
     display: flex;
     float: left;
+    margin-left: -10px;
 }
 
 
 #entrar  {
     display: inline-block;
     padding: 20% 20% 20% 0%;
+    
+    
  }
 #favoritos  {
     display: inline-block;
-    padding: 20% 20% 20% 20%;
+    padding:20% 20% 20% 0%;
+    
 }
 
 #carrinho  {
     display: inline-block;    
-    padding: 20% 0% 20% 20%;
+    padding:20% 20% 20% 0%;
+    
+    
 }
 
+
+#botaosair{
+    display: inline-block;
+    font-weight: bold;
+    height: 50px;
+    width: 50px;
+    padding-inline-end: 50px;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 400px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    
+}
+
+#userLogado{
+    display: inline-blockb;
+    font-weight: bold;
+    margin-top: 25px;
+}
 
 #pesquisa {
     display: flexbox;
