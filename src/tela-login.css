@@ -261,6 +261,20 @@ input:-webkit-autofill
     width: fit-content;
 }
 
+#msgErrorLogin{
+    text-align: center;
+    color: #FF6347;
+    background-color: #FFE4E1;
+    padding: 5px;
+    padding-top: 5px;
+    border-radius: 4px;
+    margin-top: 7px;
+    margin-bottom: -30px;
+    height:18px;
+    display: none;
+    width: fit-content;
+}
+
 /* second content*/
 
 .second-content {
