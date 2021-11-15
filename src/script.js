@@ -24,6 +24,14 @@ let validConfirmSenha = false
 let msgError = document.querySelector('#msgError')
 let msgSucess = document.querySelector('#msgSucess')
 
+let emailLogin = document.querySelector('#inputEmailLogin')
+let labelEmailLogin = document.querySelector('#labelEmailLogin')
+
+let senhaLogin = document.querySelector('#inputSenhaLogin')
+let labelSenhaLogin = document.querySelector('#labelSenhaLogin')
+
+let msgErrorLogin = document.querySelector('#msgErrorLogin')
+
 // Validações do formulário de cadastro
 
 nome.addEventListener('keyup', ()=>{
@@ -95,12 +103,7 @@ function cadastrar(e){
         msgSucess.setAttribute('style','display: block')
         msgSucess.innerHTML='Usuário cadastrado com sucesso!'
         msgError.innerHTML=''
-        msgError.setAttribute('style','display: none')
-        
-        /*setTimeout(()=>{
-            window.location.href = 'tela-login.html'
-        }, 40000)*/
-   
+        msgError.setAttribute('style','display: none')  
        
     } else{
         msgError.setAttribute('style','display: block')
@@ -109,6 +112,58 @@ function cadastrar(e){
         msgSucess.setAttribute('style','display: none')
     }
 }
+
+// Autenticação do usuário
+
+document.querySelector('#botaoentrar').addEventListener('click',entrar)
+
+function entrar(e){
+
+    e.preventDefault()
+
+    let listaUserLogin = []
+
+    let userValid = {
+        nome: '',
+        email:'',
+        senha: '',
+
+    }
+
+    listaUserLogin = JSON.parse(localStorage.getItem('listaUser'))
+    
+    listaUserLogin.forEach((item) => {
+        
+        if(emailLogin.value == item.emailCad && senhaLogin.value == item.senhaCad){
+
+            userValid = {
+                nome: item.nomeCad,
+                email: item.emailCad,
+                senha: item.senhaCad
+            }
+
+        }
+    })
+        
+    if(emailLogin.value == userValid.email && senhaLogin.value == userValid.senha){
+
+        window.location.href = 'index-json.html'
+
+        let token = Math.random().toString(16).substr(2) + Math.random().toString(16).substr(2)
+        localStorage.setItem('token', token)
+
+        localStorage.setItem('userLogado', JSON.stringify(userValid))
+
+    } else{
+
+        emailLogin.setAttribute('style', 'border: 2px solid #FF0000')
+        senhaLogin.setAttribute('style', 'border: 2px solid #FF0000')
+        msgErrorLogin.setAttribute('style', 'display: block')
+        msgErrorLogin.innerHTML = 'Usuário ou senha inválidos'
+        emailLogin.focus()
+    }
+}
+
 
 // Botão 'Acessar'
 
@@ -121,4 +176,6 @@ btnAcessar.addEventListener("click", function () {
 btnProsseguir.addEventListener("click", function () {
     body.className = "prosseguir-js";
 })
+
+
 
