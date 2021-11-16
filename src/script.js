@@ -177,5 +177,20 @@ btnProsseguir.addEventListener("click", function () {
     body.className = "prosseguir-js";
 })
 
+// Botão 'Sair'
 
+document.querySelector('#botaosair').addEventListener('click',sair)
+
+function sair(){
+
+    localStorage.removeItem('token')
+
+    window.location.href = 'tela-login.html'
+}
+
+let userLogado = JSON.parse(localStorage.getItem('userLogado'))
+
+let logado = document.querySelector('#userLogado')
+
+logado.innerHTML = 'Olá, ' + userLogado.nome
 
