@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <title>Filnalização do pedido e lista de produtos</title>
+    <!--CSS-->
+    <link rel="stylesheet" href="carrinho.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"
+        integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+    <!-- MDB -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.css" rel="stylesheet" />
+    <!--Google Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+
+        <!--Navbar - menu hamburguer-->
+        <section class="mb-3">
+            <nav class="navbar navbar-light bg-light">
+
+                <div class="container-fluid">
+                    <button class="navbar-toggler first-button" type="button" data-mdb-toggle="collapse"
+                        data-mdb-target="#navbarToggleExternalContent9" aria-controls="navbarToggleExternalContent9"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                        <div class="animated-icon1"><span></span><span></span><span></span></div>
+                    </button>
+
+
+                    <!-- Navbar brand -->
+                    <section>
+                        <a class="navbar-brand" href="index-json.html">
+                            <h2 id="navbar-marca"> <i> ModaGreen </i> </h2> <img
+                                src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Logo3.png"
+                                alt="Moda Green" width="16" height="16" />
+                        </a>
+                    </section>
+
+                    <!--Navbar - icones favoritos, entrar e carrinho-->
+                    <section id="icones">
+                        <div id="entrar">
+                            <a href="tela-login.html" target="_self"> <img
+                                    src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/login.png"
+                                    alt="entrar" width="24" height="24" />
+                            </a>
+                        </div>
+                        <div id="favoritos">
+                            <a href="tela-login.html" target="_self"><img
+                                    src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/love.png"
+                                    alt="favoritos" width="24" height="24" /></a>
+                        </div>
+                        <div id="carrinho">
+                            <a href="carrinho.html" target="_self"> <img
+                                    src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Carrinho.png"
+                                    alt="carrinho de compras" width="24" height="24" /> </a>
+                        </div>
+                        <button type="button" class="btn btn-light" id='botaosair'>Sair</button>
+                        <h6 id="userLogado"></h6>
+                </div>
+
+
+        </section>
+
+
+        <!--Navbar - campo de categorias sanduiche-->
+        <div class="collapse" id="navbarToggleExternalContent9">
+            <div class="bg-light shadow-3 p-4">
+                <button class="btn btn-link btn-block border-bottom m-0">Bermudas</button>
+                <button class="btn btn-link btn-block border-bottom m-0">Blusas</button>
+                <button class="btn btn-link btn-block border-bottom m-0">Bolsas</button>
+                <button class="btn btn-link btn-block border-bottom m-0">Calçados</button>
+                <button class="btn btn-link btn-block border-bottom m-0">Calças</button>
+                <button class="btn btn-link btn-block border-bottom m-0">Camisetas</button>
+                <button class="btn btn-link btn-block border-bottom m-0">Jaquetas e Casacos</button>
+                <button class="btn btn-link btn-block border-bottom m-0">Moleton</button>
+                <button class="btn btn-link btn-block border-bottom m-0">Moda Praia</button>
+                <button class="btn btn-link btn-block m-0">Shorts</button>
+            </div>
+        </div>
+        </nav>
+        </section>
+        <!--/Navbar - menu hamburguer-->
+
+        <!--Campo de busca-->
+        <div id="pesquisa">
+            <form name="pesquisa" action="pesquisa.html" method="post">
+                <input type="text" id="txtBusca" name="pesquisa" placeholder="Pesquise por produtos e lojas" />
+                <button>
+                    <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/loupe.png"
+                        alt="Lupa" />
+                </button>
+            </form>
+        </div>
+        <!--/Campo de busca-->
+
+    </header>
+
+    <!--Endereço, Forma de pagamento e Data da entrega-->
+    <main>
+        <div class="container">
+            <h1>Finalize sua slow compra</h1>
+            <hr>
+            <ul class="list-group mb-3">
+                <li class="list-group-item py-3">
+                    <div class="row g-3">
+                        <div class="col-4 col-md-3 col-lg-2">
+                            <a href="#">
+                                <img src="Oferta 1.jpg" class="img-thumbnail">
+                            </a>
+                        </div>
+                        <div class="col-8 col-md-9 col-lg-7 col-xl-8 text-left align-self-center">
+                            <h4><b><a href="#" class="text-decoration-none text-danger">Blusa Verde Masculina</a></b>
+                            </h4>
+                            <h4>
+                                <small>Blusa amiga da natureza.</small>
+                            </h4>
+                        </div>
+                        <div
+                            class="col-6 offset-6 col-sm-6 offset-sm-6 col-md-4 offset-md-8 col-lg-3 offset-lg-0 col-xl-2 align-self-center mt-3">
+                            <div class="input-group">
+                                <button type="button" class="btn btn-outline-dark btn-sm">
+                                    <svg class="bi" width="16" height="16" fill="currentColor">
+                                        <use xlink:href="bi.svg#caret-down"/>
+                                    </svg>                            
+                                </button>
+                                <input type="text" class="form-control text-center border-dark" value="4">
+                                <button type="button" class="btn btn-outline-dark btn-sm">
+                                    <svg class="bi" width="16" height="16" fill="currentColor">
+                                        <use xlink:href="bi.svg#caret-up"/>
+                                    </svg>                            
+                                </button>
+                                <button type="button" class="btn btn-outline-danger border-dark btn-sm">
+                                    <svg class="bi" width="16" height="16" fill="currentColor">
+                                        <use xlink:href="bi.svg#trash"/>
+                                    </svg>                            
+                                </button>
+                            </div>
+                            <div class="text-right mt-2">
+                                <small class="text-secondary">Valor unidade: R$ 100,00</small><br>
+                                <span class="text-dark">Valor total: R$ 400,00</span>
+                            </div>
+                        </div>
+                    </div>
+
+                </li>
+            </ul>
+        </div>
+    </main>
+
+
+    <!--Bundle bootstrap-->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF"
+        crossorigin="anonymous"></script>
+
+</body>
+
+</html>
