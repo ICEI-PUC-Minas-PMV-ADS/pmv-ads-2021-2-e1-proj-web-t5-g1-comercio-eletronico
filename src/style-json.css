@@ -188,6 +188,8 @@ main h1 {
 
 .foto {
     border: 1px solid black;
+    border-radius: 2px;
+    box-shadow: 5px 5px 5px lightgray;
 }
 .detalhes {  
     padding: 5% 10% 5% 25%;
