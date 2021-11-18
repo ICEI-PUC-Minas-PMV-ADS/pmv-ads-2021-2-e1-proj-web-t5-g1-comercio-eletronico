@@ -212,6 +212,8 @@
     <!-- MDB -->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.js"></script>
 
+   
+
     <!--JavaScript-->
     <script src="produtos.js"></script>
     <script type="text/javascript" src="script.js"></script>
@@ -222,8 +224,13 @@
       var prods = '';
       for (i=0; i < produtos.dados.length; i++) {
           prods += `<p class= "produto-item">
-          <img src="${produtos.dados[i].imagem}" alt="${produtos.dados[i].titulo}">  <br> ${produtos.dados[i].titulo} <br> ${produtos.dados[i].preco} <br>
-          <a key="${produtos.dados[i].id}" href="#" class="adicionar"> Adicionar ao carrinho</a>`;
+          <img src="${produtos.dados[i].imagem}" alt="${produtos.dados[i].titulo}" class="foto">  <br> 
+          ${produtos.dados[i].titulo} <br> 
+          ${produtos.dados[i].preco} <br>
+
+          <a key="${produtos.dados[i].id}" href="" class="detalhes"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/detalhes.png" alt="ver detalhes do produto" width="24" height="24"> </a>
+          
+          <a key="${produtos.dados[i].id}" href="" class="adicionar"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/adicionar-carrinho.png" alt="adicionar ao carrinho" width="24" height="24"> </a> </p>`;
      }
  
      document.getElementById('ofertas').innerHTML = prods

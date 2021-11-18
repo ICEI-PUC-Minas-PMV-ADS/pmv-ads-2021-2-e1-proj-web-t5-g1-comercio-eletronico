@@ -185,8 +185,16 @@ main h1 {
 #ofertas {
         display: inline-flexbox       
 }
-#comprar {  
+
+.foto {
+    border: 1px solid black;
+}
+.detalhes {  
+    padding: 5% 10% 5% 25%;
      
+}
+.adicionar {
+    padding: 5% 20% 5% 10%;
 }
 
 .produto-item {
