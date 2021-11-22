@@ -66,30 +66,33 @@ var carrinho = {
     produto: [
     {   
         id: 1,
-        titulo:' ',
-        preco: ' ',
-        quantidade: 0,
-    },
-    {
-        titulo:' ',
-        preco: ' ',
-        quantidade: 0,
+        titulo:[],
+        preco: [],
+        quantidade:[],
     },
     {   
         id: 2,
-        titulo:' ',
-        preco: ' ',
-        quantidade: 0,
+        titulo:[],
+        preco: [],
+        quantidade:[],
+    },
+    {   
+        id: 3,
+        titulo:[],
+        preco: [],
+        quantidade:[],
   },
   {
-        titulo:' ',
-        preco: ' ',
-        quantidade: 0,
+        id: 4,
+        titulo:[],
+        preco: [],
+        quantidade:[],
   },
-  {
-        titulo:' ',
-        preco: ' ',
-        quantidade: 0,
+  {     
+        id: 5,
+        titulo:[],
+        preco: [],
+        quantidade:[],
 },
   ],
 }
