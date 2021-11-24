@@ -91,7 +91,7 @@ body {
 #icones {
     display: flex;
     float: left;
-    margin-left: -10px;
+    margin-right: 18%;
 }
 
 
@@ -109,7 +109,7 @@ body {
 
 #carrinho  {
     display: inline-block;    
-    padding:20% 20% 20% 0%;
+    padding:20% 0% 20% 0%;
     
     
 }
@@ -118,19 +118,18 @@ body {
 #botaosair{
     display: inline-block;
     font-weight: bold;
-    height: 50px;
+    height: 38px;
     width: 50px;
     padding-inline-end: 50px;
     position: absolute;
-    margin-top: 50px;
-    margin-left: 400px;
-    margin-bottom: 0px;
-    margin-right: 0px;
+    margin-top: 0.6%;
+    margin-left: 16.5%;
+    margin-right: 0%;
     
 }
 
 #userLogado{
-    display: inline-blockb;
+    display: inline-block;
     font-weight: bold;
     margin-top: 25px;
 }

@@ -32,9 +32,9 @@ body {
     font-weight: 40;    
 }
 
-#logo {
-    padding: 2px;
-    margin: -12px;
+#navbar-marca {
+    padding: 0px;
+    margin: 0px 5px ;
 }
 
 #pesquisa {
