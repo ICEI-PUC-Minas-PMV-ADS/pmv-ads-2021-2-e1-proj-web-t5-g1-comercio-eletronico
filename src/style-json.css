@@ -95,19 +95,20 @@ body {
 }
 
 
-#entrar  {
+#carrinho {
     display: inline-block;
-    padding: 20% 20% 20% 0%;
-    
-    
+    padding: 20% 10% 20% 70%;
+      
  }
+
+
 #favoritos  {
     display: inline-block;
-    padding:20% 20% 20% 0%;
+    padding:20% 10% 20% 0%;
     
 }
 
-#carrinho  {
+#entrar  {
     display: inline-block;    
     padding:20% 0% 20% 0%;
     
@@ -116,14 +117,15 @@ body {
 
 
 #botaosair{
-    display: inline-block;
+    display: block;
+    float:left;
     font-weight: bold;
     height: 38px;
     width: 50px;
     padding-inline-end: 50px;
-    position: absolute;
-    margin-top: 0.6%;
-    margin-left: 16.5%;
+    margin-top: 30%;
+    margin-left: 150%;
+    margin-bottom: 5%;
     margin-right: 0%;
     
 }
@@ -150,7 +152,7 @@ body {
     font-size: 13px;
     padding: 10px 0px;
     border: 1px solid #999;
-    border-radius:10px;
+    border-radius:6px;
     width: 2050px;
     max-width: 2050px; 
 }

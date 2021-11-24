@@ -17,7 +17,7 @@
 
 <body>
  
-  <header>
+<header>
     
     <!--Navbar - menu hamburguer-->
     <section class="mb-3">
@@ -40,22 +40,25 @@
 
          <!--Navbar - icones favoritos, entrar e carrinho-->
         <section id="icones">
-          <div id="entrar">
-            <a href="tela-login.html" target="_self"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/login.png" alt="entrar" width="24" height="24"/>
-            </a>
-          </div>
+
+          <div id="carrinho">
+            <a href="carrinho.html" target="_self">  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Carrinho.png" alt="carrinho de compras"width="24" height="24"/>  </a>
+        </div>
+        
           <div id="favoritos">
               <a href="tela-login.html" target="_self"><img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/love.png" alt="favoritos" width="24" height="24"/></a> 
           </div>      
-            <div id="carrinho">
-              <a href="carrinho.html" target="_self">  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Carrinho.png" alt="carrinho de compras"width="24" height="24"/>  </a>
+         
+          <div id="entrar">
+            <a href="tela-login.html" target="_self"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/login.png" alt="entrar" width="24" height="24"/> </a>
           </div>
-            <button type="button" class="btn btn-light" id='botaosair'>Sair</button>
+          <div>
+          <button type="button" class="btn btn-light" id='botaosair'>Sair</button>
             <h6 id="userLogado"></h6>
           </div>     
           
        
-        </section>
+    </section>
 
         
         <!--Navbar - campo de categorias sanduiche-->
@@ -94,7 +97,7 @@
       </div>   
      <!--/Campo de busca--> 
 
-  </header>
+</header>
 
   
     <!--Apresentação das ofertas-->
@@ -209,45 +212,47 @@
 
 <!--Scripts-->
    
-    <!-- MDB -->
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.js"></script>
+<!-- MDB -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.js"></script>
 
-   
+<!--JavaScript-->
+<script  src="produtos.js"></script>
+<script src="script.js"></script>
+    
+<script>
+ //inserir produtos na pagina
+ var prods = '';
+ for (i=0; i < produtos.dados.length; i++) {
+     prods += `<p class= "produto-item">
+     <img src="${produtos.dados[i].imagem}" alt="${produtos.dados[i].titulo}" class="foto">  <br> 
+     ${produtos.dados[i].titulo} <br> 
+     ${produtos.dados[i].preco} <br>
 
-    <!--JavaScript-->
-    <script src="produtos.js"></script>
-    <script type="text/javascript" src="script.js"></script>
+     <a key="${produtos.dados[i].id}" href="" class="detalhes"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/detalhes.png" alt="ver detalhes do produto" width="24" height="24"> </a>
+     
+     <a key="${produtos.dados[i].id}" href="" class="adicionar"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/adicionar-carrinho.png" alt="adicionar ao carrinho" width="24" height="24"> </a> </p>`;
+}
+document.getElementById('ofertas').innerHTML = prods
 
-    <script>
-      
-      /*inserir produtos na pagina*/
-      var prods = '';
-      for (i=0; i < produtos.dados.length; i++) {
-          prods += `<p class= "produto-item">
-          <img src="${produtos.dados[i].imagem}" alt="${produtos.dados[i].titulo}" class="foto">  <br> 
-          ${produtos.dados[i].titulo} <br> 
-          ${produtos.dados[i].preco} <br>
 
-          <a key="${produtos.dados[i].id}" href="" class="detalhes"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/detalhes.png" alt="ver detalhes do produto" width="24" height="24"> </a>
-          
-          <a key="${produtos.dados[i].id}" href="" class="adicionar"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/adicionar-carrinho.png" alt="adicionar ao carrinho" width="24" height="24"> </a> </p>`;
-     }
- 
-     document.getElementById('ofertas').innerHTML = prods
-
-    /*atualizar carrinho*/
-    atualizarCarrinho = () => {
+  /*atualizar carrinho*/
+  
+  
+  atualizarCarrinho = () => {
         console.log(produtos);
-    }
-      var links = document.getElementsByClassName('adicionar');
-      for(var i = 0; i < links.length; i++) {
-        links[i].addEventListener('click', function() {
-          let key = this.getAttribute('key');
-          produtos.dados[key].quantidade++;
-          atualizarCarrinho();
-          return false;
+  }
+
+  var links = document.getElementsByClassName('adicionar');
+    for(var i = 0; i < links.length; i++) {
+      links[i].addEventListener('click', function() {
+        let key = this.getAttribute('key');
+        produtos.dados[key].quantidade++;
+        atualizarCarrinho();
+        return false;
         })
       }
+
+
 
     </script>
 <!--/Scripts-->
