@@ -11,7 +11,7 @@ body {
     flex-flow: column wrap;
 }
 
-/*menu sanduiche*/
+/* header menu sanduiche*/
 
 /* Icon 1 */
 
@@ -87,38 +87,29 @@ body {
     }
 
 
-
+/*header icones*/
 #icones {
     display: flex;
-    float: left;
     margin-right: 18%;
 }
 
-
 #carrinho {
-    display: inline-block;
-    padding: 20% 10% 20% 70%;
-      
- }
-
+    padding: 20% 10% 20% 70%; 
+}
 
 #favoritos  {
-    display: inline-block;
-    padding:20% 10% 20% 0%;
-    
+    padding:20% 10% 20% 0%; 
 }
 
 #entrar  {
-    display: inline-block;    
     padding:20% 0% 20% 0%;
-    
-    
 }
 
-
+/*header botao sair*/
 #botaosair{
-    display: block;
-    float:left;
+    display: flex;
+    flex-wrap: wrap;
+
     font-weight: bold;
     height: 38px;
     width: 50px;
@@ -136,6 +127,7 @@ body {
     margin-top: 25px;
 }
 
+/*header campo de pesquisa*/
 #pesquisa {
     display: flexbox;
     flex-wrap: row wrap;
@@ -170,10 +162,12 @@ body {
     cursor: pointer;
 }
 
+/*conteudo principal INDEX - main*/
 main {
         width: 100%;
         height: 80%;
         padding: 50px 50;
+        
         
     }
 main h1 {
@@ -184,7 +178,7 @@ main h1 {
 }
 
 #ofertas {
-        display: inline-flexbox       
+        display: inline-flexbox;     
 }
 
 .foto {
@@ -210,6 +204,65 @@ main h1 {
     height: 250px;
 }
 
+
+
+/*CONTEUDO PAGINA FINALIZACAO-COMPRA.HTML*/
+.products-container {
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-bottom: 100px;
+    max-width: 650px;
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.product-header {
+    width: 100%;
+    max-width: 650px;
+    display: flex;
+    justify-content: flex-start;
+    border-bottom: 4px solid lightgray;
+    margin: 0 auto;
+}
+
+.product-title {
+    width: 45%;
+}
+
+.price {
+    width: 15%;
+    border-bottom: 4px solid lightgray;
+    display: flex;
+    align-items: center;
+}
+.quantity {
+    width: 15%;
+    border-bottom: 4px solid lightgray;
+    display: flex;
+    align-items: center;
+}
+
+.total {
+    width: 10%;
+    border-bottom: 1px solid lightgray;
+    display: flex;
+    align-items: center;
+}
+
+.product {
+    width: 45%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid lightgray;
+
+}
+
+
+/* footer */
 .novidades strong {
     color:white;
 }
