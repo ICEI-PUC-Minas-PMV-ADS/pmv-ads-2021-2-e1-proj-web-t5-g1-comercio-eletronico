@@ -123,7 +123,7 @@
             <div class="col-auto">
               <p class="pt-2">
                 <strong>Cadastre-se para receber nossas novidades</strong>
-              </p>
+            
             </div>
             <!--Grid column-->
 
@@ -156,7 +156,7 @@
       <!-- Section: Text -->
       <section class="conceito">
         <h3>Seja Slow, Seja Fashion! </h3>
-        <p>Por um mundo mais Sustentável!</p>
+        <p>Por um mundo mais Sustentável
       </section>
       <!-- Section: Text -->
 
@@ -215,7 +215,6 @@
 
 <!--JavaScript-->
 <script  src="produtos.js"></script>
-<script src="script.js"></script>
     
 <script>
  //inserir produtos na pagina
@@ -226,9 +225,11 @@
      ${produtos.dados[i].titulo} <br> 
      ${produtos.dados[i].preco} <br>
 
-     <a key="${produtos.dados[i].id}" href="" class="detalhes"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/detalhes.png" alt="ver detalhes do produto" width="24" height="24"> </a>
+     <a key="${produtos.dados[i].id}" href="#" class="detalhes"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/detalhes.png" alt="ver detalhes do produto" width="24" height="24"> </a>
      
-     <a key="${produtos.dados[i].id}" href="" class="adicionar"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/adicionar-carrinho.png" alt="adicionar ao carrinho" width="24" height="24"> </a> </p>`;
+     <a key="${produtos.dados[i].id}" href="#" class="adicionar"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/adicionar-carrinho.png" alt="adicionar ao carrinho" width="24" height="24"> </a>`;
+
+     
 }
 document.getElementById('ofertas').innerHTML = prods
 
@@ -237,18 +238,20 @@ document.getElementById('ofertas').innerHTML = prods
   
   
   atualizarCarrinho = () => {
-        console.log(produtos);
+      console.log(produtos);
   }
 
   var links = document.getElementsByClassName('adicionar');
     for(var i = 0; i < links.length; i++) {
       links[i].addEventListener('click', function() {
         let key = this.getAttribute('key');
+        produtos.dados[key].titulo++;
+        produtos.dados[key].preco++;
         produtos.dados[key].quantidade++;
         atualizarCarrinho();
         return false;
         })
-      }
+    }
 
 
 
