@@ -41,8 +41,8 @@
          <!--Navbar - icones favoritos, entrar e carrinho-->
         <section id="icones">
 
-          <div id="carrinho">
-            <a href="carrinho.html" target="_self">  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Carrinho.png" alt="carrinho de compras"width="24" height="24"/>  </a>
+          <div id="carrinho" class="cart">
+            <a href="carrinho.html" target="_self">  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Carrinho.png" alt="carrinho de compras"width="24" height="24" > <span>0</span> </a>
           </div>
           <div id="favoritos">
               <a href="tela-login.html" target="_self"><img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/love.png" alt="favoritos" width="24" height="24"/></a> 
@@ -239,11 +239,67 @@ document.getElementById('ofertas').innerHTML = prods
   
 let carts = document.querySelectorAll('.adicionar-produto')
 
+/*let products = [
+  {
+    {   
+        id: 0,
+        titulo: 'Blusa Trees Masculina',
+        preco: 'R$ 89,00',
+        quantidade: 0,
+
+    }, {
+        id: 1,
+        titulo: 'Bolsa de Lona Feminina',
+        preco: 'R$ 129,90',
+        quantidade: 0,
+
+    }, {
+        id: 2,
+        titulo: 'Blusa de Algodão Orgânico',
+        preco: 'R$115,90',
+        quantidade: 0,
+    }, {
+        id: 3,
+        titulo: 'Short Vintage Feminina',
+        preco: 'R$120,00',
+        quantidade: 0,
+    }
+  },
+]*/
+
 for (let i=0; i < carts.length; i++) {
   carts[i].addEventListener('click', () => {
-    console.log('added to cart')
+    cartNumbers();
   })
 }
+
+function onLoadCartNumbers() {
+  let productNumbers = localStorage.getItem('cartNumbers');
+
+  if(productNumbers) {
+    document.querySelector('.cart span').textContent = productNumbers;
+  }
+}
+
+
+function cartNumbers() {
+    let productNumbers = localStorage.getItem('cartNumbers');
+
+    
+
+    productNumbers = parseInt(productNumbers);
+
+    if(productNumbers) {
+       localStorage.setItem('cartNumbers', productNumbers + 1);
+       document.querySelector('.cart span').textContent = productNumbers + 1;
+    } else {
+       localStorage.setItem('cartNumbers', 1);
+       document.querySelector('.cart span').textContent = 1;
+
+    }
+}
+
+onLoadCartNumbers();
 
 
  /* 
