@@ -6,7 +6,7 @@ var produtos = {
         descricao: '',
         imagem: 'https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Oferta.jpg',
         categoria: 'Blusas',
-        preco: 'R$ 89,00',
+        preco: 89,
         tamanhos: ['P', 'M', 'G'],
         quantidade: 0,
 
@@ -16,7 +16,7 @@ var produtos = {
         descricao: '',
         imagem: 'https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Oferta%202.jpg',
         categoria: 'Bolsas',
-        preco: 'R$ 129,90',
+        preco: 129,
         tamanhos: ['P', 'M', 'G'],
         quantidade: 0,
 
@@ -26,7 +26,7 @@ var produtos = {
         imagem: 'https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Oferta%203.jpg',
         descricao: '',
         categoria: 'Bolsas',
-        preco: 'R$115,90',
+        preco: 115,
         tamanhos: ['P', 'M', 'G'],
         quantidade: 0,
     }, {
@@ -35,7 +35,7 @@ var produtos = {
         imagem:'https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Oferta%205.jpg',
         descricao: '',
         categoria: 'Shorts',
-        preco: 'R$120,00',
+        preco: 120,
         tamanhos: ['P', 'M', 'G'],
         quantidade: 0,
     }, {
@@ -44,7 +44,7 @@ var produtos = {
         imagem:'https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Oferta%204.jpg',
         descricao: '',
         categoria: 'Bolsas',
-        preco: 'R$55,40',
+        preco: 55,
         tamanhos: ['P', 'M', 'G'],
         quantidade: 0,
     }, {
@@ -53,7 +53,7 @@ var produtos = {
         imagem:'https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Oferta%206.jpg',
         descricao: '',
         categoria: 'Moleton',
-        preco: 'R$159,90',
+        preco: 159,
         tamanhos: ['P', 'M', 'G'],
         quantidade: 0,
     }
