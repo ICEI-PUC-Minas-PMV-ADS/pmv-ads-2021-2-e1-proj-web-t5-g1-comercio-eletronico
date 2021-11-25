@@ -214,7 +214,8 @@
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.js"></script>
 
 <!--JavaScript-->
-<script  src="produtos.js"></script>
+<script src="produtos.js"></script>
+
     
 <script>
  //inserir produtos na pagina
@@ -227,16 +228,25 @@
 
      <a key="${produtos.dados[i].id}" href="#" class="detalhes"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/detalhes.png" alt="ver detalhes do produto" width="24" height="24"> </a>
      
-     <a key="${produtos.dados[i].id}" href="#" class="adicionar"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/adicionar-carrinho.png" alt="adicionar ao carrinho" width="24" height="24"> </a>`;
+     <a key="${produtos.dados[i].id}" href="#" class="adicionar-produto"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/adicionar-carrinho.png" alt="adicionar ao carrinho" width="24" height="24"> </a>`;
 
      
 }
 document.getElementById('ofertas').innerHTML = prods
 
 
-  /*atualizar carrinho*/
+  //atualizar carrinho
   
-  
+let carts = document.querySelectorAll('.adicionar-produto')
+
+for (let i=0; i < carts.length; i++) {
+  carts[i].addEventListener('click', () => {
+    console.log('added to cart')
+  })
+}
+
+
+ /* 
   atualizarCarrinho = () => {
       console.log(produtos);
   }
@@ -245,13 +255,11 @@ document.getElementById('ofertas').innerHTML = prods
     for(var i = 0; i < links.length; i++) {
       links[i].addEventListener('click', function() {
         let key = this.getAttribute('key');
-        produtos.dados[key].titulo++;
-        produtos.dados[key].preco++;
         produtos.dados[key].quantidade++;
         atualizarCarrinho();
         return false;
         })
-    }
+    }*/
 
 
 

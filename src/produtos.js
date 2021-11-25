@@ -1,7 +1,7 @@
 var produtos = {
   dados: [
     {   
-        id: 1,
+        id: 0,
         titulo: 'Blusa Trees Masculina',
         descricao: '',
         imagem: 'https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Oferta.jpg',
@@ -11,7 +11,7 @@ var produtos = {
         quantidade: 0,
 
     }, {
-        id: 2,
+        id: 1,
         titulo: 'Bolsa de Lona Feminina',
         descricao: '',
         imagem: 'https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Oferta%202.jpg',
@@ -21,7 +21,7 @@ var produtos = {
         quantidade: 0,
 
     }, {
-        id: 3,
+        id: 2,
         titulo: 'Blusa de Algodão Orgânico',
         imagem: 'https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Oferta%203.jpg',
         descricao: '',
@@ -30,7 +30,7 @@ var produtos = {
         tamanhos: ['P', 'M', 'G'],
         quantidade: 0,
     }, {
-        id: 4,
+        id: 3,
         titulo: 'Short Vintage Feminina',
         imagem:'https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Oferta%205.jpg',
         descricao: '',
@@ -39,7 +39,7 @@ var produtos = {
         tamanhos: ['P', 'M', 'G'],
         quantidade: 0,
     }, {
-        id: 5,
+        id: 4,
         titulo: 'Bolsa Pinturas de Obras',
         imagem:'https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Oferta%204.jpg',
         descricao: '',
@@ -48,7 +48,7 @@ var produtos = {
         tamanhos: ['P', 'M', 'G'],
         quantidade: 0,
     }, {
-        id: 6,
+        id: 5,
         titulo: 'Moleton Harry Potter',
         imagem:'https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Oferta%206.jpg',
         descricao: '',
@@ -61,7 +61,6 @@ var produtos = {
 }
 
 // Carrinho 
-
 
 
 
