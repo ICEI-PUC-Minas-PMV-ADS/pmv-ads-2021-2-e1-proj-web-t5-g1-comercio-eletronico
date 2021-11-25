@@ -78,7 +78,7 @@ ConfirmSenha.addEventListener('keyup', ()=>{
     }
 })
 
-// Validação do botão 'Cadastra-se'
+// Validação do botão 'Cadastre-se'
 
 document.querySelector('#botaocad').addEventListener('click',cadastrar)
 
