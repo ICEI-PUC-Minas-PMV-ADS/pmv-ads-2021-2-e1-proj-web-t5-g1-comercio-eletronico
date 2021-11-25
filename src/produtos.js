@@ -61,45 +61,6 @@ var produtos = {
 }
 
 
-// carrinho
-var carrinho = {
-    produto: [
-    {   
-        id: 1,
-        titulo:[],
-        preco: [],
-        quantidade:[],
-    },
-    {   
-        id: 2,
-        titulo:[],
-        preco: [],
-        quantidade:[],
-    },
-    {   
-        id: 3,
-        titulo:[],
-        preco: [],
-        quantidade:[],
-  },
-  {
-        id: 4,
-        titulo:[],
-        preco: [],
-        quantidade:[],
-  },
-  {     
-        id: 5,
-        titulo:[],
-        preco: [],
-        quantidade:[],
-},
-  ],
-}
-
-
-
-
 
 
 // Botão 'Sair'
