@@ -239,37 +239,14 @@ document.getElementById('ofertas').innerHTML = prods
   
 let carts = document.querySelectorAll('.adicionar-produto')
 
-/*let products = [
-  {
-    {   
-        id: 0,
-        titulo: 'Blusa Trees Masculina',
-        preco: 'R$ 89,00',
-        quantidade: 0,
 
-    }, {
-        id: 1,
-        titulo: 'Bolsa de Lona Feminina',
-        preco: 'R$ 129,90',
-        quantidade: 0,
 
-    }, {
-        id: 2,
-        titulo: 'Blusa de Algodão Orgânico',
-        preco: 'R$115,90',
-        quantidade: 0,
-    }, {
-        id: 3,
-        titulo: 'Short Vintage Feminina',
-        preco: 'R$120,00',
-        quantidade: 0,
-    }
-  },
-]*/
+//let products = ''
+
 
 for (let i=0; i < carts.length; i++) {
   carts[i].addEventListener('click', () => {
-    cartNumbers();
+    cartNumbers(produtos.dados[i]);
   })
 }
 
@@ -282,10 +259,9 @@ function onLoadCartNumbers() {
 }
 
 
-function cartNumbers() {
-    let productNumbers = localStorage.getItem('cartNumbers');
-
+function cartNumbers(produtos) {
     
+    let productNumbers = localStorage.getItem('cartNumbers');
 
     productNumbers = parseInt(productNumbers);
 
@@ -297,25 +273,38 @@ function cartNumbers() {
        document.querySelector('.cart span').textContent = 1;
 
     }
+
+    setItems(produtos);
+}
+
+function setItems(produtos) {
+  let cartItems = localStorage.getItem("productsInCart");
+  cartItems = JSON.parse(cartItems);
+  console.log("My cartItems are", cartItems);
+
+  if(cartItems != null) {
+
+    if(cartItems[produtos.titulo] == undefined) {
+        cartItems = {
+          ...cartItems,
+          [produtos.titulo]: produtos
+        }
+    }
+    cartItems[produtos.titulo].quantidade += 1;
+  } else {
+    produtos.quantidade = 1;
+    cartItems = {
+        [produtos.titulo]: produtos
+    }
+  }
+ 
+  
+  localStorage.setItem("productsInCart", JSON.stringify 
+  (cartItems));
 }
 
 onLoadCartNumbers();
 
-
- /* 
-  atualizarCarrinho = () => {
-      console.log(produtos);
-  }
-
-  var links = document.getElementsByClassName('adicionar');
-    for(var i = 0; i < links.length; i++) {
-      links[i].addEventListener('click', function() {
-        let key = this.getAttribute('key');
-        produtos.dados[key].quantidade++;
-        atualizarCarrinho();
-        return false;
-        })
-    }*/
 
 
 
