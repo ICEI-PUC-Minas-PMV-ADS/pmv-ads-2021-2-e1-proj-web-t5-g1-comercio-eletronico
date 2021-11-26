@@ -1,17 +1,4 @@
-   //INSERIR PRODUTOS NA PAGINA INDEX-JSON.HTML
 
-   var prods = '';
-   for (i=0; i < produtos.dados.length; i++) {
-       prods += `<p class= "produto-item">
-       <img src="${produtos.dados[i].imagem}" alt="${produtos.dados[i].titulo}" class="foto">  <br> 
-       ${produtos.dados[i].titulo} <br> 
-       R$${produtos.dados[i].preco},00 <br>
-   
-       <a key="${produtos.dados[i].id}" href="#" class="detalhes"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/detalhes.png" alt="ver detalhes do produto" width="24" height="24"> </a>
-       
-       <a key="${produtos.dados[i].id}" href="#" class="adicionar-produto"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/adicionar-carrinho.png" alt="adicionar ao carrinho" width="24" height="24"> </a>`;   
-   }
-   document.getElementById('ofertas').innerHTML = prods
    
   //ATUALIZAR CARRINHO NA PAGINA INDEX-JSON.HTML
  
@@ -91,33 +78,38 @@
 function displayCart() {
   let cartItems = localStorage.getItem("productsInCart");
   cartItems = JSON.parse(cartItems);
-  let productContainer = document.querySelector(".products-container");
-
+  let productContainer = document.querySelector(".products");
 
   console.log(cartItems);
   if ( cartItems && productContainer ) {
     productContainer.innerHTML = '';
     Object.values(cartItems).map(produtos => {
-        productContainer.innerHTML += 
-        `
-        <div class="product">
-          <img src="./images/${produtos.titulo}.jpg">  
-          <span>${produtos.titulo}</span>
-         
+        productContainer.innerHTML +=`<div class="product">
+        <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/close.png" alt="botao close"  width="24" height="24" class="btn-close">
+        <img src="${produtos.imagem}" alt="${produtos.titulo}" width="160" height="160">  
+       <span> ${produtos.titulo} </span>
+       <div class="price">  R$${produtos.preco},00 </div>
+       <div class="quantity"> 
+       
+       </div>
+        
         </div>
-        `
+        `;
     });
-    
-            mmnm,nmn,mn,mn,mn,mn            
   }
-
 }
 
  onLoadCartNumbers();
  displayCart();
  
  
- /*  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/close.png" alt="botao close"  width="24" height="24"> */
+ /*  
+
+ R$${produtos.preco},00
+ 
+ 
+ */
   
  
+
  
