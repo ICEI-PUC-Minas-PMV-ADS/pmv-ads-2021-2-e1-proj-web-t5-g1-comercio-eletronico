@@ -207,67 +207,87 @@ main h1 {
 
 
 /*CONTEUDO PAGINA FINALIZACAO-COMPRA.HTML*/
-.products-container {
-    display:flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    padding-bottom: 100px;
-    max-width: 650px;
-    justify-content: space-around;
-    margin: 0 auto;
-    margin-top: 50px;
+
+.finaliza-compra{
+    font-size: 35px;
+    color:#20B2AA;
+    text-align: center;
+    padding: 4% 0% 1.5% 0%;
 }
 
-.btn-close {
-    font-size: 25px;
-    color: blue;
-    margin-left: 10px;
-    margin-right: 10px;
-    cursor: pointer;
+.products-container {
+    align-items: center;
+    
 }
 
 .product-header {
     width: 100%;
-    max-width: 650px;
+    max-width: 90%;
     display: flex;
     justify-content: flex-start;
-    border-bottom: 4px solid lightgray;
-    margin: 0 auto;
+    border-bottom: 4px solid #20B2AA;
 }
 
 .product-title {
-    width: 45%;
+   
 }
 
 .price {
-    width: 15%;
-    border-bottom: 4px solid lightgray;
+    display: inline-block;
+    border-bottom: 3px solid #20B2AA;
     display: flex;
     align-items: center;
+    
 }
 .quantity {
-    width: 15%;
-    border-bottom: 4px solid lightgray;
+    display: inline;
+    width: 50%;
+    border-bottom: 1px solid #20B2AA;
     display: flex;
     align-items: center;
 }
 
 .total {
-    width: 10%;
-    border-bottom: 1px solid lightgray;
+    display:inline;
+    width: 0%;
+    border-bottom: 4px solid lightgray;
     display: flex;
     align-items: center;
 }
 
-.product {
-    width: 45%;
-    display: flex;
+.products {
+    display: inline-block;
+    width: 80%;
+    display: inline-block;
     justify-content: space-around;
     align-items: center;
-    padding: 10px 0;
-    border-bottom: 1px solid lightgray;
-
+    border-bottom: 4px solid #20B2AA;
+    margin: 60px;
 }
+
+.foto-produto {
+    display: inline-block;
+    
+}
+
+.basketTotalContainer {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    padding: 10px 0;
+    margin-top: 5%
+}
+
+.basketTotalTitle {
+    text-align: center;
+    width: 10%;
+}
+
+.basketTotal {
+    margin-top: 5%;
+    width: 5%;
+}
+
 
 
 /* footer */
