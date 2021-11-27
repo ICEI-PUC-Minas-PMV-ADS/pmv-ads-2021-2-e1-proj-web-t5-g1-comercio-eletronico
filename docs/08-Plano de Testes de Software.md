@@ -15,7 +15,7 @@
 |**Requisitos associados**|RF08 - O site deve permitir que os consumidores realizem o seu cadastro de usuário no site com os seguintes campos: nome, gênero, endereço e data de aniversário|
 |**Objetivo do teste**| Validar a criação de um usuário no site|
 |**Passos**|<ol><li>Acessar o navegador</li><li>Acessar a URL do site</li><li>Acessar a tela de cadastro e login</li><li>Preencher os campos obrigatórios</li><li>Clicar no botão Cadastra-se</li></ol>|
-|**Critérios de êxito**|<ul><li>O preenchimento dos campos obrigatórios deve ser validado</li><li>Caso algum campo obrigatório não seja preenchido ou seja preenchido de forma incorreta, o site deve apresentar uma mensagem de erro na tela</li><li>Após o correto preenchimento dos campos e o envio do formulário pelo uusário, o site deve apresentar uma mensagem de sucesso na tela</li><li>Quando o envio do formulário de cadastro for feito com sucesso, o usuário deve ser registrado no localStorage do navegador na key 'listaUser'</li></ul>
+|**Critérios de êxito**|<ul><li>O preenchimento dos campos obrigatórios deve ser validado</li><li>Caso algum campo obrigatório não seja preenchido ou seja preenchido de forma incorreta, o site deve apresentar uma mensagem de erro na tela quando o formulário for enviado</li><li>Após o correto preenchimento dos campos e o envio do formulário pelo usuário, o site deve apresentar uma mensagem de sucesso na tela</li><li>Quando o envio do formulário de cadastro for feito com sucesso, o usuário deve ser registrado no localStorage do navegador na key 'listaUser'</li></ul>
 
 </br>
 
