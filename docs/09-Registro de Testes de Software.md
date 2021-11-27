@@ -29,6 +29,8 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 </p>
 <p align="center">Figura 26 - Evidência de teste 2 - Tela de cadastro</p>
 
+</br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%203..png?raw=true" alt="Evidência de teste 3 - Tela de cadastro">
 </p>
@@ -72,6 +74,8 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 </p>
 <p align="center">Figura 31 - Evidência de teste 2 - Tela de login</p>
 
+</br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%208.png?raw=true" alt="Evidência de teste 3 - Tela de login">
 </p>
@@ -103,6 +107,8 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
   <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%2011..png?raw=true" alt="Evidência de teste 6 - Tela de login">
 </p>
 <p align="center">Figura 35 - Evidência de teste 6 - Tela de login</p>
+
+</br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%2012.png?raw=true" alt="Evidência de teste 7 - Tela de login">
