@@ -11,13 +11,20 @@
 ## 8.1 Tela de cadastro e login
 
 |**Caso de teste**|**CT01 - Efetuar o cadastro de um usuário na seção de cadastro**|
-|:----------------:|--------------------|
-|**Requisitos associados**|RF08 - O site deve permitir que os consumidores realizem o seu cadastro de usuário no site com os seguintes campos: nome, gênero, endereço e data de aniversário.|
-|**Objetivo do teste**| Validar a criação de um usuário no site
+|:---------------:|----------------------------------------------------------------|
+|**Requisitos associados**|RF08 - O site deve permitir que os consumidores realizem o seu cadastro de usuário no site com os seguintes campos: nome, gênero, endereço e data de aniversário|
+|**Objetivo do teste**| Validar a criação de um usuário no site|
 |**Passos**|<ol><li>Acessar o navegador</li><li>Acessar a URL do site</li><li>Acessar a tela de cadastro e login</li><li>Preencher os campos obrigatórios</li><li>Clicar no botão Cadastra-se</li></ol>|
-|**Critérios de êxito**|O preenchimento dos campos obrigatórios deve ser validado</br></br>Caso algum campo obrigatório não seja preenchido ou seja preenchido de forma incorreta, o site deve apresentar uma mensagem de erro na tela</br></br>Após o correto preenchimento dos campos e o envio do formulário pelo uusário, o site deve apresentar uma mensagem de sucesso na tela</br></br>Quando o envio do formulário de cadastro for feito com sucesso, o usuário deve ser registrado no localStorage do navegador na key 'listaUser'
+|**Critérios de êxito**|<ul><li>O preenchimento dos campos obrigatórios deve ser validado</li></br><li>Caso algum campo obrigatório não seja preenchido ou seja preenchido de forma incorreta, o site deve apresentar uma mensagem de erro na tela</li></br><li>Após o correto preenchimento dos campos e o envio do formulário pelo uusário, o site deve apresentar uma mensagem de sucesso na tela</li></br><li>Quando o envio do formulário de cadastro for feito com sucesso, o usuário deve ser registrado no localStorage do navegador na key 'listaUser'</li></ul>
 
+</br>
 
+|**Caso de teste**|**CT02 - Efetuar o login de um usuário na seção de login**|
+|:---------------:|----------------------------------------------------------|
+|**Requisitos associados**|RF09 - O site deverá permitir ao usuário (empreendedor e consumidor) realizar o login com nome de usuário ou e-mail e senha|
+|**Objetivo do teste**| Validar o login de um usuário previamente cadastrado no site|
+|**Passos**|<ol><li>Acessar o navegador</li><li>Acessar a URL do site</li><li>Acessar a tela de cadastro e login</li><li>Informar os dados de um usuário previamente cadastrado</li><li>Clicar no botão Entrar</li></ol>|
+|**Critérios de êxito**|<ul><li>Caso o usuário ou a senha informados sejam inválidos, o site deve apresentar uma mensagem de erro na tela</li></br><li>Caso o usuário e a senha informados sejam válidos, o site deve direcionar o usuário para a tela homepage do site</li></br><li>Quando o login for feito com sucesso, deve ser gerado um registro localStorage do navegador na key 'userLogado'</li></ul><li>Quando o login for feito com sucesso, deve ser gerado um token para a sessão de login no localStorage do navegador na key 'token'</li></ul>
 
 
 
