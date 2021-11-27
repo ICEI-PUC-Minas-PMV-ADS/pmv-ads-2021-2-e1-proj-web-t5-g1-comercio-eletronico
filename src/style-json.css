@@ -241,7 +241,7 @@ main h1 {
 }
 .quantity {
     display: inline;
-    width: 50%;
+    width: 15%;
     border-bottom: 1px solid #20B2AA;
     display: flex;
     align-items: center;
@@ -250,19 +250,19 @@ main h1 {
 .total {
     display:inline;
     width: 0%;
-    border-bottom: 4px solid lightgray;
     display: flex;
     align-items: center;
 }
 
 .products {
     display: inline-block;
-    width: 80%;
+    width: 90%;
     display: inline-block;
     justify-content: space-around;
     align-items: center;
     border-bottom: 4px solid #20B2AA;
     margin: 60px;
+
 }
 
 .foto-produto {
@@ -275,17 +275,22 @@ main h1 {
     justify-content: flex-end;
     width: 100%;
     padding: 10px 0;
-    margin-top: 5%
+    margin-top: 5%;
+    border-top: 4px solid #20B2AA;
+    background-color:#99f7f8;
 }
 
 .basketTotalTitle {
+    font-size: 20px;
     text-align: center;
     width: 10%;
 }
 
 .basketTotal {
-    margin-top: 5%;
+    font-size: 20px;
     width: 5%;
+    
+    
 }
 
 
