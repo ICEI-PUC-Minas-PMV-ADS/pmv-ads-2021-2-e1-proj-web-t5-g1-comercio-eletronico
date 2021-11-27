@@ -39,5 +39,15 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 </p>
 <p align="center">Figura 28 - Evidência de teste 4 - Tela de cadastro</p>
 
+**Critério de êxito:** Quando o envio do formulário de cadastro for feito com sucesso, o usuário deve ser registrado no localStorage do navegador na key 'listaUser'
+
+<p align="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/EVT%205.png?raw=true?raw=true" alt="Evidência de teste 5 - Tela de cadastro">
+</p>
+<p align="center">Figura 29 - Evidência de teste 5 - Tela de cadastro</p>
+
+
+
+
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
