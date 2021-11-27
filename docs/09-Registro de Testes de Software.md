@@ -92,7 +92,7 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 
 </br>
 
-**Critério de êxito:** Quando o login for feito com sucesso, deve ser gerado um token atrelado à sessão de login no localStorage do navegador na key 'token'
+**Critério de êxito:** Quando o login for feito com sucesso, deve ser gerado um identificador único atrelado à sessão de login no localStorage do navegador na key 'token'
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%2010.png?raw=true" alt="Evidência de teste 5 - Tela de login">
