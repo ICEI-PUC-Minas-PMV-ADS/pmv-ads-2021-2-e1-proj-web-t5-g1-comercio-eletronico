@@ -1,12 +1,38 @@
-# Registro de Testes de Software
+# 9. Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
+<p align="justify">Os requisitos necessários para a documentação dos cenários de testes são:</p>
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
+- Site publicado na plataforma Heroku
+- Navegador de internet
+- Definição dos casos de testes a serem executados
+- Execução dos cenários propostos
 
-## Avaliação
+Os registros de testes realizados no site são evidenciados a seguir, agrupados por telas.
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+## 9.1 Tela de cadastro e login
+
+### 9.1.1 CT01 - Efetuar o cadastro de um usuário na seção de cadastro
+
+**Critério de êxito:** O preenchimento dos campos obrigatórios deve ser validado
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%201.png?raw=true" alt="Evidência de teste 1 - Tela de cadastro">
+</p>
+<p align="center">Figura 25 - Evidência de teste 1 - Tela de cadastro</p>
+
+**Critério de êxito:** Caso algum campo obrigatório não seja preenchido ou seja preenchido de forma incorreta, o site deve apresentar uma mensagem de erro na tela quando o formulário for enviado
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%202.png?raw=true" alt="Evidência de teste 2 - Tela de cadastro">
+</p>
+<p align="center">Figura 26 - Evidência de teste 2 - Tela de cadastro</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%203.png?raw=true" alt="Evidência de teste 3 - Tela de cadastro">
+</p>
+<p align="center">Figura 27 - Evidência de teste 3 - Tela de cadastro</p>
+
+
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
