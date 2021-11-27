@@ -11,14 +11,11 @@
 ## 8.1 Tela de cadastro e login
 
 |**Caso de teste**|**CT01 - Efetuar o cadastro de um usuário na seção de cadastro**|
-|:----------------|:--------------------|
-|**Requisitos associados**|
-|:----------------|:--------------------|
-|**Objetivo do teste**|
-|:----------------|:--------------------|
-|**Passos**|
-|:----------------|:--------------------|
-|**Critérios de êxito**|
+|:----------------:|--------------------|
+|**Requisitos associados**|RF08 - O site deve permitir que os consumidores realizem o seu cadastro de usuário no site com os seguintes campos: nome, gênero, endereço e data de aniversário.|
+|**Objetivo do teste**| Validar a criação de um usuário no site
+|**Passos**|<ol><li>Acessar o navegador</li><li>Acessar a URL do site</li><li>Acessar a tela de cadastro e login</li><li>Preencher os campos obrigatórios</li><li>Clicar no botão Cadastra-se</li></ol>|
+|**Critérios de êxito**|O preenchimento dos campos obrigatórios deve ser validado</br></br>Caso algum campo obrigatório não seja preenchido ou seja preenchido de forma incorreta, o site deve apresentar uma mensagem de erro na tela</br></br>Após o correto preenchimento dos campos e o envio do formulário pelo uusário, o site deve apresentar uma mensagem de sucesso na tela</br></br>Quando o envio do formulário de cadastro for feito com sucesso, o usuário deve ser registrado no localStorage do navegador na key 'listaUser'
 
 
 
