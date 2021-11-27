@@ -28,11 +28,16 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 <p align="center">Figura 26 - Evidência de teste 2 - Tela de cadastro</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%203.png?raw=true" alt="Evidência de teste 3 - Tela de cadastro">
+  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%203..png?raw=true" alt="Evidência de teste 3 - Tela de cadastro">
 </p>
 <p align="center">Figura 27 - Evidência de teste 3 - Tela de cadastro</p>
 
+**Critério de êxito:** Após o correto preenchimento dos campos e o envio do formulário pelo usuário, o site deve apresentar uma mensagem de sucesso na tela
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%204.png?raw=true" alt="Evidência de teste 4 - Tela de cadastro">
+</p>
+<p align="center">Figura 28 - Evidência de teste 4 - Tela de cadastro</p>
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
