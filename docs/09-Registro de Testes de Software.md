@@ -67,7 +67,7 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 
 </br>
 
-**Critério de êxito:** Caso o usuário e a senha informados sejam válidos, o site deve direcionar o usuário para a tela homepage do site
+**Critério de êxito:** Caso o usuário e a senha informados sejam válidos, o usuário deve ser direcionado para a tela homepage do site
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%207.png?raw=true" alt="Evidência de teste 2 - Tela de login">
