@@ -9,7 +9,21 @@
 <p align="justify">Os testes funcionais a serem realizados no site são descritos a seguir, agrupados por telas.</p>
 
 ## 8.1 Tela de cadastro e login
- 
+
+|**Caso de teste**|**CT01 - Efetuar o cadastro de um usuário na seção de cadastro**|
+|:----------------|:--------------------|
+|**Requisitos associados**|
+|:----------------|:--------------------|
+|**Objetivo do teste**|
+|:----------------|:--------------------|
+|**Passos**|
+|:----------------|:--------------------|
+|**Critérios de êxito**|
+
+
+
+
+
 ## Ferramentas de Testes (Opcional)
 
 Comente sobre as ferramentas de testes utilizadas.
