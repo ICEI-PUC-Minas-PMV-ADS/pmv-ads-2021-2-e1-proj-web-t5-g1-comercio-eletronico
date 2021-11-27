@@ -1,10 +1,14 @@
-# Plano de Testes de Software
+# 8. Plano de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+<p align="justify">Os requisitos necessárias para realização e documentação do cenários de testes são:</p>
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+- Site publicado na plataforma Heroku
+- Navegador de internet
+- Definição dos casos de testes a serem executados
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
+<p align="justify">Os testes funcionais a serem realizados no site são descritos a seguir, agrupados por telas.</p>
+
+## 8.1 Tela de cadastro e login
  
 ## Ferramentas de Testes (Opcional)
 
