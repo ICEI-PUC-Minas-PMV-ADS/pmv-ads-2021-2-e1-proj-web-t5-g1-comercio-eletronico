@@ -1,6 +1,6 @@
 # 8. Plano de Testes de Software
 
-<p align="justify">Os requisitos necessárias para realização e documentação do cenários de testes são:</p>
+<p align="justify">Os requisitos necessários para a realização dos cenários de testes são:</p>
 
 - Site publicado na plataforma Heroku
 - Navegador de internet
@@ -15,7 +15,7 @@
 |**Requisitos associados**|RF08 - O site deve permitir que os consumidores realizem o seu cadastro de usuário no site com os seguintes campos: nome, gênero, endereço e data de aniversário|
 |**Objetivo do teste**| Validar a criação de um usuário no site|
 |**Passos**|<ol><li>Acessar o navegador</li><li>Acessar a URL do site</li><li>Acessar a tela de cadastro e login</li><li>Preencher os campos obrigatórios</li><li>Clicar no botão Cadastra-se</li></ol>|
-|**Critérios de êxito**|<ul><li>O preenchimento dos campos obrigatórios deve ser validado</li></br><li>Caso algum campo obrigatório não seja preenchido ou seja preenchido de forma incorreta, o site deve apresentar uma mensagem de erro na tela</li></br><li>Após o correto preenchimento dos campos e o envio do formulário pelo uusário, o site deve apresentar uma mensagem de sucesso na tela</li></br><li>Quando o envio do formulário de cadastro for feito com sucesso, o usuário deve ser registrado no localStorage do navegador na key 'listaUser'</li></ul>
+|**Critérios de êxito**|<ul><li>O preenchimento dos campos obrigatórios deve ser validado</li><li>Caso algum campo obrigatório não seja preenchido ou seja preenchido de forma incorreta, o site deve apresentar uma mensagem de erro na tela</li><li>Após o correto preenchimento dos campos e o envio do formulário pelo uusário, o site deve apresentar uma mensagem de sucesso na tela</li><li>Quando o envio do formulário de cadastro for feito com sucesso, o usuário deve ser registrado no localStorage do navegador na key 'listaUser'</li></ul>
 
 </br>
 
@@ -24,7 +24,7 @@
 |**Requisitos associados**|RF09 - O site deverá permitir ao usuário (empreendedor e consumidor) realizar o login com nome de usuário ou e-mail e senha|
 |**Objetivo do teste**| Validar o login de um usuário previamente cadastrado no site|
 |**Passos**|<ol><li>Acessar o navegador</li><li>Acessar a URL do site</li><li>Acessar a tela de cadastro e login</li><li>Informar os dados de um usuário previamente cadastrado</li><li>Clicar no botão Entrar</li></ol>|
-|**Critérios de êxito**|<ul><li>Caso o usuário ou a senha informados sejam inválidos, o site deve apresentar uma mensagem de erro na tela</li></br><li>Caso o usuário e a senha informados sejam válidos, o site deve direcionar o usuário para a tela homepage do site</li></br><li>Quando o login for feito com sucesso, deve ser gerado um registro localStorage do navegador na key 'userLogado'</li></ul><li>Quando o login for feito com sucesso, deve ser gerado um token para a sessão de login no localStorage do navegador na key 'token'</li></ul>
+|**Critérios de êxito**|<ul><li>Caso o usuário ou a senha informados sejam inválidos, o site deve apresentar uma mensagem de erro na tela</li><li>Caso o usuário e a senha informados sejam válidos, o site deve direcionar o usuário para a tela homepage do site</li><li>Quando o login for feito com sucesso, deve ser gerado um registro no localStorage do navegador na key 'userLogado'</li><li>Quando o login for feito com sucesso, deve ser gerado um token atrelado à sessão de login no localStorage do navegador na key 'token'</li><li>Quando o login for feito com sucesso, o nome do usuário deve ser exibido no canto superior direito da tela homepage no formato: Olá, + 'nome do usuário logado'</li></ul>
 
 
 
