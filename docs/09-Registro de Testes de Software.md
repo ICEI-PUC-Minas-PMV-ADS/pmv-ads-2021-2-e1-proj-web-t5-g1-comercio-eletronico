@@ -79,5 +79,40 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 
 </br>
 
+**Critério de êxito:** Quando o login for feito com sucesso, deve ser gerado um registro no localStorage do navegador na key 'userLogado'
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%209.png?raw=true" alt="Evidência de teste 4 - Tela de login">
+</p>
+<p align="center">Figura 33 - Evidência de teste 4 - Tela de login</p>
+
+</br>
+
+**Critério de êxito:** Quando o login for feito com sucesso, deve ser gerado um token atrelado à sessão de login no localStorage do navegador na key 'token'
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%2010.png?raw=true" alt="Evidência de teste 5 - Tela de login">
+</p>
+<p align="center">Figura 34 - Evidência de teste 5 - Tela de login</p>
+
+</br>
+
+**Critério de êxito:** Quando o login for feito com sucesso, o nome do usuário deve ser exibido no canto superior direito da tela homepage no formato: Olá, + 'nome do usuário logado'
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%2011..png?raw=true" alt="Evidência de teste 6 - Tela de login">
+</p>
+<p align="center">Figura 35 - Evidência de teste 6 - Tela de login</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%2012.png?raw=true" alt="Evidência de teste 7 - Tela de login">
+</p>
+<p align="center">Figura 36 - Evidência de teste 7 - Tela de login</p>
+
+</br>
+
+
+
+
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
