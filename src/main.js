@@ -74,7 +74,8 @@
  }
 
 
- // pagina finalizacao da compra
+ // Pagina finalizacao da compra
+
 function displayCart() {
   let cartItems = localStorage.getItem("productsInCart");
   cartItems = JSON.parse(cartItems);
@@ -82,9 +83,11 @@ function displayCart() {
   let cartCost = localStorage.getItem('totalCost');
 
   console.log(cartItems);
+
   if ( cartItems && productContainer ) {
     productContainer.innerHTML = '';
     Object.values(cartItems).map(produtos => {
+      
         productContainer.innerHTML +=`
         <div class="product">
             <img src="${produtos.imagem}" alt="${produtos.titulo}" width="160" height="160" class="foto-produto"> <br> 
@@ -118,16 +121,4 @@ function displayCart() {
  onLoadCartNumbers();
  displayCart();
  
- 
- /*  
-
-
-
-
-
- 
- */
-  
- 
-
  
