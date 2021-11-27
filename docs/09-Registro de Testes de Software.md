@@ -20,6 +20,8 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 </p>
 <p align="center">Figura 25 - Evidência de teste 1 - Tela de cadastro</p>
 
+</br>
+
 **Critério de êxito:** Caso algum campo obrigatório não seja preenchido ou seja preenchido de forma incorreta, o site deve apresentar uma mensagem de erro na tela quando o formulário for enviado
 
 <p align="center">
@@ -32,12 +34,16 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 </p>
 <p align="center">Figura 27 - Evidência de teste 3 - Tela de cadastro</p>
 
+</br>
+
 **Critério de êxito:** Após o correto preenchimento dos campos e o envio do formulário pelo usuário, o site deve apresentar uma mensagem de sucesso na tela
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%204.png?raw=true" alt="Evidência de teste 4 - Tela de cadastro">
 </p>
 <p align="center">Figura 28 - Evidência de teste 4 - Tela de cadastro</p>
+
+</br>
 
 **Critério de êxito:** Quando o envio do formulário de cadastro for feito com sucesso, o usuário deve ser registrado no localStorage do navegador na key 'listaUser'
 
@@ -46,8 +52,32 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 </p>
 <p align="center">Figura 29 - Evidência de teste 5 - Tela de cadastro</p>
 
+</br>
 
+### 9.1.2 CT02 - Efetuar o login de um usuário na seção de login
 
+**Critério de êxito:** Caso o usuário ou a senha informados sejam inválidos, o site deve apresentar uma mensagem de erro na tela
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%206.png?raw=true" alt="Evidência de teste 1 - Tela de login">
+</p>
+<p align="center">Figura 30 - Evidência de teste 1 - Tela de login</p>
+
+</br>
+
+**Critério de êxito:** Caso o usuário e a senha informados sejam válidos, o site deve direcionar o usuário para a tela homepage do site
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%207.png?raw=true" alt="Evidência de teste 2 - Tela de login">
+</p>
+<p align="center">Figura 31 - Evidência de teste 2 - Tela de login</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%208.png?raw=true" alt="Evidência de teste 3 - Tela de login">
+</p>
+<p align="center">Figura 32 - Evidência de teste 3 - Tela de login</p>
+
+</br>
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
