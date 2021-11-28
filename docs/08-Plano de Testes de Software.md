@@ -41,8 +41,8 @@
 |**Requisitos associados**|RF12- O site deve permitir que o consumidor adicione produtos ao carrinho de compras |
 |**Objetivo do teste**| Verificar se os produtos adicionados na tela de ofertas estão sendo adicionados corretamente no carrinho.
 Exibir a quantidade total de produtos na tela de ofertas, próxima ao ícone carrinho. |
-|**Passos**|<ol><li> Acessar o Navegador</li><li> Acessar a URL do site <</li><li>ADD CONTEUDO DE TERCEIRO PASSO<</li> </ol>|
-|**Critérios de êxito**|<ul> <li>  Os produtos devem ser exibidos corretamente e de forma dinâmica no site utilizando JSON para criação da lista de produtos exibidos. Sendo necessários pelo menos 6 produtos sendo apresentados.</li> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO SEGUNDO PARAGRAFO </li> <li>ADD CONTEUDO TERCEIRO PARAGRAFO</li></ul>
+|**Passos**|<ol> <li> Acessar o Navegador</li> <li>Acessar a URL do site</li> <li>Visualizar a página principal</li> <li>Clicar no ícone carrinho abaixo do produto desejado para adicionar o produto e a quantidade do produto desejada ao carrinho</li> </ol>|
+|**Critérios de êxito**|<ul> <li>Os produtos devem ser exibidos corretamente e de forma dinâmica no site utilizando JSON para criação da lista de produtos exibidos. Sendo necessários pelo menos 6 produtos sendo apresentados.</li> <li>Cada produto deve conter abaixo de sua imagem o ícone “carrinho”.</li> <li>Cada click efetuado no ícone “carrinho” de cada produto, corresponderá a uma unidade do produto sendo adicionada ao carrinho.</li> <li>O ícone “carrinho” no cabeçalho da página exibirá  a quantidade  total de produtos que foi adicionada ao carrinho de compras pelo usuário.</li> </ul>
 
 ## 8.4 Tela de finalização da compra
 
