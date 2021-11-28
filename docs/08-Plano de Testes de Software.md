@@ -2,7 +2,7 @@
 
 <p align="justify">Os requisitos necessários para a realização dos cenários de testes são:</p>
 
-- Site publicado na plataforma Heroku
+- Site publicado na plataforma GitHub Pages
 - Navegador de internet
 - Definição dos casos de testes a serem executados
 
