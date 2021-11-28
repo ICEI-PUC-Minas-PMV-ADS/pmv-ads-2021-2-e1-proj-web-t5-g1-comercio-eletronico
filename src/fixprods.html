@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
-    <title>Moda Green</title>
+    <title>Moda Green - Shopping Cart</title>
     <!--CSS-->
     <link rel="stylesheet" href="style-json.css"/>
     <!-- MDB -->
@@ -42,7 +42,7 @@
         <section id="icones">
 
           <div id="carrinho" class="cart">
-            <a href="finalizacao-compra.html" target="_self">  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Carrinho.png" alt="carrinho de compras"width="24" height="24" > <span>0</span> </a>
+            <a href="carrinho.html" target="_self">  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Carrinho.png" alt="carrinho de compras"width="24" height="24" > <span>0</span> </a>
           </div>
           <div id="favoritos">
               <a href="tela-login.html" target="_self"><img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/love.png" alt="favoritos" width="24" height="24"/></a> 
@@ -97,16 +97,22 @@
 
 </header>
 
+  <!--Lista de Produtos do Carrinho-->
   
-    <!--Apresentação das ofertas-->
-  <main>
-    <h1>Ofertas</h1>
-      <div id="ofertas">
-      
-      </div>
-
-      <div id="comprar"></div>
-  </main>          
+    <h1 class="finaliza-compra">Finalize sua Slow Compra </h1>
+        
+    
+    <div class="products-container">
+            <div class="product-header">
+                <h5 class="product-title"> </h5>
+                <h5 class="price"></h5>
+                <h5 class="quantity"></h5>
+                <h5 class="total"></h5>
+            </div>
+            <div class="products">
+            </div>
+      </div> 
+       
             
           
      <!-- Footer -->
@@ -215,10 +221,13 @@
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.js"></script>
 
 <!--JavaScript-->
-<script src="produtos.js"></script>
-<script src="main.js"></script>
 <script src="fixos.js"></script>
+<script src="main.js"></script>
 
+
+<script>
+  
+</script>
 
     
 </body>
