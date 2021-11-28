@@ -118,14 +118,17 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 </br>
 
 ## 9.2 Tela de detalhamento do produto
+### 9.2.1 CT03 - Visualizar os detalhes de um produto em uma nova tela
 
 
 
-## 9.3 Tela de ofertas
+## 9.3 Tela de ofertas 
+### 9.3.1 CT04 - Adicionar produtos ao carrinho de compras
 
 
 
-## 9.4 Tela de finalização da compra
+## 9.4 Tela de finalização da compra 
+### 9.4.1 CT05 - Registar e exibir carrinho de compras ao consumidor
 
 
 
