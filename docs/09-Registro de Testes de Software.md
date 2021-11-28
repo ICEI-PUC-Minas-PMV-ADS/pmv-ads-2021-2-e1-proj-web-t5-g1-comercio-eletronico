@@ -115,10 +115,6 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 </p>
 <p align="center">Figura 36 - Evidência de teste 7 - Tela de login</p>
 
-<p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/src/validacaocarrinho.png?raw=true" alt="Evidência de teste 7 - Tela de login">
-</p>
-<p align="center">Figura 37 - Evidência de teste 8 - Tela finazlização de compra</p>
 
 </br>
 
@@ -135,7 +131,12 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 ## 9.4 Tela de finalização da compra 
 ### 9.4.1 CT05 - Registar e exibir carrinho de compras ao consumidor
 
+**Critério de êxito:** O item adicionado deve constar na pagina para o cliente ver.
 
+<p align="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/src/validacaocarrinho.png?raw=true" alt="Evidência de teste 7 - Tela de login">
+</p>
+<p align="center">Figura 37 - Evidência de teste 8 - Tela finazlização de compra</p>
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
