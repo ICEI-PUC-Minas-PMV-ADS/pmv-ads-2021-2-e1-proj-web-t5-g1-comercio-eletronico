@@ -121,4 +121,6 @@ function displayCart() {
  onLoadCartNumbers();
  displayCart();
  
+
  
+ // PAGINA DE DETALHAMENTO DO PRODUTO
