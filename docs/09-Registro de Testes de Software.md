@@ -121,11 +121,11 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 
 
 
-## 9.2 Tela de ofertas
+## 9.3 Tela de ofertas
 
 
 
-## 9.2 Tela de finalização da compra
+## 9.4 Tela de finalização da compra
 
 
 
