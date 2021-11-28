@@ -124,3 +124,23 @@ function displayCart() {
 
  
  // PAGINA DE DETALHAMENTO DO PRODUTO
+
+ var urlParams;
+(window.onpopstate = function () {
+   var match,
+       pl     = /\+/g,  // Regex for replacing addition symbol with a space
+       search = /([^&=]+)=?([^&]*)/g,
+       decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); },
+       query  = window.location.search.substring(1);
+ 
+   urlParams = {};
+   while (match = search.exec(query))
+      urlParams[decode(match[1])] = decode(match[2]);
+})();
+ //  const urlParams = new URLSearchParams(window.location.search)
+ //  console.log(urlParams);
+ 
+ document.getElementById('imagem').src = urlParams["imagem"];
+ document.getElementById('titulo').innerHTML = urlParams["titulo"];
+ document.getElementById('preco').innerHTML = 'R$' + urlParams["preco"] + ',00';
+ document.getElementById('descricao').innerHTML = urlParams["descricao"];
