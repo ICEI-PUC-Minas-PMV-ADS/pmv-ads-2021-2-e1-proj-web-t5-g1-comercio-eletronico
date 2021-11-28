@@ -51,7 +51,7 @@ Exibir a quantidade total de produtos na tela de ofertas, próxima ao ícone car
 |**Requisitos associados**|RF13- O site deve registrar a lista de produtos adicionados ao carrinho de compras pelos consumidores |
 |**Objetivo do teste**| Registar e exibir a lista de produtos adicionados pelo consumidor ao carrinho em uma nova tela |
 |**Passos**|<ol><li> Acessar o Navegador</li> <li>Acessar a URL do site </li><li>Adicionar o produto ao carrinho, ao clicar no icone carrinho abaixo do produto desejado</li> <li> Clicar no icone carrinho no cabecalho da pagina principal</li></ol>|
-|**Critérios de êxito**|<ul> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO SEGUNDO PARAGRAFO </li> <li>ADD CONTEUDO TERCEIRO PARAGRAFO</li></ul>
+|**Critérios de êxito**|<ul> <li> O site deve registrar a lista de produtos adicionados ao carrinho de compras pelos consumidores </li> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO SEGUNDO PARAGRAFO </li> <li>ADD CONTEUDO TERCEIRO PARAGRAFO</li></ul>
 
 ## Ferramentas de Testes (Opcional)
 
