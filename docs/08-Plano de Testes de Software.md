@@ -31,7 +31,7 @@
 |**Requisitos associados**|RF25 - O site deve permitir que o consumidor visualize os detalhes de um produto: descrição, fotos, preço, avaliações dos clientes e localização da loja|
 |**Objetivo do teste**| Validar o botão do ícone de detalhes e dirigir para a página de detalhamento do produto|
 |**Passos**|<ol><li>Acessar o navegador</li><li>Acessar a URL do site</li><li>Acessar a tela de ofertas</li><li>Clicar no ícone de detalhes</li><li>Assim será direcionado para a tela com os detalhes do produto</li></ol>|
-|**Critérios de êxito**|<ul><li>Caso o usuário ou a senha informados sejam inválidos, o site deve apresentar uma mensagem de erro na tela</li><li>Caso o usuário e a senha informados sejam válidos, o usuário deve ser direcionado para a tela homepage do site</li><li>Quando o login for feito com sucesso, deve ser gerado um registro no localStorage do navegador na key 'userLogado'</li><li>Quando o login for feito com sucesso, deve ser gerado um identificador único atrelado à sessão de login no localStorage do navegador na key 'token'</li><li>Quando o login for feito com sucesso, o nome do usuário deve ser exibido no canto superior direito da tela homepage no formato: Olá, + 'nome do usuário logado'</li></ul>
+|**Critérios de êxito**|<ul><li>Ao clicar no produto na página de ofertas (ícone de detalhes), será aberta a página com o detalhamento do produto. </li></ul>
 
 
 ## Ferramentas de Testes (Opcional)
