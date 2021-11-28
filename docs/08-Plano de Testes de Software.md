@@ -32,22 +32,24 @@
 
 |**Caso de teste**|**CT03 - Adicionar produtos ao carrinho de compras**|
 |:---------------:|----------------------------------------------------------------|
-|**Requisitos associados**|RF12 ADD CONTEUDO |
-|**Objetivo do teste**| ADD CONTEUDO |
+|**Requisitos associados**|RF12- O site deve permitir que o consumidor adicione produtos ao carrinho de compras |
+|**Objetivo do teste**| Verificar se os produtos adicionados na tela de ofertas estão sendo adicionados corretamente no carrinho.
+Exibir a quantidade total de produtos na tela de ofertas, próxima ao ícone carrinho. |
 |**Passos**|<ol><li>ADD CONTEUDO DE PRIMEITO PASSO</li><li>ADD CONTEUDO DO SEGUNDO PASSO<</li><li>ADD CONTEUDO DE TERCEIRO PASSO<</li>|
 |**Critérios de êxito**|<ul> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO SEGUNDO PARAGRAFO </li> <li>ADD CONTEUDO TERCEIRO PARAGRAFO</li></ul>
 
 ## 8.3 Tela de finalização da compra
+
 |**Caso de teste**|**CT04 -Registar e exibir carrinho de compras ao consumidor**|
 |:---------------:|----------------------------------------------------------------|
 |**Requisitos associados**|RF13- O site deve registrar a lista de produtos adicionados ao carrinho de compras pelos consumidores |
-|**Objetivo do teste**| ADD CONTEUDO |
+|**Objetivo do teste**| Registar e exibir a lista de produtos adicionados pelo consumidor ao carrinho em uma nova tela |
 |**Passos**|<ol><li>ADD CONTEUDO DE PRIMEITO PASSO</li><li>ADD CONTEUDO DO SEGUNDO PASSO<</li><li>ADD CONTEUDO DE TERCEIRO PASSO<</li>|
 |**Critérios de êxito**|<ul> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO SEGUNDO PARAGRAFO </li> <li>ADD CONTEUDO TERCEIRO PARAGRAFO</li></ul>
 
 ## 8.4 Tela de detalhamento do produto
 
-|**Caso de teste**|**CT05 - Visualizar os detalhes de um produto**|
+|**Caso de teste**|**CT05 - Visualizar os detalhes de um produto em uma nova tela**|
 |:---------------:|----------------------------------------------------------|
 |**Requisitos associados**|RF25 - O site deve permitir que o consumidor visualize os detalhes de um produto: descrição, fotos, preço, avaliações dos clientes e localização da loja|
 |**Objetivo do teste**| Validar o botão do ícone de detalhes e dirigir para a página de detalhamento do produto|
