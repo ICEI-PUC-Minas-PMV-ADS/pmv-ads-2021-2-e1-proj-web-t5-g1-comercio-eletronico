@@ -3,7 +3,7 @@ var produtos = {
     {   
         id: 0,
         titulo: 'Blusa Trees Masculina',
-        descricao: 'Camiseta cor verde com estampa exclusiva da marca. Composta de malha 100% algodão organico.',
+        descricao: 'Blusa Lançamento feito em malha de algodao de ótima qualidade, ideal para você!',
         imagem: 'https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Oferta.jpg',
         categoria: 'Blusas',
         preco: 89,
@@ -23,8 +23,8 @@ var produtos = {
     }, {
         id: 2,
         titulo: 'Blusa de Algodão Orgânico',
-        imagem: 'https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Oferta%203.jpg',
-        descricao: 'Camiseta cor cinza com estampa exclusiva da marca. Composta de malha 100% algodão organico.',
+        descricao: 'Camiseta cor cinza com estampa exclusiva da marca. Composta de malha de algodao organico.',
+        imagem: 'https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Oferta%203.jpg', 
         categoria: 'Bolsas',
         preco: 115,
         tamanhos: ['P', 'M', 'G'],
@@ -51,7 +51,7 @@ var produtos = {
         id: 5,
         titulo: 'Moleton Harry Potter',
         imagem:'https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Oferta%206.jpg',
-        descricao: 'Blusa de moletom masculino básico em modelagem comfort, 100% algodão organico.',
+        descricao: 'Blusa de moletom masculina básico em modelagem comfort, manha de algodao organico.',
         categoria: 'Moleton',
         preco: 159,
         tamanhos: ['P', 'M', 'G'],
