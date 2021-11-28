@@ -115,6 +115,11 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 </p>
 <p align="center">Figura 36 - Evidência de teste 7 - Tela de login</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%2012.png?raw=true" alt="Evidência de teste 7 - Tela de login">
+</p>
+<p align="center">Figura 37 - Evidência de teste 8 - Tela finazlização de compra</p>
+
 </br>
 
 ## 9.2 Tela de detalhamento do produto
