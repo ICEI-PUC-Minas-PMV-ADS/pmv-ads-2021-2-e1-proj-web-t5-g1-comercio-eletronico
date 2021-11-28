@@ -26,35 +26,34 @@
 |**Passos**|<ol><li>Acessar o navegador</li><li>Acessar a URL do site</li><li>Acessar a tela de cadastro e login</li><li>Informar os dados de um usuário previamente cadastrado</li><li>Clicar no botão Entrar</li></ol>|
 |**Critérios de êxito**|<ul><li>Caso o usuário ou a senha informados sejam inválidos, o site deve apresentar uma mensagem de erro na tela</li><li>Caso o usuário e a senha informados sejam válidos, o usuário deve ser direcionado para a tela homepage do site</li><li>Quando o login for feito com sucesso, deve ser gerado um registro no localStorage do navegador na key 'userLogado'</li><li>Quando o login for feito com sucesso, deve ser gerado um identificador único atrelado à sessão de login no localStorage do navegador na key 'token'</li><li>Quando o login for feito com sucesso, o nome do usuário deve ser exibido no canto superior direito da tela homepage no formato: Olá, + 'nome do usuário logado'</li></ul>
 
+## 8.2 Tela de detalhamento do produto
 
-
-## 8.2 Tela de ofertas
-
-|**Caso de teste**|**CT03 - Adicionar produtos ao carrinho de compras**|
-|:---------------:|----------------------------------------------------------------|
-|**Requisitos associados**|RF12- O site deve permitir que o consumidor adicione produtos ao carrinho de compras |
-|**Objetivo do teste**| Verificar se os produtos adicionados na tela de ofertas estão sendo adicionados corretamente no carrinho.
-Exibir a quantidade total de produtos na tela de ofertas, próxima ao ícone carrinho. |
-|**Passos**|<ol><li>ADD CONTEUDO DE PRIMEITO PASSO</li><li>ADD CONTEUDO DO SEGUNDO PASSO<</li><li>ADD CONTEUDO DE TERCEIRO PASSO<</li>|
-|**Critérios de êxito**|<ul> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO SEGUNDO PARAGRAFO </li> <li>ADD CONTEUDO TERCEIRO PARAGRAFO</li></ul>
-
-## 8.3 Tela de finalização da compra
-
-|**Caso de teste**|**CT04 -Registar e exibir carrinho de compras ao consumidor**|
-|:---------------:|----------------------------------------------------------------|
-|**Requisitos associados**|RF13- O site deve registrar a lista de produtos adicionados ao carrinho de compras pelos consumidores |
-|**Objetivo do teste**| Registar e exibir a lista de produtos adicionados pelo consumidor ao carrinho em uma nova tela |
-|**Passos**|<ol><li>ADD CONTEUDO DE PRIMEITO PASSO</li><li>ADD CONTEUDO DO SEGUNDO PASSO<</li><li>ADD CONTEUDO DE TERCEIRO PASSO<</li>|
-|**Critérios de êxito**|<ul> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO SEGUNDO PARAGRAFO </li> <li>ADD CONTEUDO TERCEIRO PARAGRAFO</li></ul>
-
-## 8.4 Tela de detalhamento do produto
-
-|**Caso de teste**|**CT05 - Visualizar os detalhes de um produto em uma nova tela**|
+|**Caso de teste**|**CT03 - Visualizar os detalhes de um produto em uma nova tela**|
 |:---------------:|----------------------------------------------------------|
 |**Requisitos associados**|RF25 - O site deve permitir que o consumidor visualize os detalhes de um produto: descrição, fotos, preço, avaliações dos clientes e localização da loja|
 |**Objetivo do teste**| Validar o botão do ícone de detalhes e dirigir para a página de detalhamento do produto|
 |**Passos**|<ol><li>Acessar o navegador</li><li>Acessar a URL do site</li><li>Acessar a tela de ofertas</li><li>Clicar no ícone de detalhes</li><li>Assim será direcionado para a tela com os detalhes do produto</li></ol>|
 |**Critérios de êxito**|<ul><li>Ao clicar no produto na página de ofertas (ícone de detalhes), será aberta a página com o detalhamento do produto. </li></ul>
+## 8.3 Tela de ofertas
+
+|**Caso de teste**|**CT04 - Adicionar produtos ao carrinho de compras**|
+|:---------------:|----------------------------------------------------------------|
+|**Requisitos associados**|RF12- O site deve permitir que o consumidor adicione produtos ao carrinho de compras |
+|**Objetivo do teste**| Verificar se os produtos adicionados na tela de ofertas estão sendo adicionados corretamente no carrinho.
+Exibir a quantidade total de produtos na tela de ofertas, próxima ao ícone carrinho. |
+|**Passos**|<ol><li> Acessar o Navegador</li><li> Acessar a URL do site <</li><li>ADD CONTEUDO DE TERCEIRO PASSO<</li> </ol>|
+|**Critérios de êxito**|<ul> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO SEGUNDO PARAGRAFO </li> <li>ADD CONTEUDO TERCEIRO PARAGRAFO</li></ul>
+
+## 8.4 Tela de finalização da compra
+
+|**Caso de teste**|**CT05 -Registar e exibir carrinho de compras ao consumidor**|
+|:---------------:|----------------------------------------------------------------|
+|**Requisitos associados**|RF13- O site deve registrar a lista de produtos adicionados ao carrinho de compras pelos consumidores |
+|**Objetivo do teste**| Registar e exibir a lista de produtos adicionados pelo consumidor ao carrinho em uma nova tela |
+|**Passos**|<ol><li> Acessar o Navegador</li> <li>Acessar a URL do site </li><li>Adicionar o produto ao carrinho, ao clicar no icone carrinho abaixo do produto desejado</li> <li> Clicar no icone carrinho no cabecalho da pagina principal</li></ol>|
+|**Critérios de êxito**|<ul> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO SEGUNDO PARAGRAFO </li> <li>ADD CONTEUDO TERCEIRO PARAGRAFO</li></ul>
+
+
 
 
 ## Ferramentas de Testes (Opcional)
