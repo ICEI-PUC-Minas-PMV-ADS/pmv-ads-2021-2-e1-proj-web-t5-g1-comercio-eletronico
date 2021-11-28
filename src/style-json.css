@@ -347,10 +347,12 @@ main h1 {
 /*detalhamento-produto*/ 
 
 .detalhes-produto {
-    
+    display: table-cell;
+    margin: auto;
+    text-align: justify;
 }
 #titulo {
-    margin: 0;
+    
     font-size: 32px;
 }
  
@@ -363,6 +365,8 @@ main h1 {
 }
 
 aside {
+
 }
 img {
+
 }

@@ -51,7 +51,7 @@ var produtos = {
         id: 5,
         titulo: 'Moleton Harry Potter',
         imagem:'https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Oferta%206.jpg',
-        descricao: 'Blusa de moletom masculina básico em modelagem comfort, manha de algodao organico.',
+        descricao: 'Blusa de moletom masculina básico em modelagem comfort, malha de algodão orgânico.',
         categoria: 'Moleton',
         preco: 159,
         tamanhos: ['P', 'M', 'G'],
