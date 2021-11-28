@@ -56,7 +56,9 @@ var produtos = {
         preco: 159,
         tamanhos: ['P', 'M', 'G'],
         quantidade: 0,
-    }
+        
+    },
+    
   ],
 }
 
