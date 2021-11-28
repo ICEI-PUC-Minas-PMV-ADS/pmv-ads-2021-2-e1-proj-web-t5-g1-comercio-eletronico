@@ -46,15 +46,12 @@ Exibir a quantidade total de produtos na tela de ofertas, próxima ao ícone car
 
 ## 8.4 Tela de finalização da compra
 
-|**Caso de teste**|**CT05 -Registar e exibir carrinho de compras ao consumidor**|
+|**Caso de teste**|**CT0 -Registar e exibir carrinho de compras ao consumidor**|
 |:---------------:|----------------------------------------------------------------|
 |**Requisitos associados**|RF13- O site deve registrar a lista de produtos adicionados ao carrinho de compras pelos consumidores |
 |**Objetivo do teste**| Registar e exibir a lista de produtos adicionados pelo consumidor ao carrinho em uma nova tela |
 |**Passos**|<ol><li> Acessar o Navegador</li> <li>Acessar a URL do site </li><li>Adicionar o produto ao carrinho, ao clicar no icone carrinho abaixo do produto desejado</li> <li> Clicar no icone carrinho no cabecalho da pagina principal</li></ol>|
 |**Critérios de êxito**|<ul> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO SEGUNDO PARAGRAFO </li> <li>ADD CONTEUDO TERCEIRO PARAGRAFO</li></ul>
-
-
-
 
 ## Ferramentas de Testes (Opcional)
 
