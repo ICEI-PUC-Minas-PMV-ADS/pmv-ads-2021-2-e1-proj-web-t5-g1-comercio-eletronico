@@ -42,11 +42,11 @@
 |**Objetivo do teste**| Verificar se os produtos adicionados na tela de ofertas estão sendo adicionados corretamente no carrinho.
 Exibir a quantidade total de produtos na tela de ofertas, próxima ao ícone carrinho. |
 |**Passos**|<ol><li> Acessar o Navegador</li><li> Acessar a URL do site <</li><li>ADD CONTEUDO DE TERCEIRO PASSO<</li> </ol>|
-|**Critérios de êxito**|<ul> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO SEGUNDO PARAGRAFO </li> <li>ADD CONTEUDO TERCEIRO PARAGRAFO</li></ul>
+|**Critérios de êxito**|<ul> <li>  Os produtos devem ser exibidos corretamente e de forma dinâmica no site utilizando JSON para criação da lista de produtos exibidos. Sendo necessários pelo menos 6 produtos sendo apresentados.</li> <li> ADD CONTEUDO PRIMEIRO PARAGRAFO </li> <li> ADD CONTEUDO SEGUNDO PARAGRAFO </li> <li>ADD CONTEUDO TERCEIRO PARAGRAFO</li></ul>
 
 ## 8.4 Tela de finalização da compra
 
-|**Caso de teste**|**CT0 -Registar e exibir carrinho de compras ao consumidor**|
+|**Caso de teste**|**CT05 -Registar e exibir carrinho de compras ao consumidor**|
 |:---------------:|----------------------------------------------------------------|
 |**Requisitos associados**|RF13- O site deve registrar a lista de produtos adicionados ao carrinho de compras pelos consumidores |
 |**Objetivo do teste**| Registar e exibir a lista de produtos adicionados pelo consumidor ao carrinho em uma nova tela |
