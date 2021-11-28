@@ -117,6 +117,15 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 
 </br>
 
+## 9.2 Tela de detalhamento do produto
+
+
+
+## 9.3 Tela de ofertas
+
+
+
+## 9.4 Tela de finalização da compra
 
 
 
