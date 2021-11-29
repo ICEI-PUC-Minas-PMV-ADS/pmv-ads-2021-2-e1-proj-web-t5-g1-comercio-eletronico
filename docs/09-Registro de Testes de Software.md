@@ -126,6 +126,7 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%2011..png?raw=true" alt="Evidência de teste 6 - Tela de login">
 </p>
+<p align="center">Figura 37 - Evidência de teste 8 - Tela de de detalhamento do produto</p>
 
 
 
@@ -138,14 +139,14 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%2015_CT04_1.jpg" alt="criterio de exito carrinho-1">
 </p>
-<p align="center">Figura X - Evidência de teste X - Tela de ofertas</p>
+<p align="center">Figura 38 - Evidência de teste 9 - Tela de ofertas</p>
 
 </br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%2016_CT04_2.jpg" alt="criterio de exito carrinho-2">
 </p>
-<p align="center">Figura X - Evidência de teste X - Tela de ofertas</p>
+<p align="center">Figura 39 - Evidência de teste 10 - Tela de ofertas</p>
 
 </br>
 
@@ -155,7 +156,7 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT18.CT04_4.jpg" alt="criterio de exito carrinho-3">
 </p>
-<p align="center">Figura X - Evidência de teste X - Tela de ofertas</p>
+<p align="center">Figura 40 - Evidência de teste 11 - Tela de ofertas</p>
 
 </br>
 
@@ -163,7 +164,7 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
   <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%2017_CT04_3.jpg
 " alt="criterio de exito carrinho-4">
 </p>
-<p align="center">Figura X - Evidência de teste X - Tela de ofertas</p>
+<p align="center">Figura 41 - Evidência de teste 12 - Tela de ofertas</p>
 
 </br>
 
@@ -178,7 +179,7 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/EVT%2013.png?raw=true" 
   alt="Evidência de teste 7 - Tela de login">
 </p>
-<p align="center">Figura 37 - Evidência de teste 8 - Tela finalização de compra</p>
+<p align="center">Figura 42 - Evidência de teste 13 - Tela finalização de compra</p>
 
 **Critério de êxito:** A quantidade de itens deve ser exibida.
 
@@ -186,7 +187,7 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/EVT%2014.png?raw=true" 
   alt="Evidência de teste 7 - Tela de login">
 </p>
-<p align="center">Figura 38 - Evidência de teste 8 - Tela finalização de compra</p>
+<p align="center">Figura 43 - Evidência de teste 14 - Tela finalização de compra</p>
 
 **Critério de êxito:** O valor unitário deve ser exibido
 
@@ -194,7 +195,7 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/EVT%2015.png?raw=true" 
   alt="Evidência de teste 7 - Tela de login">
 </p>
-<p align="center">Figura 39 - Evidência de teste 8 - Tela finalização de compra</p>
+<p align="center">Figura 44 - Evidência de teste 15 - Tela finalização de compra</p>
 
 **Critério de êxito:** O valor total deve ser exibido.
 
@@ -202,7 +203,7 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/EVT%2016.png?raw=true" 
   alt="Evidência de teste 7 - Tela de login">
 </p>
-<p align="center">Figura 40 - Evidência de teste 8 - Tela finalização de compra</p>
+<p align="center">Figura 45 - Evidência de teste 16 - Tela finalização de compra</p>
 
 
 
