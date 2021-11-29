@@ -74,7 +74,7 @@ var produtos = {
        <a key="${produtos.dados[i].id}" href="detalhamento-produto.html?id=${produtos.dados[i].id}&imagem=${produtos.dados[i].imagem}
        &titulo=${produtos.dados[i].titulo}&preco=${produtos.dados[i].preco}&descricao=${produtos.dados[i].descricao}" class="detalhes"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/detalhes.png" alt="ver detalhes do produto" width="24" height="24"> </a>
        
-       <a key="${produtos.dados[i].id}" href="#" class="adicionar-produto"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/adicionar-carrinho.png" alt="adicionar ao carrinho" width="24" height="24"> </a>`;   
+       <a key="${produtos.dados[i].id}" href="#" class="adicionar-produto"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/adicionar-carrinho.png" alt="adicionar ao carrinho" width="24" height="24"> </a> </p>`;   
    }
    document.getElementById('ofertas').innerHTML = prods
 

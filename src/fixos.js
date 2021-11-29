@@ -42,14 +42,16 @@ var produtosfixos = {
   ],
 }
 
+
    //INSERIR  FIXOS NA PAGINA INDEX-JSON.HTML
 
    var pfixos = '';
    for (i=0; i < produtosfixos.dados.length; i++) {
         pfixos += `<p class= "produto-fixo">
-       <img src="${produtosfixos.dados[i].imagem}" alt="${produtosfixos.dados[i].titulo}" class="foto">  <br> 
-       ${produtosfixos.dados[i].titulo} <br> 
-       R$${produtosfixos.dados[i].preco},00 <br>`;   
+       <img src="${produtosfixos.dados[i].imagem}" alt="${produtosfixos.dados[i].titulo}" class="foto"  width="220" height="220"> 
+       ${produtosfixos.dados[i].titulo} 
+       R$${produtosfixos.dados[i].preco},00 <br>
+       </p>`;   
    }
    document.getElementById('carrinho-fixo').innerHTML = pfixos
 
