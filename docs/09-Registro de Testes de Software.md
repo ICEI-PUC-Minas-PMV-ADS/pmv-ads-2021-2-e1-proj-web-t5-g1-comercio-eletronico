@@ -161,7 +161,7 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 **Critério de êxito:** O valor unitário deve ser exibido
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/EVT%2014.png?raw=true" 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/EVT%2015.png?raw=true" 
   alt="Evidência de teste 7 - Tela de login">
 </p>
 <p align="center">Figura 39 - Evidência de teste 8 - Tela finalização de compra</p>
@@ -169,7 +169,7 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 **Critério de êxito:** O valor total deve ser exibido.
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/EVT%2014.png?raw=true" 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/EVT%2016.png?raw=true" 
   alt="Evidência de teste 7 - Tela de login">
 </p>
 <p align="center">Figura 39 - Evidência de teste 8 - Tela finalização de compra</p>
