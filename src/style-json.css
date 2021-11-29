@@ -328,6 +328,35 @@ main h1 {
     color: white;
 }
 
+/*detalhamento-produto*/ 
+
+.detalhes-produto {
+    display: table-cell;
+    float:right;
+    padding: 200px 290px 10px 1px;
+    text-align: justify;   
+}
+#titulo {
+    font-size: 32px;
+}
+ 
+#descricao {
+    font-size: 16px;
+}
+    
+#preco {
+    font-size: 32px;
+}
+
+aside {
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+img {
+    padding: 0px;
+    margin-left: 20px;
+}
 
 
 
@@ -344,29 +373,3 @@ main h1 {
 /*gogle fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
-/*detalhamento-produto*/ 
-
-.detalhes-produto {
-    display: table-cell;
-    margin: auto;
-    text-align: justify;
-}
-#titulo {
-    
-    font-size: 32px;
-}
- 
-#descricao {
-    font-size: 16px;
-}
-    
-#preco {
-    font-size: 32px;
-}
-
-aside {
-
-}
-img {
-
-}
