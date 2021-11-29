@@ -124,8 +124,9 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 **Critério de êxito:**Ao clicar no produto na página de ofertas (ícone de detalhes), será aberta a página com o detalhamento do produto.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%2011..png?raw=true" alt="Evidência de teste 6 - Tela de login">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/detalhamentoproduto.png?raw=true" alt="Evidência de teste 8 - Detalhes do Produto">
 </p>
+<p align="center">Figura 37 - Detalhes dp Produto - Tela de Detalhamento do Produto</p>
 
 
 
