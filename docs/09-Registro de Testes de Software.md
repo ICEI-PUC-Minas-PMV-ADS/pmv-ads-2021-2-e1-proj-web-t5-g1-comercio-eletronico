@@ -121,12 +121,12 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 ## 9.2 Tela de detalhamento do produto
 ### 9.2.1 CT03 - Visualizar os detalhes de um produto em uma nova tela
 
-**Critério de êxito:**Ao clicar no produto na página de ofertas (ícone de detalhes), será aberta a página com o detalhamento do produto.
+**Critério de êxito:** Ao clicar no produto na página de ofertas (ícone de detalhes), será aberta a página com o detalhamento do produto.
 
 <p align="center">
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/detalhamentoproduto.png?raw=true" alt="Evidência de teste 8 - Detalhes do Produto">
 </p>
-<p align="center">Figura 37 - Detalhes dp Produto - Tela de Detalhamento do Produto</p>
+<p align="center">Figura 37 - Detalhes do Produto - Tela de Detalhamento do Produto</p>
 
 
 
