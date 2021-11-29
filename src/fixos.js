@@ -51,7 +51,7 @@ var produtosfixos = {
        ${produtosfixos.dados[i].titulo} <br> 
        R$${produtosfixos.dados[i].preco},00 <br>`;   
    }
-   document.getElementById('ofertas').innerHTML = pfixos
+   document.getElementById('carrinho-fixo').innerHTML = pfixos
 
 
 
