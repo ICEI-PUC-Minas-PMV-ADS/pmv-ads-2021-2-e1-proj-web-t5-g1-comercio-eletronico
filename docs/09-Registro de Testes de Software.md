@@ -128,11 +128,6 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 </p>
 <p align="center">Figura 37 - Evidência de teste 8 - Tela de de detalhamento do produto</p>
 
-
-
-
-
-
 ## 9.3 Tela de ofertas 
 ### 9.3.1 CT04 - Adicionar produtos ao carrinho de compras
 
@@ -163,8 +158,7 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 </br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%2017_CT04_3.jpg
-" alt="criterio de exito carrinho-4">
+  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%2017_CT04_3.jpg" alt="criterio de exito carrinho-4">
 </p>
 <p align="center">Figura 41 - Evidência de teste 12 - Tela de ofertas</p>
 
