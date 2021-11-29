@@ -333,8 +333,10 @@ main h1 {
 .detalhes-produto {
     display: table-cell;
     float:right;
-    padding: 200px 290px 10px 1px;
+    padding: 300px 100px 10px 20px;
     text-align: justify;   
+    margin-right: 500px;
+    margin-left: 5px;
 }
 #titulo {
     font-size: 32px;
@@ -349,13 +351,18 @@ main h1 {
 }
 
 aside {
-    margin-top: 100px;
+    margin-top: 100px; 
     margin-bottom: 100px;
 
 }
-img {
-    padding: 0px;
-    margin-left: 20px;
+#imagem {
+   
+    
+    margin-left: 300px;
+    margin-right: auto;
+    background-color:blue;
+
+
 }
 
 
