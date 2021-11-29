@@ -145,7 +145,8 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 **Critério de êxito:** O item adicionado deve constar na pagina para o cliente ver. 
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/src/validacaocarrinho.png?raw=true" alt="Evidência de teste 7 - Tela de login">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/docs/img/EVT%2013.png?raw=true" 
+  alt="Evidência de teste 7 - Tela de login">
 </p>
 <p align="center">Figura 37 - Evidência de teste 8 - Tela finazlização de compra</p>
 
