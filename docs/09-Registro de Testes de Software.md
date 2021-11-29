@@ -121,7 +121,11 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 ## 9.2 Tela de detalhamento do produto
 ### 9.2.1 CT03 - Visualizar os detalhes de um produto em uma nova tela
 
-**Critério de êxito:**
+**Critério de êxito:**Ao clicar no produto na página de ofertas (ícone de detalhes), será aberta a página com o detalhamento do produto.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/docs/img/EVT%2011..png?raw=true" alt="Evidência de teste 6 - Tela de login">
+</p>
 
 
 
