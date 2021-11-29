@@ -121,22 +121,43 @@ Os registros de testes realizados no site são evidenciados a seguir, agrupados 
 ## 9.2 Tela de detalhamento do produto
 ### 9.2.1 CT03 - Visualizar os detalhes de um produto em uma nova tela
 
+**Critério de êxito:**
+
+
 
 
 ## 9.3 Tela de ofertas 
 ### 9.3.1 CT04 - Adicionar produtos ao carrinho de compras
+
+**Critério de êxito:**Os produtos devem ser exibidos corretamente e de forma dinâmica no site utilizando JSON para criação da lista de produtos exibidos. Sendo necessários pelo menos 6 produtos sendo apresentados.
+
+**Critério de êxito:** Cada produto deve conter abaixo de sua imagem o ícone “carrinho”.
+
+**Critério de êxito:** Cada click efetuado no ícone “carrinho” de cada produto, corresponderá a uma unidade do produto sendo adicionada ao carrinho.
+
+**Critério de êxito:** O ícone “carrinho” no cabeçalho da página exibirá  a quantidade  total de produtos que foi adicionada ao carrinho de compras pelo usuário.
 
 
 
 ## 9.4 Tela de finalização da compra 
 ### 9.4.1 CT05 - Registar e exibir carrinho de compras ao consumidor
 
-**Critério de êxito:** O item adicionado deve constar na pagina para o cliente ver.
+**Critério de êxito:** O item adicionado deve constar na pagina para o cliente ver. 
 
 <p align="center">
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/src/validacaocarrinho.png?raw=true" alt="Evidência de teste 7 - Tela de login">
 </p>
 <p align="center">Figura 37 - Evidência de teste 8 - Tela finazlização de compra</p>
+
+**Critério de êxito:** A quantidade de itens deve ser exibida.
+
+**Critério de êxito:** O valor unitário deve ser exibido
+
+**Critério de êxito:** O valor total deve ser exibido.
+
+
+
+
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
