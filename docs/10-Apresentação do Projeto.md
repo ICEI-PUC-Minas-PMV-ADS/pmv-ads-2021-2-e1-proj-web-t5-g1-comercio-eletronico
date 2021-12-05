@@ -18,7 +18,7 @@ Moda Green
 
 ## Conjunto de Slides (Estrutura)
 
-
+[Apresentação - Moda Green](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/blob/main/presentation/Apresenta%C3%A7%C3%A3o%20-%20Moda%20Green.pdf)
  
 > **Links Úteis**:
 > - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
