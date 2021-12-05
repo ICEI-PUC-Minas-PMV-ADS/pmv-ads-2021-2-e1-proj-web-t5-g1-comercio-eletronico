@@ -88,7 +88,7 @@ A tela inicial do site é composta por 4 estruturas:
 
  * **Instruções de acesso**:
 
- <p align="justify">Acesse a URL <a href="https://marialuizalacerda.github.io/modagreen/" target="_blank">https://modagreen.herokuapp.com</a> em um navegador de internet. Clique no item "Entrar" disponível no cabeçalho da página. </p>
+ <p align="justify">Acesse a URL <a href="https://marialuizalacerda.github.io/modagreen/" target="_blank">https://marialuizalacerda.github.io/modagreen/</a> em um navegador de internet. Clique no item "Entrar" disponível no cabeçalho da página. </p>
 
 
 > **Links Úteis**:
