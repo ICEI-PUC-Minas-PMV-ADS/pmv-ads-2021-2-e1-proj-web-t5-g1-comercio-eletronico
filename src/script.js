@@ -147,7 +147,7 @@ function entrar(e){
         
     if(emailLogin.value == userValid.email && senhaLogin.value == userValid.senha){
 
-        window.location.href = 'index-json.html'
+        window.location.href = 'index.html'
 
         let token = Math.random().toString(16).substr(2) + Math.random().toString(16).substr(2)
         localStorage.setItem('token', token)
