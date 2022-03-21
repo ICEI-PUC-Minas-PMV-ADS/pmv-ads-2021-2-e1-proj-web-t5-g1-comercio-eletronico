@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+    <title>Moda Green</title>
+    <!--CSS-->
+    <link rel="stylesheet" href="style-json.css"/>
+    <!-- MDB -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.css" rel="stylesheet"/>
+    <!--Google Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+</head>
+
+<body>
+ 
+<header>
+    
+    <!--Navbar - menu hamburguer-->
+    <section class="mb-3">
+      <nav class="navbar navbar-light bg-light">
+    
+        <div class="container-fluid">
+          <button class="navbar-toggler first-button" type="button" data-mdb-toggle="collapse"
+            data-mdb-target="#navbarToggleExternalContent9"
+            aria-controls="navbarToggleExternalContent9" aria-expanded="false"
+            aria-label="Toggle navigation">
+            <div class="animated-icon1"><span></span><span></span><span></span></div>
+          </button>
+        
+      
+      <!-- Navbar brand -->
+        <section>
+        <a class="navbar-brand"  href="index-json.html"> <h2 id="navbar-marca"> <i> ModaGreen </i> </h2>  <img
+        src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Logo3.png" alt="Moda Green" width="16" height="16"/></a>
+        </section>
+
+         <!--Navbar - icones favoritos, entrar e carrinho-->
+        <section id="icones">
+
+          <div id="carrinho" class="cart">
+            <a href="finalizacao-compra.html" target="_self">  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/Carrinho.png" alt="carrinho de compras"width="24" height="24" > <span>0</span> </a>
+          </div>
+          <div id="favoritos">
+              <a href="tela-login.html" target="_self"><img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/love.png" alt="favoritos" width="24" height="24"/></a> 
+          </div>      
+         
+          <div id="entrar">
+            <a href="tela-login.html" target="_self"> <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/login.png" alt="entrar" width="24" height="24"/> </a>
+          </div>
+
+          <div>
+          <button type="button" class="btn btn-light" id='botaosair'>Sair</button>
+            <h6 id="userLogado"></h6>
+          </div>    
+
+         </section>
+
+    </nav>
+      <!--Navbar - campo de categorias sanduiche-->
+        <div class="collapse" id="navbarToggleExternalContent9">
+          <div class="bg-light shadow-3 p-4">
+            <button class="btn btn-link btn-block border-bottom m-0">Bermudas</button>
+            <button class="btn btn-link btn-block border-bottom m-0">Blusas</button>
+            <button class="btn btn-link btn-block border-bottom m-0">Bolsas</button>
+            <button class="btn btn-link btn-block border-bottom m-0">Calçados</button>
+            <button class="btn btn-link btn-block border-bottom m-0">Calças</button>
+            <button class="btn btn-link btn-block border-bottom m-0">Camisetas</button>
+            <button class="btn btn-link btn-block border-bottom m-0">Jaquetas e Casacos</button>
+            <button class="btn btn-link btn-block border-bottom m-0">Moleton</button>
+            <button class="btn btn-link btn-block border-bottom m-0">Moda Praia</button>
+            <button class="btn btn-link btn-block m-0">Shorts</button>
+          </div>
+       </div> 
+    </section>
+    <!--/Navbar - menu hamburguer-->
+
+    <!--Campo de busca-->
+    <div id="pesquisa">
+      <form name="pesquisa" action="pesquisa.html" method="post">
+        <input
+          type="text"
+          id="txtBusca"
+          name="pesquisa"
+          placeholder="Pesquise por produtos e lojas"/>
+        <button>
+          <img
+            src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g1-comercio-eletronico/main/src/loupe.png"
+            alt="Lupa"/>
+        </button>
+      </form>
+      </div>   
+     <!--/Campo de busca--> 
+
+</header>
+
+  
+    <!--Apresentação das ofertas-->
+  <main>
+    <h1>Ofertas</h1>
+      <div id="ofertas">
+      
+      </div>
+
+      <div id="comprar"></div>
+  </main>          
+            
+          
+     <!-- Footer -->
+  <footer class=" text-center text-white" style="background-color:#20b2aa;">
+    <!-- Grid container -->
+    <div class="container p-4">
+
+
+      <!-- Section: Form -->
+      <section class="novidades">
+        <form action="">
+          <!--Grid row-->
+          <div class="row d-flex justify-content-center">
+            <!--Grid column-->
+            <div class="col-auto">
+              <p class="pt-2">
+                <strong>Cadastre-se para receber nossas novidades</strong>
+            
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-md-5 col-12">
+              <!-- Email input -->
+              <div class="form-outline form-white mb-4">
+                <input type="email" id="form5Example2" class="form-control" />
+                <label class="form-label" for="form5Example2">e-mail</label>
+              </div>
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-auto">
+
+              <!-- Submit button -->
+              <button type="submit" class="btn btn-outline-light mb-4">
+                Inscreva-se
+              </button>
+            </div>
+            <!--Grid column-->
+          </div>
+          <!--Grid row-->
+        </form>
+      </section>
+      <!-- Section: Form -->
+
+
+      <!-- Section: Text -->
+      <section class="conceito">
+        <h3>Seja Slow, Seja Fashion! </h3>
+        <p>Por um mundo mais Sustentável
+      </section>
+      <!-- Section: Text -->
+
+
+      <!-- Section: Links -->
+      <section class="">
+        <!--Grid row-->
+        <div class="row">
+          <!--Grid column-->
+          <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+          <a href="https://slowfashion.global/movement" target="_blank"> <h5 class="footer-slow-fashion">Saiba mais sobre o movimento Slow Fashion  no Mundo</h5> </a>
+        </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+          <a href="index-json.html" target="_self"> <h5 class="footer-home">Home</h5></a>
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+          <a href="tela-login.html" target="_self"> <h5 class="footer-login">Login</h5></a> 
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+            <a href="tela-login.html" target="_self"> <h5 class="footer-vendedor">Sou Vendedor</h5> </a>        
+          </div>
+          <!--Grid column-->
+        </div>
+        <!--Grid row-->
+      </section>
+      <!-- Section: Links -->
+
+    </div>
+    <!-- Grid container -->
+
+    <!-- Copyright -->
+    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
+      © Todos os direitos reservados:
+      <a class="text-white" href="index-json.html">ModaGreen</a>
+    </div>
+    <!-- Copyright -->
+
+  </footer>
+<!--/Footer -->
+    
+
+
+<!--Scripts-->
+   
+<!-- MDB -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.js"></script>
+
+<!--JavaScript-->
+<script src="produtos.js"></script>
+<script src="main.js"></script>
+<script src="fixos.js"></script>
+
+
+    
+</body>
+</html>
